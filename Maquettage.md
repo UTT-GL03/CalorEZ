@@ -40,4 +40,7 @@ Le profil centralise les informations propres à l'utilisateur : données person
 
 Cette interface détaille les apports en protéines, glucides et lipides. Des graphiques ou indicateurs de progression permettent de comparer les quantités consommées aux objectifs définis. L'objectif est de compléter le suivi calorique par une meilleure compréhension de l'équilibre alimentaire.
 
+**Quêtes (`/quest`)**
+
+La page des quêtes présente les objectifs journaliers et hebdomadaires proposés à l'utilisateur. Chaque quête possède une description, une condition de réalisation, un indicateur de progression et une récompense associée. Une fois une quête terminée, l'utilisateur peut récupérer la récompense correspondante.
 
