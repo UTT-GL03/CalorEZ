@@ -1,4 +1,5 @@
 **Analyse de la concurrence et modèle économique**
+
 Le marché du suivi nutritionnel comporte plusieurs offreurs, notamment MyFitnessPal et YAZIO. Ces services présentent des fonctionnalités communes, mais peuvent se différencier par leur positionnement, leurs outils de suivi, leur accompagnement et leur modèle économique.
 
 On peut notamment distinguer :
