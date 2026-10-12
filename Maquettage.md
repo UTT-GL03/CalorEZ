@@ -32,4 +32,12 @@ Cette page regroupe les recettes proposées par l'application. L'utilisateur peu
 **Fiche recette (`/recipe/{recipe_name}-token`)**
 
 Chaque recette dispose d'une page détaillée présentant les ingrédients, les quantités nécessaires, le temps de préparation, les étapes de réalisation et les informations nutritionnelles. Une estimation de l'impact environnemental peut compléter ces informations afin d'aider l'utilisateur à comparer différentes options alimentaires.
+**Profil (`/profile`)**
+
+Le profil centralise les informations propres à l'utilisateur : données personnelles utiles au suivi, objectifs nutritionnels, préférences alimentaires et progression. Il permet de personnaliser l'expérience en fonction des besoins de chacun.
+
+**Macronutriments (`/macro`)**
+
+Cette interface détaille les apports en protéines, glucides et lipides. Des graphiques ou indicateurs de progression permettent de comparer les quantités consommées aux objectifs définis. L'objectif est de compléter le suivi calorique par une meilleure compréhension de l'équilibre alimentaire.
+
 
