@@ -31,3 +31,5 @@ Cette page regroupe les recettes proposées par l'application. L'utilisateur peu
 
 **Fiche recette (`/recipe/{recipe_name}-token`)**
 
+Chaque recette dispose d'une page détaillée présentant les ingrédients, les quantités nécessaires, le temps de préparation, les étapes de réalisation et les informations nutritionnelles. Une estimation de l'impact environnemental peut compléter ces informations afin d'aider l'utilisateur à comparer différentes options alimentaires.
+
