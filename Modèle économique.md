@@ -11,6 +11,12 @@ Modèle économique de YAZIO
 
 Le modèle économique observé pour YAZIO repose sur une logique de freemium. Une version gratuite, financée notamment par la publicité, permet de découvrir l'application. Une version payante par abonnement donne accès à des fonctionnalités ou à des contenus supplémentaires et permet de supprimer les publicités.
 
+| **Service** | **Utilisateur gratuit** | **Abonné payant** |
+|---|---|---|
+| MyFitnessPal | Suivi des calories, publicités | Statistiques avancées, sans publicité |
+| YAZIO | Suivi alimentaire de base | Recettes et fonctionnalités premium |
+| CalorEZ | Suivi calorique, quêtes | Fonctionnalités avancées |
+
 Ce modèle constitue une piste pour CalorEZ, mais son adoption devra tenir compte du positionnement environnemental du projet. Il faudra notamment évaluer si les revenus publicitaires justifient la consommation de ressources supplémentaire et si un abonnement permettrait de financer le service tout en limitant le recours à la publicité.
 
 **Hypothèse de modèle économique pour CalorEZ**
