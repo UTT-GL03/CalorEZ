@@ -18,3 +18,16 @@ La route `/recipe/{recipe_name}-token` représente une route dynamique : le nom 
 
 
 Cette organisation vise à rendre l'application lisible et à limiter le nombre d'étapes nécessaires pour accéder aux fonctionnalités principales. Le maquettage devra également prendre en compte l'accessibilité, la lisibilité des informations nutritionnelles et la simplicité de navigation sur ordinateur comme sur mobile.
+
+### 2. Description des principales interfaces
+
+**Accueil (`/`)**
+
+L'accueil constitue le point d'entrée principal de CalorEZ. Il présente les informations essentielles de la journée : calories consommées, calories restantes par rapport à l'objectif, répartition des apports nutritionnels et progression des quêtes en cours. Des raccourcis permettent d'accéder rapidement à la liste des recettes, au suivi des macronutriments et aux quêtes.
+
+**Liste des recettes (`/recipe`)**
+
+Cette page regroupe les recettes proposées par l'application. L'utilisateur peut rechercher une recette et filtrer les résultats selon différents critères, tels que le type de repas, les ingrédients disponibles ou les objectifs nutritionnels. Les recettes peuvent également afficher des indicateurs environnementaux, notamment une estimation de leur empreinte carbone.
+
+**Fiche recette (`/recipe/{recipe_name}-token`)**
+
