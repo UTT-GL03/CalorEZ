@@ -141,3 +141,12 @@ Le nombre d'abonnements nécessaires pour couvrir le coût mensuel de référenc
 Il faudrait ainsi environ 679 abonnements payants actifs par mois pour couvrir ce seul coût de référence.
 
 Cette estimation constitue un premier ordre de grandeur, et non un seuil de rentabilité complet. Elle ne prend pas en compte les frais d'hébergement, les services externes, le développement, la maintenance, les commissions des plateformes, les taxes ou les autres dépenses d'exploitation. Elle suppose également que les revenus moyens calculés sont effectivement perçus pour chaque abonnement sur le mois considéré.
+
+
+# //TODO
+
+Prendre les mesures EcoIndex en dev puis en préprod, pour comprendre ce qui change. 
+Toujours faire en pré-prod, plus proche de la réalité 
+Voir qu'avec les fetch ça change pas grand chose
+ça changera une fois que serveur quand y'aura beaucoup de données, car envoi de larges dataset tout d'un coup
+Introduction des DB, qui permettent de n'envoyer que les données souhaitées plus précisément.
