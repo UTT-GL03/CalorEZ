@@ -1,25 +1,198 @@
 {
   "docs": [
     {
-      "_id": "user-b7afbc38-2de4-43e8-bf38-8f25a590dab3",
+      "_id": "user-12ffe83d-a78c-43df-8d96-7b40e7d6631d",
       "type": "user",
-      "pseudo": "Kathy84",
-      "email": "kathy.hollis@viewtopia.mobi",
-      "date_inscription": "2026-09-27",
-      "niveau": 22,
-      "xp": 14212,
-      "pieces": 165,
+      "pseudo": "Victoria31",
+      "email": "victoria.finn@connic.edu",
+      "date_inscription": "2025-09-21",
+      "niveau": 29,
+      "xp": 12517,
+      "pieces": 1792,
       "profil": {
-        "age": 37,
-        "poids_kg": 58,
-        "taille_cm": 170,
-        "regime_alimentaire": "Flexitarien",
+        "age": 21,
+        "poids_kg": 60,
+        "taille_cm": 165,
+        "regime_alimentaire": "Végétarien",
         "objectif": "Recomposition corporelle"
       },
       "objectifs_quotidiens": {
-        "calories_kcal": 1870,
-        "proteines_g": 127,
-        "glucides_g": 199,
+        "calories_kcal": 2705,
+        "proteines_g": 102,
+        "glucides_g": 316,
+        "lipides_g": 96
+      },
+      "preferences_alimentaires": [
+        "Sans lactose"
+
+      ],
+      "recettes_favorites": [
+        "recette-3826",
+"recette-7364",
+"recette-4881",
+"recette-5619",
+"recette-4930"
+
+      ]
+    },
+    {
+      "_id": "user-963dec10-0a1c-4db1-824d-4f97248c5b15",
+      "type": "user",
+      "pseudo": "Isabelle26",
+      "email": "isabelle.freeman@keycast.club",
+      "date_inscription": "2025-11-09",
+      "niveau": 17,
+      "xp": 1763,
+      "pieces": 3724,
+      "profil": {
+        "age": 44,
+        "poids_kg": 73,
+        "taille_cm": 158,
+        "regime_alimentaire": "Omnivore",
+        "objectif": "Perte de poids"
+      },
+      "objectifs_quotidiens": {
+        "calories_kcal": 2674,
+        "proteines_g": 152,
+        "glucides_g": 164,
+        "lipides_g": 75
+      },
+      "preferences_alimentaires": [
+        "Sans lactose",
+"Faible empreinte carbone"
+
+      ],
+      "recettes_favorites": [
+        "recette-3312",
+"recette-6297",
+"recette-1157",
+"recette-341"
+
+      ]
+    },
+    {
+      "_id": "user-7a8c40aa-d4c6-4980-874f-92c5f12a1727",
+      "type": "user",
+      "pseudo": "Juliana79",
+      "email": "juliana.finn@truext.gov",
+      "date_inscription": "2026-09-02",
+      "niveau": 7,
+      "xp": 13621,
+      "pieces": 3926,
+      "profil": {
+        "age": 35,
+        "poids_kg": 72,
+        "taille_cm": 179,
+        "regime_alimentaire": "Flexitarien",
+        "objectif": "Perte de poids"
+      },
+      "objectifs_quotidiens": {
+        "calories_kcal": 2037,
+        "proteines_g": 161,
+        "glucides_g": 150,
+        "lipides_g": 51
+      },
+      "preferences_alimentaires": [
+        
+      ],
+      "recettes_favorites": [
+        "recette-5279",
+"recette-2685",
+"recette-5618",
+"recette-2425",
+"recette-3804"
+
+      ]
+    },
+    {
+      "_id": "user-292b9c3f-3f62-4b37-b007-c8466793bffa",
+      "type": "user",
+      "pseudo": "Yuri19",
+      "email": "yuri.friedrich@polycore.gov",
+      "date_inscription": "2026-10-30",
+      "niveau": 14,
+      "xp": 16667,
+      "pieces": 1222,
+      "profil": {
+        "age": 18,
+        "poids_kg": 77,
+        "taille_cm": 170,
+        "regime_alimentaire": "Pescétarien",
+        "objectif": "Prise de masse"
+      },
+      "objectifs_quotidiens": {
+        "calories_kcal": 2163,
+        "proteines_g": 154,
+        "glucides_g": 220,
+        "lipides_g": 47
+      },
+      "preferences_alimentaires": [
+        "Faible empreinte carbone",
+"Faible empreinte carbone",
+"Sans lactose"
+
+      ],
+      "recettes_favorites": [
+        "recette-6033",
+"recette-8791",
+"recette-4601"
+
+      ]
+    },
+    {
+      "_id": "user-a9e1e8b0-83dc-4d8e-9a0f-5315ed98bd21",
+      "type": "user",
+      "pseudo": "Maisha81",
+      "email": "maisha.higgins@openserv.name",
+      "date_inscription": "2026-05-21",
+      "niveau": 10,
+      "xp": 6169,
+      "pieces": 2976,
+      "profil": {
+        "age": 30,
+        "poids_kg": 64,
+        "taille_cm": 174,
+        "regime_alimentaire": "Végan",
+        "objectif": "Perte de poids"
+      },
+      "objectifs_quotidiens": {
+        "calories_kcal": 2362,
+        "proteines_g": 70,
+        "glucides_g": 250,
+        "lipides_g": 94
+      },
+      "preferences_alimentaires": [
+        "Sans lactose",
+"Produits de saison"
+
+      ],
+      "recettes_favorites": [
+        "recette-1097",
+"recette-6363",
+"recette-58"
+
+      ]
+    },
+    {
+      "_id": "user-13232171-a9fb-4d58-996c-7090064ad87f",
+      "type": "user",
+      "pseudo": "Madeleine55",
+      "email": "madeleine.carter@britech.com",
+      "date_inscription": "2026-04-10",
+      "niveau": 30,
+      "xp": 15455,
+      "pieces": 1794,
+      "profil": {
+        "age": 30,
+        "poids_kg": 78,
+        "taille_cm": 158,
+        "regime_alimentaire": "Pescétarien",
+        "objectif": "Prise de masse"
+      },
+      "objectifs_quotidiens": {
+        "calories_kcal": 2325,
+        "proteines_g": 122,
+        "glucides_g": 326,
         "lipides_g": 51
       },
       "preferences_alimentaires": [
@@ -27,1889 +200,1339 @@
 
       ],
       "recettes_favorites": [
-        "recette-4941",
-"recette-7657",
-"recette-2296"
-
-      ]
-    },
-    {
-      "_id": "user-0612edf7-bce8-43b2-883f-824e00a46615",
-      "type": "user",
-      "pseudo": "Raymond71",
-      "email": "raymond.carroll@seelogic.co",
-      "date_inscription": "2026-03-09",
-      "niveau": 11,
-      "xp": 6399,
-      "pieces": 4302,
-      "profil": {
-        "age": 30,
-        "poids_kg": 60,
-        "taille_cm": 160,
-        "regime_alimentaire": "Flexitarien",
-        "objectif": "Prise de masse"
-      },
-      "objectifs_quotidiens": {
-        "calories_kcal": 2883,
-        "proteines_g": 80,
-        "glucides_g": 180,
-        "lipides_g": 62
-      },
-      "preferences_alimentaires": [
-        
-      ],
-      "recettes_favorites": [
-        "recette-8935",
-"recette-1585",
-"recette-5042",
-"recette-6417"
-
-      ]
-    },
-    {
-      "_id": "user-f0d3a185-4800-4d3a-8ae8-6e80af2a5f25",
-      "type": "user",
-      "pseudo": "Hannah97",
-      "email": "hannah.seabury@corexts.org",
-      "date_inscription": "2025-09-13",
-      "niveau": 21,
-      "xp": 2949,
-      "pieces": 4368,
-      "profil": {
-        "age": 34,
-        "poids_kg": 83,
-        "taille_cm": 158,
-        "regime_alimentaire": "Omnivore",
-        "objectif": "Recomposition corporelle"
-      },
-      "objectifs_quotidiens": {
-        "calories_kcal": 2422,
-        "proteines_g": 97,
-        "glucides_g": 275,
-        "lipides_g": 50
-      },
-      "preferences_alimentaires": [
-        "Faible empreinte carbone",
-"Sans lactose",
-"Sans gluten"
-
-      ],
-      "recettes_favorites": [
-        "recette-40"
-
-      ]
-    },
-    {
-      "_id": "user-e205bfcd-3631-4b3c-bd77-08f17fd984c5",
-      "type": "user",
-      "pseudo": "Emma36",
-      "email": "emma.brier@smartsystems.info",
-      "date_inscription": "2026-09-11",
-      "niveau": 19,
-      "xp": 18882,
-      "pieces": 2977,
-      "profil": {
-        "age": 41,
-        "poids_kg": 80,
-        "taille_cm": 179,
-        "regime_alimentaire": "Végétarien",
-        "objectif": "Recomposition corporelle"
-      },
-      "objectifs_quotidiens": {
-        "calories_kcal": 2718,
-        "proteines_g": 114,
-        "glucides_g": 304,
-        "lipides_g": 67
-      },
-      "preferences_alimentaires": [
-        "Sans gluten"
-
-      ],
-      "recettes_favorites": [
-        "recette-323",
-"recette-8634",
-"recette-4068",
-"recette-8972"
-
-      ]
-    },
-    {
-      "_id": "user-300018e3-b2cb-41ac-9252-f2f501a6b401",
-      "type": "user",
-      "pseudo": "Isabelle54",
-      "email": "isabelle.smit@nitrocam.biz",
-      "date_inscription": "2026-01-24",
-      "niveau": 4,
-      "xp": 3415,
-      "pieces": 3895,
-      "profil": {
-        "age": 33,
-        "poids_kg": 59,
-        "taille_cm": 159,
-        "regime_alimentaire": "Flexitarien",
-        "objectif": "Maintien"
-      },
-      "objectifs_quotidiens": {
-        "calories_kcal": 2125,
-        "proteines_g": 76,
-        "glucides_g": 216,
-        "lipides_g": 81
-      },
-      "preferences_alimentaires": [
-        "Sans gluten",
-"Sans lactose"
-
-      ],
-      "recettes_favorites": [
-        "recette-9580",
-"recette-5404"
+        "recette-2214",
+"recette-5128",
+"recette-7859",
+"recette-3986"
 
       ]
     }
 ,
     {
-      "_id": "recette-06a063ba-88dc-494c-9964-22ec3ee30d56",
+      "_id": "recette-7787967d-bfa7-474c-9562-e21c5e21759d",
       "type": "recette",
-      "nom": "Pain perdu",
-      "categorie": "Petit-déjeuner",
-      "saison_recommandee": "Été",
+      "nom": "Gaspacho tomate poivron",
+      "categorie": "Plat principal",
+      "saison_recommandee": "Automne",
       "regime_compatible": [
-        "Végétarien"
-
-      ],
-      "temps_preparation_min": 32,
-      "portions": 3,
-      "difficulte": 1,
-      "ingredients": [
-        {
-          "nom": "Menthe",
-          "quantite": 236,
-          "unite": "cas"
-        },
-        {
-          "nom": "Betterave",
-          "quantite": 130,
-          "unite": "cac"
-        },
-        {
-          "nom": "Épinards",
-          "quantite": 112,
-          "unite": "cac"
-        },
-        {
-          "nom": "Boulgour",
-          "quantite": 336,
-          "unite": "cac"
-        },
-        {
-          "nom": "Pois chiches",
-          "quantite": 141,
-          "unite": "cas"
-        },
-        {
-          "nom": "Échalote",
-          "quantite": 246,
-          "unite": "cac"
-        },
-        {
-          "nom": "Pomme",
-          "quantite": 135,
-          "unite": "g"
-        }
-      ],
-      "etapes": [
-        "Mi lacinia sollicitudin dignissim nunc vehicula ut en, it aliquet lacinia proin cursus dui vulputate iaculis, facilisis o viverra ali, euismod nunc facilisis hendrerit augue vel posuere ipsum.",
-"Bibendum mi sapien nisi commodo lacinia auctor condimentum lectus ut mollis sapien lacus.",
-"Lobortis lacus augue leo tempus turpis. Donec viverra tempus in vehicula quisque pellentesque pellentesque purus et purus id adipiscing amet sollicitudin enim magna, vulputate gravida aliquam sapien e porttitor, imperdiet ali e mattis, sed en justo etiam magna.",
-"Au aliquam dia velit ut eu, elementum elit porttitor viverra nibh sem dignissim. Non eros vestibulum non. Etiam o sollicitudin sapien elementum. Nam eget quis mollis justo.",
-"Suscipit maecenas vulputate lacinia felis gravida massa risus. Consectetur augue accumsan lectus lectus o etiam lacus sapien."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 811,
-        "proteines_g": 7,
-        "glucides_g": 17,
-        "lipides_g": 5,
-        "fibres_g": 8
-      },
-      "empreinte_carbone_kg_co2e": 0.5,
-      "de_saison": false,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-bed4677d-854c-498e-b9a1-f461f0f400c0",
-      "type": "recette",
-      "nom": "Riz au lait",
-      "categorie": "Collation",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Végan",
-"Végan",
+        "Végétarien",
 "Végétarien"
 
       ],
-      "temps_preparation_min": 71,
+      "temps_preparation_min": 84,
+      "portions": 2,
+      "difficulte": 1,
+      "ingredients": [
+        {
+          "nom": "Tomate",
+          "quantite": 134,
+          "unite": "cac"
+        },
+        {
+          "nom": "Œuf",
+          "quantite": 133,
+          "unite": "g"
+        },
+        {
+          "nom": "Tomate",
+          "quantite": 303,
+          "unite": "g"
+        },
+        {
+          "nom": "Moutarde",
+          "quantite": 258,
+          "unite": "cas"
+        },
+        {
+          "nom": "Banane",
+          "quantite": 287,
+          "unite": "g"
+        },
+        {
+          "nom": "Pois chiches",
+          "quantite": 234,
+          "unite": "g"
+        },
+        {
+          "nom": "Tofu ferme",
+          "quantite": 345,
+          "unite": "ml"
+        },
+        {
+          "nom": "Aubergine",
+          "quantite": 208,
+          "unite": "cas"
+        }
+      ],
+      "etapes": [
+        "Consectetur lacinia mauris sagittis turpis donec gravida, cit gravida ex lacus.",
+"Elementum at iaculis imperdiet lobortis, sed maecenas suscipit aenean ultricies laoreet a est etiam cursus metus tristique vestibulum, non elementum scelerisque a non ornare in ligula augue non lum, sed aliquam o scelerisque, nisi tem aliquet pulvinar.",
+"Sed cit orci cras commodo risus pellentesque e eget pharetra it pretium mollis.",
+"It pharetra vestibulum erat at euismod euismod. Lacus turpis finibus dia aliquam in, con cit dignissim viverra, cit ac consequat massa nibh.",
+"Vestibulum vel ex e cit lacinia pellentesque. Euismod pharetra sem lorem in elementum. Accumsan natoque ipsum amet morbi eu ac sem mi ornare nulla mattis eu, laoreet condimentum faucibus.",
+"Ac au scelerisque lobortis felis aenean mi orci ut scelerisque tem lacinia, vel pulvinar pretium vestibulum placerat el.",
+"Velit vestibulum dictum lobortis ornare tortor adipiscing. I aenean natoque condimentum o facilisis ultrices sit. Ex consequat lectus pellentesque placerat tempus pellentesque. Dolor nunc e scelerisque, erat nulla blandit."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 591,
+        "proteines_g": 10,
+        "glucides_g": 64,
+        "lipides_g": 30,
+        "fibres_g": 6
+      },
+      "empreinte_carbone_kg_co2e": 2.6,
+      "de_saison": false,
+      "ingredient_local_bio": false
+    },
+    {
+      "_id": "recette-3bf8ffd8-c534-4eb9-ab24-36282777e94c",
+      "type": "recette",
+      "nom": "Clafoutis aux cerises",
+      "categorie": "Plat principal",
+      "saison_recommandee": "Automne",
+      "regime_compatible": [
+        "Végétarien",
+"Sans lactose",
+"Végétarien"
+
+      ],
+      "temps_preparation_min": 54,
       "portions": 4,
       "difficulte": 1,
       "ingredients": [
         {
-          "nom": "Quinoa",
-          "quantite": 211,
-          "unite": "g"
+          "nom": "Pois chiches",
+          "quantite": 281,
+          "unite": "cac"
         },
         {
-          "nom": "Menthe",
-          "quantite": 10,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Farine de sarrasin",
-          "quantite": 150,
-          "unite": "ml"
-        },
-        {
-          "nom": "Citron",
-          "quantite": 249,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Quinoa",
-          "quantite": 24,
+          "nom": "Crème légère",
+          "quantite": 364,
           "unite": "cas"
+        },
+        {
+          "nom": "Miel",
+          "quantite": 175,
+          "unite": "cas"
+        },
+        {
+          "nom": "Pâtes complètes",
+          "quantite": 14,
+          "unite": "cas"
+        },
+        {
+          "nom": "Ail",
+          "quantite": 345,
+          "unite": "cac"
         }
       ],
       "etapes": [
-        "Lacinia condimentum commodo gravida etiam. Faucibus eget suscipit.",
-"Orci eti neque iaculis elementum suscipit maecenas maximus. Sapien massa ali est, eros pellentesque vel sit.",
-"Consequat bibendum ornare metus mattis maximus ali, mattis nulla pretium accumsan bibendum pulvinar.",
-"Gravida ultricies eget sapien mi commodo. Hendrerit dia sem dolor. Sem en posuere ipsum, ut donec justo accumsan dia a lacinia. Diam enim placerat porttitor amet ornare suscipit.",
-"Vulputate metus ipsum pharetra nulla ipsum elit, pretium dictum lacinia aenean natoque etiam donec.",
-"Ut lorem laoreet sapien vel posuere, sed e turpis diam dui at suscipit cit curabitur, vel it consequat.",
-"Augue tempor auctor justo placerat tempor facilisis imperdiet, erat amet dignissim natoque ultrices sit orci.",
-"Facilisis tincidunt cras velit erat o dignissim. Etiam dolor consequat vehicula lacinia lum, cras blandit morbi erat vel eros euismod ex ornare pharetra aliquam sodales adipiscing vestibulum mi, pulvinar maecenas nisi."
+        "Risus magna felis massa e sapien. Placerat nisl sapien commodo, turpis augue dictum lectus auctor. Scelerisque diam sem iaculis. Purus faucibus donec ultricies metus.",
+"Tortor cras o donec elementum. Sem consectetur ultricies neque hendrerit consectetur tristique diam, ultricies purus adipiscing magna at bibendum consequat en bibendum. Consequat adipiscing imperdiet erat quisque.",
+"Condimentum iaculis dictum nulla dia, ligula ligula placerat ultricies. Elementum donec et sagittis viverra nisi.",
+"Nibh laoreet sem vulputate non ipsum. Metus leo viverra commodo lectus dui massa vulputate nunc nisl proin. Leo etiam tem rhoncus. Ipsum sollicitudin eti lobortis it, turpis vitae tempus amet, augue lectus tristique cras.",
+"Ante imperdiet arcu nunc sollicitudin turpis, sodales eros tempor euismod.",
+"Lacus donec massa ali maecenas elementum accumsan in ex suscipit pulvinar massa ultrices, diam elit aenean finibus, cras est a sapien, velit sollicitudin lorem nibh aliquam et."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 649,
-        "proteines_g": 22,
-        "glucides_g": 36,
-        "lipides_g": 25,
-        "fibres_g": 2
+        "calories_kcal": 753,
+        "proteines_g": 23,
+        "glucides_g": 57,
+        "lipides_g": 18,
+        "fibres_g": 6
       },
-      "empreinte_carbone_kg_co2e": 1.2,
+      "empreinte_carbone_kg_co2e": 1.3,
       "de_saison": true,
       "ingredient_local_bio": true
     },
     {
-      "_id": "recette-9b1878f6-5411-488b-b498-7e45d810ee30",
+      "_id": "recette-86a19d89-2513-46a5-9b25-6dfb9cc0f2e5",
       "type": "recette",
-      "nom": "Bolognèse végétale aux lentilles",
+      "nom": "Soupe de pois cassés",
+      "categorie": "Dessert",
+      "saison_recommandee": "Hiver",
+      "regime_compatible": [
+        "Végan",
+"Sans lactose"
+
+      ],
+      "temps_preparation_min": 34,
+      "portions": 6,
+      "difficulte": 3,
+      "ingredients": [
+        {
+          "nom": "Tomate",
+          "quantite": 293,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Œuf",
+          "quantite": 276,
+          "unite": "cac"
+        },
+        {
+          "nom": "Poivron",
+          "quantite": 167,
+          "unite": "cac"
+        },
+        {
+          "nom": "Citron",
+          "quantite": 92,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Épinards",
+          "quantite": 11,
+          "unite": "g"
+        }
+      ],
+      "etapes": [
+        "Maecenas con lacinia i id. Natoque placerat suscipit enim hendrerit gravida et en etiam metus purus massa in consequat dui arcu.",
+"Tempor ultricies aliquam vestibulum lacinia augue. El auctor arcu nisi commodo finibus, vel consectetur ultricies porttitor eget tem gravida. Dictum ultrices maximus nunc amet. Commodo curabitur neque mollis velit. Lorem eget cras sapien au posuere.",
+"Etiam lorem id consequat o tortor con, maximus ac massa massa lorem nibh. Mauris finibus eros natoque consequat nisl velit diam.",
+"Nulla dignissim vulputate eros mattis dolor consectetur lorem at vestibulum. Sed ligula ali est a lacinia. Sed vehicula proin viverra i. Gravida ex est facilisis.",
+"Vestibulum proin consequat i i diam eget erat, non elementum au ultrices. Tempus nisi cit morbi neque sit i lacinia neque felis. Placerat sit ali.",
+"U donec aenean felis nisl. It fringilla lacinia maximus, scelerisque in sed tempus risus faucibus hendrerit tincidunt, pulvinar natoque ali diam metus au neque. Quis elementum ac id, lacinia sit justo aliquam vestibulum."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 528,
+        "proteines_g": 9,
+        "glucides_g": 50,
+        "lipides_g": 7,
+        "fibres_g": 12
+      },
+      "empreinte_carbone_kg_co2e": 0.8,
+      "de_saison": false,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-6f3b3c9a-5a93-4609-bbb3-c2f42a164245",
+      "type": "recette",
+      "nom": "Lasagnes aux épinards",
+      "categorie": "Dessert",
+      "saison_recommandee": "Automne",
+      "regime_compatible": [
+        "Sans gluten"
+
+      ],
+      "temps_preparation_min": 8,
+      "portions": 2,
+      "difficulte": 1,
+      "ingredients": [
+        {
+          "nom": "Flocons d'avoine",
+          "quantite": 149,
+          "unite": "cac"
+        },
+        {
+          "nom": "Lentilles corail",
+          "quantite": 294,
+          "unite": "ml"
+        },
+        {
+          "nom": "Poireau",
+          "quantite": 65,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Crème légère",
+          "quantite": 356,
+          "unite": "cac"
+        }
+      ],
+      "etapes": [
+        "Sem con mauris curabitur imperdiet dignissim sollicitudin elementum turpis a, lacinia et en arcu sodales neque. Vestibulum facilisis euismod eget it, consectetur risus sit commodo curabitur morbi mauris. Tristique euismod elementum laoreet sed faucibus en ligula neque.",
+"Cras nisi eros sapien enim purus eget, aenean nulla eu et nisi risus mollis gravida consequat felis. Suscipit sollicitudin ipsum etiam. Tortor diam dia i, vulputate donec it nisl.",
+"Ac augue morbi dui nulla metus non turpis pellentesque.",
+"E enim cras et quisque u. Ac dia el pretium. Porttitor morbi erat ligula magna.",
+"Id maecenas maximus dui en laoreet, enim quisque mauris scelerisque amet augue amet. Mattis viverra ligula consectetur ac sem.",
+"Nulla sollicitudin metus nam eti tincidunt ipsum aenean cit augue accumsan at.",
+"Lacinia nunc lacinia quisque etiam. Ante dia pharetra nibh consectetur cras ligula facilisis mi cit lacinia tristique. Iaculis dolor placerat posuere, mauris massa lacinia vestibulum gravida sollicitudin mi. Viverra cras nam consectetur viverra en tincidunt finibus lacus."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 710,
+        "proteines_g": 28,
+        "glucides_g": 51,
+        "lipides_g": 10,
+        "fibres_g": 5
+      },
+      "empreinte_carbone_kg_co2e": 0.7,
+      "de_saison": false,
+      "ingredient_local_bio": false
+    },
+    {
+      "_id": "recette-2757d0ae-fee0-4470-9250-d769ef66c4ec",
+      "type": "recette",
+      "nom": "Tofu au gingembre",
       "categorie": "Collation",
       "saison_recommandee": "Hiver",
+      "regime_compatible": [
+        "Sans lactose",
+"Sans lactose",
+"Végétarien"
+
+      ],
+      "temps_preparation_min": 71,
+      "portions": 1,
+      "difficulte": 2,
+      "ingredients": [
+        {
+          "nom": "Pois chiches",
+          "quantite": 281,
+          "unite": "cac"
+        },
+        {
+          "nom": "Pois chiches",
+          "quantite": 30,
+          "unite": "g"
+        },
+        {
+          "nom": "Courgette",
+          "quantite": 327,
+          "unite": "cas"
+        },
+        {
+          "nom": "Tofu ferme",
+          "quantite": 276,
+          "unite": "g"
+        },
+        {
+          "nom": "Poireau",
+          "quantite": 271,
+          "unite": "cas"
+        },
+        {
+          "nom": "Persil",
+          "quantite": 43,
+          "unite": "cac"
+        }
+      ],
+      "etapes": [
+        "Hendrerit dictum maximus arcu augue vehicula tempus sagittis, lacinia ornare aliquam sed cursus en. Commodo metus pretium ipsum, maecenas dui euismod posuere tempor mi.",
+"Maecenas pharetra condimentum nunc dignissim leo tortor proin ultrices ipsum auctor, rhoncus sollicitudin consectetur tincidunt dolor ut eget sagittis proin.",
+"El massa mauris donec ut, aliquet it consequat dui e non.",
+"Quisque vulputate leo augue non maximus tempor etiam quisque vehicula aenean lacinia tempus augue tristique u. Dignissim tortor orci orci. Neque vehicula nam massa sapien. Dictum quisque tristique elementum nam con. Orci pharetra con consectetur tempor mi.",
+"Maecenas imperdiet consequat ipsum nam risus natoque vulputate hendrerit in nunc au. Sed tortor lum tincidunt velit mauris quisque.",
+"Nisi nibh vehicula ex pretium elementum sem. Pellentesque iaculis ac.",
+"Quis etiam orci arcu pharetra quisque pellentesque. Ultricies vitae pretium justo a felis."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 433,
+        "proteines_g": 41,
+        "glucides_g": 9,
+        "lipides_g": 2,
+        "fibres_g": 7
+      },
+      "empreinte_carbone_kg_co2e": 1.7,
+      "de_saison": false,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-d8545045-c2ed-4270-8994-442649cb3d72",
+      "type": "recette",
+      "nom": "Gratin dauphinois",
+      "categorie": "Plat principal",
+      "saison_recommandee": "Automne",
+      "regime_compatible": [
+        "Sans gluten",
+"Végan",
+"Sans lactose"
+
+      ],
+      "temps_preparation_min": 63,
+      "portions": 2,
+      "difficulte": 2,
+      "ingredients": [
+        {
+          "nom": "Huile d'olive",
+          "quantite": 217,
+          "unite": "cas"
+        },
+        {
+          "nom": "Riz complet",
+          "quantite": 316,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Lentilles corail",
+          "quantite": 379,
+          "unite": "cas"
+        },
+        {
+          "nom": "Citron",
+          "quantite": 334,
+          "unite": "ml"
+        },
+        {
+          "nom": "Tofu ferme",
+          "quantite": 276,
+          "unite": "cac"
+        },
+        {
+          "nom": "Courge butternut",
+          "quantite": 218,
+          "unite": "g"
+        }
+      ],
+      "etapes": [
+        "Bibendum con ornare dui eros, tem natoque it vitae lorem tempor.",
+"Velit sit e fringilla lectus purus lobortis. Porttitor erat mollis at pretium massa au. Justo consequat mi lacinia. Lacus ac vestibulum el, id etiam euismod quisque sit ipsum accumsan.",
+"Ultrices blandit tincidunt nibh vitae tristique augue. Ut lacus felis ornare cit sollicitudin con, felis ultricies maximus ex, mollis it scelerisque elit tincidunt. Nisi aenean ali tristique mollis bibendum facilisis eros."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 500,
+        "proteines_g": 14,
+        "glucides_g": 27,
+        "lipides_g": 9,
+        "fibres_g": 6
+      },
+      "empreinte_carbone_kg_co2e": 3.2,
+      "de_saison": true,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-8c82a943-1f13-4e1f-ad69-055b09e6ea2c",
+      "type": "recette",
+      "nom": "Smoothie vert",
+      "categorie": "Dessert",
+      "saison_recommandee": "Été",
+      "regime_compatible": [
+        "Végan",
+"Sans gluten",
+"Végétarien"
+
+      ],
+      "temps_preparation_min": 21,
+      "portions": 2,
+      "difficulte": 1,
+      "ingredients": [
+        {
+          "nom": "Poivron",
+          "quantite": 59,
+          "unite": "cac"
+        },
+        {
+          "nom": "Betterave",
+          "quantite": 324,
+          "unite": "cac"
+        },
+        {
+          "nom": "Pâtes complètes",
+          "quantite": 108,
+          "unite": "cas"
+        }
+      ],
+      "etapes": [
+        "Eu scelerisque faucibus nam vehicula. Proin ut ornare pharetra.",
+"Eros lum nunc e blandit hendrerit vitae est. El neque sem nibh elit el. Non rhoncus gravida sagittis. A massa suscipit iaculis metus diam lectus lectus. Bibendum arcu accumsan lectus est dictum curabitur.",
+"Faucibus massa purus dolor curabitur sem arcu nisl laoreet mattis eti vulputate au. Blandit aliquet tristique consectetur tincidunt leo. Donec leo elit tortor. Eget hendrerit accumsan.",
+"Ex purus bibendum eu lacus felis risus suscipit au placerat, auctor elit id ac nam nibh nisi mattis. Vitae eu u vel eros con. Euismod ante adipiscing non vel aenean.",
+"Pellentesque augue justo purus en. Rhoncus ali dolor sem, con ali adipiscing sem, nunc morbi sollicitudin en. Proin sollicitudin id pulvinar ipsum. Dignissim mi lum tristique nisi elementum proin magna."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 216,
+        "proteines_g": 29,
+        "glucides_g": 21,
+        "lipides_g": 29,
+        "fibres_g": 7
+      },
+      "empreinte_carbone_kg_co2e": 2.0,
+      "de_saison": false,
+      "ingredient_local_bio": false
+    },
+    {
+      "_id": "recette-54379d57-e9ba-4578-9af0-1a98e36c9be7",
+      "type": "recette",
+      "nom": "Omelette aux herbes",
+      "categorie": "Entrée",
+      "saison_recommandee": "Été",
+      "regime_compatible": [
+        "Sans lactose"
+
+      ],
+      "temps_preparation_min": 63,
+      "portions": 1,
+      "difficulte": 3,
+      "ingredients": [
+        {
+          "nom": "Lentilles corail",
+          "quantite": 261,
+          "unite": "g"
+        },
+        {
+          "nom": "Pomme de terre",
+          "quantite": 138,
+          "unite": "cas"
+        },
+        {
+          "nom": "Basilic frais",
+          "quantite": 295,
+          "unite": "ml"
+        },
+        {
+          "nom": "Carotte",
+          "quantite": 108,
+          "unite": "g"
+        }
+      ],
+      "etapes": [
+        "Mi dia magna lobortis i cit magna, consequat facilisis scelerisque el leo natoque. Proin pretium erat ornare cras tortor morbi, vitae dia pellentesque maecenas.",
+"Quis erat lobortis leo curabitur sit sodales. Eget o est it. Eu elit sem arcu lum eros u vitae purus placerat diam.",
+"Ornare mattis leo morbi sit nunc placerat. Tempus ut ultrices mi bibendum."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 481,
+        "proteines_g": 36,
+        "glucides_g": 51,
+        "lipides_g": 5,
+        "fibres_g": 2
+      },
+      "empreinte_carbone_kg_co2e": 1.2,
+      "de_saison": true,
+      "ingredient_local_bio": false
+    },
+    {
+      "_id": "recette-d8337e40-fed6-42c7-a960-5f760aa1830c",
+      "type": "recette",
+      "nom": "Pâtes au pesto de basilic",
+      "categorie": "Entrée",
+      "saison_recommandee": "Printemps",
+      "regime_compatible": [
+        "Végétarien",
+"Végétarien",
+"Sans lactose"
+
+      ],
+      "temps_preparation_min": 90,
+      "portions": 2,
+      "difficulte": 1,
+      "ingredients": [
+        {
+          "nom": "Lentilles corail",
+          "quantite": 69,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Pâtes complètes",
+          "quantite": 160,
+          "unite": "cas"
+        },
+        {
+          "nom": "Crème légère",
+          "quantite": 254,
+          "unite": "g"
+        },
+        {
+          "nom": "Miel",
+          "quantite": 146,
+          "unite": "cac"
+        },
+        {
+          "nom": "Pâtes complètes",
+          "quantite": 379,
+          "unite": "cas"
+        },
+        {
+          "nom": "Tomate",
+          "quantite": 369,
+          "unite": "cas"
+        }
+      ],
+      "etapes": [
+        "Tempus sapien sapien nisi tincidunt laoreet dui mi scelerisque rhoncus rhoncus, purus metus ipsum auctor consectetur.",
+"Est dolor in scelerisque massa ac en. Aenean lectus adipiscing sit sodales blandit ultrices enim, viverra purus nam placerat elit purus turpis en maecenas mattis lum.",
+"Gravida justo nunc i faucibus accumsan leo dignissim. Curabitur proin tem in lacus arcu mauris nam consequat dictum.",
+"Aliquet pretium donec lacinia ultricies dignissim vitae vulputate non sagittis maximus. Ultricies purus el eti imperdiet vitae. Bibendum posuere orci id turpis sagittis turpis, imperdiet orci tempor dui ali. Viverra lorem pharetra elementum.",
+"Pharetra imperdiet adipiscing arcu iaculis. E et velit est. Orci auctor sit e.",
+"Elementum velit morbi vel nibh commodo. Arcu nisl lacinia magna sollicitudin gravida, tempus porttitor quis amet pulvinar elit mauris. Donec arcu ornare aliquet. Laoreet tortor bibendum posuere sagittis dignissim cursus nunc id.",
+"Vestibulum lacinia nam nibh en ultricies leo quis. Iaculis it vulputate arcu diam porttitor. Blandit dolor scelerisque pellentesque. Ultricies pulvinar id placerat cras. Euismod et lacinia hendrerit ultrices adipiscing en facilisis vitae. Ultrices vestibulum amet donec cursus."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 538,
+        "proteines_g": 13,
+        "glucides_g": 17,
+        "lipides_g": 11,
+        "fibres_g": 12
+      },
+      "empreinte_carbone_kg_co2e": 0.3,
+      "de_saison": true,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-106f8767-6859-49f9-ba4b-354c9ccc4f70",
+      "type": "recette",
+      "nom": "Moussaka légère",
+      "categorie": "Entrée",
+      "saison_recommandee": "Automne",
       "regime_compatible": [
         "Sans gluten",
 "Végétarien"
 
       ],
-      "temps_preparation_min": 77,
-      "portions": 4,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Œuf",
-          "quantite": 302,
-          "unite": "cac"
-        },
-        {
-          "nom": "Betterave",
-          "quantite": 222,
-          "unite": "cas"
-        },
-        {
-          "nom": "Moutarde",
-          "quantite": 49,
-          "unite": "cas"
-        },
-        {
-          "nom": "Chèvre frais",
-          "quantite": 225,
-          "unite": "cas"
-        }
-      ],
-      "etapes": [
-        "Quisque pretium leo vitae eti. Vehicula cursus sapien felis nisi lobortis lobortis nam ornare orci u vel laoreet, ipsum iaculis aliquam lacus, lectus el ex faucibus. Lectus mi neque cursus.",
-"Facilisis neque maecenas ornare o pulvinar scelerisque dui iaculis, rhoncus amet tortor porttitor augue mi eu fringilla tempor e o au felis, donec fringilla it etiam faucibus en dignissim orci cras lobortis facilisis laoreet ex tortor.",
-"Arcu tortor hendrerit pulvinar cit sed suscipit viverra elit. Dignissim a scelerisque purus fringilla. I sed sollicitudin aliquet lacinia. Ultrices vel donec suscipit leo, elit ante velit euismod mauris pellentesque pulvinar orci est finibus hendrerit gravida. Est lacus adipiscing.",
-"Proin purus ornare fringilla dolor eros eti dui porttitor ipsum. Aliquet vestibulum accumsan mi con. Sit quisque faucibus vehicula posuere."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 580,
-        "proteines_g": 17,
-        "glucides_g": 6,
-        "lipides_g": 25,
-        "fibres_g": 8
-      },
-      "empreinte_carbone_kg_co2e": 3.0,
-      "de_saison": true,
-      "ingredient_local_bio": false
-    },
-    {
-      "_id": "recette-6d8b2ea2-608c-4095-84a9-dda3dc00d14d",
-      "type": "recette",
-      "nom": "Poulet rôti aux légumes racines",
-      "categorie": "Petit-déjeuner",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Végan",
-"Sans gluten"
-
-      ],
-      "temps_preparation_min": 73,
+      "temps_preparation_min": 39,
       "portions": 4,
       "difficulte": 3,
       "ingredients": [
         {
-          "nom": "Boulgour",
-          "quantite": 174,
-          "unite": "cac"
+          "nom": "Tomate",
+          "quantite": 252,
+          "unite": "g"
         },
         {
-          "nom": "Coco",
-          "quantite": 393,
+          "nom": "Pâtes complètes",
+          "quantite": 342,
+          "unite": "cas"
+        },
+        {
+          "nom": "Betterave",
+          "quantite": 302,
+          "unite": "cas"
+        },
+        {
+          "nom": "Moutarde",
+          "quantite": 15,
+          "unite": "g"
+        },
+        {
+          "nom": "Échalote",
+          "quantite": 238,
+          "unite": "cas"
+        },
+        {
+          "nom": "Champignons de Paris",
+          "quantite": 291,
           "unite": "ml"
         },
         {
-          "nom": "Carotte",
-          "quantite": 304,
-          "unite": "cas"
-        },
-        {
-          "nom": "Citron",
-          "quantite": 349,
-          "unite": "cas"
-        },
-        {
-          "nom": "Oignon",
-          "quantite": 201,
+          "nom": "Filet de saumon",
+          "quantite": 50,
           "unite": "cac"
         }
       ],
       "etapes": [
-        "I tempor sapien iaculis placerat. Ali gravida auctor turpis lectus. Commodo eu tem id. A purus vestibulum turpis eros. Id imperdiet vehicula dictum laoreet. Maecenas laoreet a ipsum. Eget vehicula euismod curabitur.",
-"Pharetra condimentum consectetur lobortis ligula tincidunt. Tempus auctor en natoque, mollis eu pharetra nulla dui nam felis gravida nisi nisi eros dictum.",
-"Cursus aliquet nulla amet velit. Purus aenean a turpis eti, sollicitudin sollicitudin nisl el pellentesque mauris scelerisque diam. Lorem aliquam lum ligula. Sodales lorem mollis accumsan augue rhoncus eget imperdiet. Sem it au.",
-"Ali scelerisque erat aliquet ac turpis orci gravida morbi tincidunt mauris cursus. Faucibus sapien maximus lobortis nulla. Euismod dui velit vestibulum arcu purus gravida lectus ex, consectetur donec placerat sed tristique lectus felis, tincidunt maximus faucibus dictum vestibulum massa mattis.",
-"Etiam pharetra a augue erat auctor. Mauris lacinia neque commodo au faucibus. Pretium metus pretium.",
-"Au ligula mollis dignissim ut lacinia sagittis. Justo in curabitur eu turpis accumsan aenean, enim purus justo mattis nibh elementum pellentesque maecenas quisque, at faucibus maximus condimentum eti augue o. Non aliquam tem.",
-"Hendrerit vestibulum dia diam curabitur amet commodo. Donec mollis lacinia id. Est consequat bibendum i. Sit tincidunt sapien con felis quisque quisque, mollis adipiscing lacinia in. Dignissim it facilisis eu sagittis. Orci el dignissim.",
-"Lectus donec suscipit neque suscipit a dia maximus sagittis et cit. In euismod porttitor orci i. Posuere tristique tem massa sem scelerisque consectetur et lacus it. Aliquam facilisis metus quis lacinia, sollicitudin augue adipiscing fringilla viverra elit."
+        "I curabitur consequat consectetur dolor ultrices in scelerisque nam.",
+"Au a dolor eget laoreet ipsum neque ac cursus, nisi velit pulvinar arcu.",
+"Sollicitudin orci donec nisi mattis, id sollicitudin sapien vulputate erat pellentesque."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 815,
-        "proteines_g": 31,
-        "glucides_g": 50,
-        "lipides_g": 15,
-        "fibres_g": 1
+        "calories_kcal": 241,
+        "proteines_g": 15,
+        "glucides_g": 70,
+        "lipides_g": 26,
+        "fibres_g": 10
       },
-      "empreinte_carbone_kg_co2e": 3.3,
+      "empreinte_carbone_kg_co2e": 0.2,
+      "de_saison": true,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-72770323-fdfe-45f3-bfbe-5d077acce5f2",
+      "type": "recette",
+      "nom": "Compote pomme coing",
+      "categorie": "Collation",
+      "saison_recommandee": "Printemps",
+      "regime_compatible": [
+        "Sans gluten",
+"Sans lactose"
+
+      ],
+      "temps_preparation_min": 29,
+      "portions": 2,
+      "difficulte": 1,
+      "ingredients": [
+        {
+          "nom": "Chèvre frais",
+          "quantite": 107,
+          "unite": "cas"
+        },
+        {
+          "nom": "Miel",
+          "quantite": 326,
+          "unite": "cas"
+        },
+        {
+          "nom": "Betterave",
+          "quantite": 175,
+          "unite": "g"
+        },
+        {
+          "nom": "Coco",
+          "quantite": 284,
+          "unite": "ml"
+        }
+      ],
+      "etapes": [
+        "Diam sollicitudin eti cursus etiam maecenas curabitur natoque. Hendrerit justo morbi faucibus. Elementum nunc ante.",
+"Nisi sollicitudin ex lobortis pretium, euismod sapien sit at. Quis ligula placerat id tincidunt sagittis lum tempus ali.",
+"Arcu sed e lacus vel. Ultrices vel placerat bibendum neque, leo tincidunt dictum lacinia e. Condimentum i euismod nam ac imperdiet sagittis i, facilisis leo mollis suscipit id ligula ali augue. Velit vitae sem gravida.",
+"Nibh cursus purus morbi vitae est placerat sapien. Cras at fringilla viverra magna. O viverra purus arcu dolor.",
+"Elementum in pellentesque tortor eros ornare, ultricies laoreet eu blandit elementum. Nam cras pharetra dia, felis etiam consequat pulvinar sollicitudin mollis in diam. Consequat gravida porttitor velit morbi rhoncus, etiam neque mauris scelerisque a risus.",
+"Fringilla tristique turpis gravida con, consequat felis en sollicitudin. Id diam sed o iaculis eti. Tempor velit turpis vehicula magna. Arcu eget dolor consequat a. U it hendrerit sagittis i pretium gravida pharetra et elementum cursus dui."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 725,
+        "proteines_g": 4,
+        "glucides_g": 12,
+        "lipides_g": 28,
+        "fibres_g": 8
+      },
+      "empreinte_carbone_kg_co2e": 1.6,
       "de_saison": false,
       "ingredient_local_bio": true
     },
     {
-      "_id": "recette-b45b17fc-ada7-4bed-95e9-d59ee4332f84",
+      "_id": "recette-7b5c245a-c0e1-47e8-a598-1f0a3059a99b",
       "type": "recette",
       "nom": "Quiche lorraine allégée",
-      "categorie": "Petit-déjeuner",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Végan",
-"Végan"
-
-      ],
-      "temps_preparation_min": 11,
-      "portions": 6,
-      "difficulte": 1,
-      "ingredients": [
-        {
-          "nom": "Farine de sarrasin",
-          "quantite": 276,
-          "unite": "cac"
-        },
-        {
-          "nom": "Carotte",
-          "quantite": 304,
-          "unite": "cas"
-        },
-        {
-          "nom": "Escalope de poulet",
-          "quantite": 379,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Quinoa",
-          "quantite": 72,
-          "unite": "ml"
-        },
-        {
-          "nom": "Pomme de terre",
-          "quantite": 143,
-          "unite": "ml"
-        }
-      ],
-      "etapes": [
-        "Nulla vestibulum quisque quisque viverra cursus. Morbi placerat ut neque sollicitudin non porttitor justo sapien. Justo gravida enim sagittis con, maecenas ultricies dignissim massa proin eget vulputate bibendum maecenas finibus eros nam.",
-"Placerat fringilla enim tincidunt laoreet in tem cit maecenas.",
-"Massa consectetur posuere pretium vitae tempus posuere tristique est. Amet lacinia aliquam a nisi nunc gravida, lobortis vel porttitor blandit. Tempus mi scelerisque u tortor sodales.",
-"O massa imperdiet nisl o. Mollis lacinia natoque ultricies. Proin gravida vitae lum lacinia. Euismod at lacinia u, ex augue i pretium sagittis quisque, erat bibendum elementum tem, sodales dictum vulputate eros. Dia sem i at sem, arcu curabitur ac.",
-"Sapien sem fringilla ornare sit sit con felis arcu mattis. Aliquet commodo mi con non quis tincidunt tristique felis. Aliquam euismod dictum in elit curabitur pulvinar mi i aliquet en, ultrices ex lacus e vehicula posuere aenean."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 647,
-        "proteines_g": 39,
-        "glucides_g": 5,
-        "lipides_g": 22,
-        "fibres_g": 10
-      },
-      "empreinte_carbone_kg_co2e": 0.8,
-      "de_saison": true,
-      "ingredient_local_bio": false
-    },
-    {
-      "_id": "recette-ff0a0a93-5c59-44ac-9d35-d34e4d38b449",
-      "type": "recette",
-      "nom": "Pancakes aux flocons d&#x27;avoine",
       "categorie": "Entrée",
-      "saison_recommandee": "Printemps",
+      "saison_recommandee": "Hiver",
       "regime_compatible": [
         "Végétarien",
 "Sans gluten",
-"Sans lactose"
+"Végan"
 
       ],
-      "temps_preparation_min": 67,
-      "portions": 1,
-      "difficulte": 2,
+      "temps_preparation_min": 35,
+      "portions": 5,
+      "difficulte": 3,
       "ingredients": [
         {
-          "nom": "Coco",
-          "quantite": 400,
-          "unite": "ml"
-        },
-        {
-          "nom": "Quinoa",
-          "quantite": 46,
-          "unite": "g"
-        },
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 25,
-          "unite": "g"
-        },
-        {
-          "nom": "Crème légère",
-          "quantite": 206,
-          "unite": "ml"
-        },
-        {
-          "nom": "Oignon",
-          "quantite": 272,
-          "unite": "g"
-        },
-        {
-          "nom": "Courge butternut",
-          "quantite": 286,
-          "unite": "cac"
-        },
-        {
-          "nom": "Tofu ferme",
-          "quantite": 114,
-          "unite": "pièce(s)"
-        }
-      ],
-      "etapes": [
-        "Ultrices tincidunt euismod imperdiet massa. Lacinia enim pharetra o el, viverra aliquam el diam etiam nulla. Auctor dolor ante lacinia, vestibulum ali viverra fringilla augue posuere, consequat aliquet elementum lacus. Dia ut consectetur e sit neque.",
-"Nibh mollis accumsan et amet facilisis maximus el. Pretium sollicitudin porttitor i lacinia eros risus cit ornare. Aenean risus ac faucibus cras.",
-"Lum ultricies morbi vel leo. Risus condimentum erat risus lacus tincidunt turpis.",
-"Mi e tristique iaculis a. Neque aenean nisi finibus.",
-"Con maecenas imperdiet magna sapien. Au pretium i est. Ultrices aliquam lacinia tempus metus donec eros lacus donec nibh hendrerit en. Tempus neque nisl mi.",
-"Metus e cras lectus dictum tem metus, eti maximus risus pharetra, u ipsum natoque nisi ipsum, ipsum mauris vestibulum leo."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 632,
-        "proteines_g": 31,
-        "glucides_g": 28,
-        "lipides_g": 3,
-        "fibres_g": 12
-      },
-      "empreinte_carbone_kg_co2e": 3.4,
-      "de_saison": true,
-      "ingredient_local_bio": false
-    },
-    {
-      "_id": "recette-9a90248f-d4d2-4411-912a-8006d7866fce",
-      "type": "recette",
-      "nom": "Nouilles soba",
-      "categorie": "Petit-déjeuner",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Sans gluten"
-
-      ],
-      "temps_preparation_min": 38,
-      "portions": 1,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Farine de sarrasin",
-          "quantite": 250,
-          "unite": "g"
-        },
-        {
-          "nom": "Miel",
-          "quantite": 179,
+          "nom": "Échalote",
+          "quantite": 49,
           "unite": "g"
         },
         {
           "nom": "Pomme de terre",
-          "quantite": 101,
+          "quantite": 204,
+          "unite": "ml"
+        },
+        {
+          "nom": "Menthe",
+          "quantite": 336,
+          "unite": "g"
+        },
+        {
+          "nom": "Flocons d'avoine",
+          "quantite": 378,
+          "unite": "cac"
+        },
+        {
+          "nom": "Poireau",
+          "quantite": 385,
+          "unite": "cas"
+        }
+      ],
+      "etapes": [
+        "Lorem felis lorem leo viverra nunc placerat. In ipsum dictum amet orci nunc. Leo auctor maecenas augue au gravida amet maximus, suscipit ali accumsan ultricies. U cit lorem elementum mauris, dolor maecenas risus sit est. Pulvinar u fringilla finibus velit.",
+"Tortor pulvinar tristique natoque maecenas eget eget pharetra. Eu cit magna bibendum enim nulla aliquam dictum mollis nisl scelerisque eros facilisis sem bibendum o. Eti iaculis lectus imperdiet suscipit.",
+"Elementum laoreet ut ligula eti, proin aliquam ultricies nunc tristique. Elementum curabitur ipsum non ex, natoque non fringilla ante dignissim. A et lacinia erat con nibh nisi etiam. Fringilla natoque pharetra ante, magna tincidunt gravida.",
+"Nulla arcu etiam blandit tristique. Porttitor magna eti sapien nam.",
+"Lobortis vulputate dolor mattis el enim proin. Nam a tortor ut, cursus nam erat vulputate, nam lorem facilisis cursus mattis vehicula, id consequat orci ipsum risus. Felis cursus vel leo laoreet nisl curabitur o, nulla proin vestibulum.",
+"Pretium ut nibh it tristique elementum. At lobortis felis o. Nunc iaculis sollicitudin sodales donec o dignissim el. Adipiscing velit ornare quisque, aliquam faucibus nam euismod, tortor risus nisi.",
+"Hendrerit dictum turpis mollis aenean porttitor faucibus. Mauris velit et ante ex. Tristique pellentesque pharetra facilisis morbi lobortis."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 677,
+        "proteines_g": 25,
+        "glucides_g": 37,
+        "lipides_g": 22,
+        "fibres_g": 8
+      },
+      "empreinte_carbone_kg_co2e": 1.1,
+      "de_saison": true,
+      "ingredient_local_bio": false
+    },
+    {
+      "_id": "recette-4c817e76-960e-47e7-bb89-24b9f280a3a9",
+      "type": "recette",
+      "nom": "Wrap houmous et crudités",
+      "categorie": "Collation",
+      "saison_recommandee": "Été",
+      "regime_compatible": [
+        "Végan",
+"Sans lactose",
+"Sans gluten"
+
+      ],
+      "temps_preparation_min": 87,
+      "portions": 1,
+      "difficulte": 1,
+      "ingredients": [
+        {
+          "nom": "Yaourt nature",
+          "quantite": 325,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Tomate",
+          "quantite": 39,
+          "unite": "cas"
+        },
+        {
+          "nom": "Flocons d'avoine",
+          "quantite": 132,
+          "unite": "g"
+        },
+        {
+          "nom": "Oignon",
+          "quantite": 170,
+          "unite": "cac"
+        },
+        {
+          "nom": "Miel",
+          "quantite": 299,
+          "unite": "cas"
+        },
+        {
+          "nom": "Lait demi-écrémé",
+          "quantite": 392,
           "unite": "ml"
         }
       ],
       "etapes": [
-        "El condimentum euismod eget natoque. Faucibus eu aenean vestibulum gravida.",
-"Orci quis amet tem imperdiet lectus amet aliquam i eget. Massa au augue pharetra nulla maximus ultrices, vitae accumsan augue erat accumsan bibendum. Natoque erat pharetra lectus. Purus at vehicula blandit, con pellentesque maecenas pretium, faucibus vulputate ipsum.",
-"Nulla donec velit mollis consectetur sem neque dia dui vehicula, in adipiscing ali a, aliquam elit pharetra tristique. Sodales sagittis ultrices sed enim enim sem erat. Proin u gravida tristique ex aliquet dolor ut orci ultrices.",
-"Est dui finibus dia hendrerit sagittis it. Consectetur lacinia magna maecenas turpis, con etiam metus est tem, dui mattis nisl lacus elementum u etiam.",
-"Dui non accumsan cit gravida erat non lacinia.",
-"Fringilla nulla natoque nam vehicula rhoncus lobortis lacinia nulla tristique."
+        "Risus velit accumsan felis aliquet. Pulvinar lacinia auctor elit aliquet i, nisl bibendum laoreet cras. Imperdiet pulvinar vehicula u cursus magna ultrices sit. Lum ornare nam auctor blandit tortor.",
+"Elementum pharetra adipiscing cursus maximus erat magna. Ultrices u tem quisque eti. Gravida e faucibus en ipsum nisl natoque morbi viverra magna nunc en.",
+"Hendrerit tem tempus justo non est ultrices ali au pellentesque. Ornare lacinia finibus dui enim.",
+"Euismod arcu proin mollis accumsan elit pharetra. Blandit mollis sollicitudin ultrices dolor, tortor hendrerit faucibus massa cras. Massa tempus in justo commodo.",
+"It sit etiam scelerisque vehicula a ultricies. Pellentesque cras o vel finibus, cursus pulvinar ex risus, finibus dignissim aliquet mollis maecenas vitae euismod non.",
+"Laoreet ornare ex consectetur bibendum donec. Turpis mauris tempor it mollis eget, gravida nisl i.",
+"U au dia laoreet pulvinar u mauris ligula massa adipiscing sapien sollicitudin, porttitor vehicula eget a mi ipsum enim. It o suscipit lacinia rhoncus. Nibh o fringilla etiam, elementum ligula leo pellentesque vehicula."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 133,
-        "proteines_g": 22,
-        "glucides_g": 29,
-        "lipides_g": 27,
-        "fibres_g": 8
+        "calories_kcal": 458,
+        "proteines_g": 14,
+        "glucides_g": 25,
+        "lipides_g": 31,
+        "fibres_g": 7
       },
-      "empreinte_carbone_kg_co2e": 2.7,
-      "de_saison": false,
-      "ingredient_local_bio": false
+      "empreinte_carbone_kg_co2e": 1.7,
+      "de_saison": true,
+      "ingredient_local_bio": true
     },
     {
-      "_id": "recette-fbd87adc-722a-4b99-829f-f85e443674b0",
+      "_id": "recette-a9596e91-93ae-4edd-a2fc-e010d6adb8c7",
       "type": "recette",
-      "nom": "Beignets de fleurs de courgette",
+      "nom": "Porridge banane miel",
       "categorie": "Plat principal",
+      "saison_recommandee": "Automne",
+      "regime_compatible": [
+        "Sans lactose",
+"Sans lactose"
+
+      ],
+      "temps_preparation_min": 19,
+      "portions": 4,
+      "difficulte": 3,
+      "ingredients": [
+        {
+          "nom": "Lentilles corail",
+          "quantite": 110,
+          "unite": "cas"
+        },
+        {
+          "nom": "Lait demi-écrémé",
+          "quantite": 280,
+          "unite": "cas"
+        },
+        {
+          "nom": "Yaourt nature",
+          "quantite": 287,
+          "unite": "g"
+        },
+        {
+          "nom": "Pomme de terre",
+          "quantite": 251,
+          "unite": "cac"
+        },
+        {
+          "nom": "Pomme",
+          "quantite": 390,
+          "unite": "g"
+        },
+        {
+          "nom": "Épinards",
+          "quantite": 246,
+          "unite": "ml"
+        },
+        {
+          "nom": "Lait demi-écrémé",
+          "quantite": 223,
+          "unite": "ml"
+        },
+        {
+          "nom": "Basilic frais",
+          "quantite": 144,
+          "unite": "cac"
+        }
+      ],
+      "etapes": [
+        "Cit lectus sollicitudin elit laoreet nisi metus. Consequat ali dolor nulla scelerisque. Dictum erat metus scelerisque mattis. Amet au etiam.",
+"Faucibus faucibus nisi o sem e. U pulvinar maecenas quisque, adipiscing tem sodales bibendum natoque euismod ali. A orci pellentesque natoque sed pulvinar laoreet ali id imperdiet vestibulum lacinia lum orci faucibus dia ligula dolor vulputate lacinia.",
+"Vehicula cras ante vestibulum elit nisl, sit metus nisi vulputate mollis dictum.",
+"Iaculis placerat nisl commodo at amet non risus. Commodo curabitur condimentum condimentum id sed, sodales consequat el tincidunt au mauris, sit dictum u massa nisi. Justo sed elementum sollicitudin nam nam curabitur vel.",
+"Imperdiet est en tempor et aliquet nunc mi nibh pretium a finibus sit tempus mauris, dictum adipiscing aliquet mi. Gravida dia ac morbi. Dignissim maximus enim posuere. Suscipit velit ipsum.",
+"Massa ut pulvinar ligula euismod leo elementum natoque. Condimentum mattis maximus dignissim orci. It ex elit tempor au mattis et."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 366,
+        "proteines_g": 27,
+        "glucides_g": 49,
+        "lipides_g": 17,
+        "fibres_g": 9
+      },
+      "empreinte_carbone_kg_co2e": 0.6,
+      "de_saison": false,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-ea1c41b7-2e61-4604-9b58-7b5003ea7a57",
+      "type": "recette",
+      "nom": "Bolognèse végétale aux lentilles",
+      "categorie": "Petit-déjeuner",
       "saison_recommandee": "Été",
       "regime_compatible": [
         "Sans lactose",
 "Végétarien"
 
       ],
-      "temps_preparation_min": 70,
+      "temps_preparation_min": 71,
       "portions": 4,
       "difficulte": 3,
       "ingredients": [
         {
-          "nom": "Yaourt nature",
-          "quantite": 88,
-          "unite": "ml"
-        },
-        {
-          "nom": "Moutarde",
-          "quantite": 216,
-          "unite": "ml"
-        },
-        {
-          "nom": "Échalote",
-          "quantite": 235,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Betterave",
-          "quantite": 124,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Thon au naturel",
-          "quantite": 391,
-          "unite": "cas"
-        },
-        {
-          "nom": "Miel",
-          "quantite": 160,
-          "unite": "cas"
-        }
-      ],
-      "etapes": [
-        "Dignissim tempus finibus eros magna, dia augue id euismod leo dictum, bibendum ut lum dignissim nisl lum ali u. Pharetra placerat con eti, elementum quisque imperdiet morbi lobortis eros commodo ipsum non vestibulum lectus, nulla tem pulvinar.",
-"Tempus a turpis consequat sed en aliquam sem erat. Placerat sit quisque viverra. Consectetur vestibulum facilisis blandit scelerisque pharetra.",
-"Posuere in neque it eget, dia lum scelerisque tincidunt cursus. Con elementum felis cursus.",
-"Ultrices cras sodales vel quis. Mattis elementum dictum ex etiam. Cras eti adipiscing diam con fringilla cursus in vestibulum condimentum lacinia maecenas blandit, orci curabitur massa neque. Mattis tem massa tempus lacinia augue, dictum lobortis vestibulum risus dui.",
-"Tempus ex cursus lorem placerat pretium. Ex it dignissim iaculis arcu o. Sollicitudin it risus quis, aliquet pharetra metus eu nunc natoque iaculis."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 843,
-        "proteines_g": 43,
-        "glucides_g": 29,
-        "lipides_g": 12,
-        "fibres_g": 5
-      },
-      "empreinte_carbone_kg_co2e": 2.0,
-      "de_saison": true,
-      "ingredient_local_bio": false
-    },
-    {
-      "_id": "recette-dbc8163c-9224-4910-961e-d91ff0afc0a1",
-      "type": "recette",
-      "nom": "Pilaf aux légumes",
-      "categorie": "Entrée",
-      "saison_recommandee": "Automne",
-      "regime_compatible": [
-        "Végétarien",
-"Végétarien"
-
-      ],
-      "temps_preparation_min": 8,
-      "portions": 1,
-      "difficulte": 1,
-      "ingredients": [
-        {
-          "nom": "Pois chiches",
-          "quantite": 60,
-          "unite": "ml"
-        },
-        {
           "nom": "Courgette",
-          "quantite": 230,
-          "unite": "cac"
-        },
-        {
-          "nom": "Pois chiches",
-          "quantite": 192,
-          "unite": "g"
+          "quantite": 203,
+          "unite": "pièce(s)"
         },
         {
           "nom": "Citron",
-          "quantite": 93,
-          "unite": "cas"
-        },
-        {
-          "nom": "Oignon",
-          "quantite": 81,
+          "quantite": 106,
           "unite": "pièce(s)"
         },
         {
           "nom": "Pomme",
-          "quantite": 132,
-          "unite": "g"
-        },
-        {
-          "nom": "Champignons de Paris",
-          "quantite": 218,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Quinoa",
-          "quantite": 201,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Comté",
-          "quantite": 50,
-          "unite": "cac"
-        }
-      ],
-      "etapes": [
-        "Tempus ali bibendum maecenas en consequat, nulla risus dia ultricies placerat lacinia.",
-"Cursus pharetra dia au imperdiet leo lacinia. Maximus pretium consectetur tempus felis purus elementum erat el. Ut ultrices a mauris.",
-"Cursus dignissim in tempus consequat con suscipit nam it maecenas metus imperdiet iaculis pharetra vulputate. Pellentesque nunc cursus vel, pretium ali a mattis. Vestibulum vel lobortis.",
-"Maximus lectus velit nulla it fringilla suscipit. Lorem sollicitudin natoque blandit elit mattis curabitur, tem sollicitudin elementum cit imperdiet morbi velit it. Adipiscing iaculis maecenas magna bibendum lacinia nisl imperdiet, mattis etiam quis eget aliquam bibendum ex maximus justo est.",
-"Au non non tortor tem aliquam consequat mauris imperdiet.",
-"Curabitur diam lum est quis, iaculis e augue mi, vel lorem cit neque, nibh suscipit aliquet quisque fringilla donec dictum purus.",
-"Gravida pretium amet sem dui. A ex en ali tempus vitae. Mauris cras bibendum aenean, vel morbi sodales felis id finibus proin rhoncus, sodales non facilisis.",
-"Leo aliquet pulvinar it mattis metus. Magna pharetra u nibh. Lorem a magna lacus, o mollis commodo velit iaculis id lacinia viverra lum. Non curabitur mollis arcu placerat, erat eget sapien mi, augue elit ultricies mollis dia sodales."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 598,
-        "proteines_g": 44,
-        "glucides_g": 29,
-        "lipides_g": 18,
-        "fibres_g": 1
-      },
-      "empreinte_carbone_kg_co2e": 1.0,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-7f2ef9aa-f6c3-484a-b024-65fa1eab1634",
-      "type": "recette",
-      "nom": "Omelette surprise",
-      "categorie": "Entrée",
-      "saison_recommandee": "Automne",
-      "regime_compatible": [
-        "Végan",
-"Végétarien",
-"Végan"
-
-      ],
-      "temps_preparation_min": 77,
-      "portions": 5,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Yaourt nature",
-          "quantite": 271,
-          "unite": "g"
-        },
-        {
-          "nom": "Échalote",
-          "quantite": 126,
+          "quantite": 211,
           "unite": "cac"
         },
         {
-          "nom": "Courge butternut",
-          "quantite": 297,
-          "unite": "ml"
+          "nom": "Chèvre frais",
+          "quantite": 264,
+          "unite": "g"
         }
       ],
       "etapes": [
-        "Non lacus e mattis massa, commodo mi dictum blandit. Placerat rhoncus sit condimentum facilisis el. Hendrerit mi euismod justo lum sodales elementum nunc placerat.",
-"Lorem adipiscing bibendum elementum rhoncus lacinia. Morbi sed lobortis porttitor placerat auctor i dolor et.",
-"Accumsan ante maecenas consectetur sapien. Dolor cras sodales facilisis it, tem ornare gravida tempus, auctor mollis consectetur cursus ligula lum cursus erat dolor scelerisque ultricies sollicitudin sit.",
-"O posuere vel erat nisl blandit ultrices el ipsum.",
-"Mollis tortor imperdiet tortor lacinia mattis purus. Ornare quisque dignissim viverra. Dui velit eros facilisis i quisque. Sagittis pellentesque u ex maximus lacinia natoque sem tempus augue. Hendrerit lacus blandit vel, quis commodo metus turpis viverra in sed vestibulum.",
-"Adipiscing ut justo hendrerit cursus finibus mollis sapien accumsan."
+        "En donec lacinia pharetra massa id. Cras consectetur dia eget condimentum. Mollis id au sapien mattis nam ornare, neque sed et augue dui nulla, accumsan vehicula nulla fringilla purus lum, lobortis aliquam it eget e augue felis, sollicitudin sed nam.",
+"Amet consectetur ut sollicitudin tem elit, o curabitur rhoncus consectetur, ligula etiam faucibus lum tristique dia mollis. Neque viverra maecenas nam cit. It at pretium proin lum, nam rhoncus viverra e.",
+"Bibendum tempor aenean enim nibh ali lacinia. Vehicula scelerisque mauris o. Pellentesque aliquam lectus scelerisque, con curabitur in ali. Orci leo nisl mattis diam blandit arcu, mollis tem u elementum.",
+"Enim o ligula aliquet adipiscing orci nibh mauris mi pharetra, accumsan accumsan maecenas morbi. Eti dolor facilisis."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 380,
-        "proteines_g": 38,
-        "glucides_g": 58,
-        "lipides_g": 3,
-        "fibres_g": 1
+        "calories_kcal": 517,
+        "proteines_g": 19,
+        "glucides_g": 63,
+        "lipides_g": 32,
+        "fibres_g": 5
       },
-      "empreinte_carbone_kg_co2e": 2.3,
+      "empreinte_carbone_kg_co2e": 1.4,
       "de_saison": true,
       "ingredient_local_bio": false
     },
     {
-      "_id": "recette-a7e13010-569b-4c49-bb91-31e6e696aa27",
+      "_id": "recette-225b9ae3-4716-40ed-9731-6c1d1adfc10a",
       "type": "recette",
-      "nom": "Salade César revisitée",
+      "nom": "Muesli maison",
       "categorie": "Dessert",
-      "saison_recommandee": "Hiver",
+      "saison_recommandee": "Été",
       "regime_compatible": [
         "Sans lactose",
-"Sans gluten"
+"Végan"
 
       ],
-      "temps_preparation_min": 60,
-      "portions": 5,
+      "temps_preparation_min": 38,
+      "portions": 4,
       "difficulte": 3,
       "ingredients": [
         {
-          "nom": "Oignon",
+          "nom": "Farine de sarrasin",
+          "quantite": 161,
+          "unite": "ml"
+        },
+        {
+          "nom": "Échalote",
+          "quantite": 32,
+          "unite": "cac"
+        },
+        {
+          "nom": "Riz complet",
+          "quantite": 236,
+          "unite": "g"
+        },
+        {
+          "nom": "Poivron",
+          "quantite": 77,
+          "unite": "g"
+        }
+      ],
+      "etapes": [
+        "Vulputate etiam consequat pretium sit dolor, purus laoreet donec finibus eros proin tristique, orci iaculis massa donec leo eget, it cras auctor tristique lorem elementum. Bibendum faucibus dolor.",
+"Placerat lacinia turpis suscipit tristique nam. Ultricies maecenas velit purus eros i. El euismod dui non sem. Sed imperdiet au nam purus id, facilisis et pretium quisque tem. Ultricies auctor curabitur laoreet.",
+"Etiam sit ornare nibh ligula scelerisque elit. Ultricies ornare quis erat, neque curabitur lectus leo orci.",
+"Donec ultrices dia el auctor placerat. Lacus aliquet mauris rhoncus quisque quis elit. Dignissim leo morbi ligula, quisque scelerisque condimentum proin scelerisque non e. In metus nulla sem velit faucibus fringilla enim aenean purus quis.",
+"Quisque auctor quis tristique facilisis consectetur. Aenean quisque dictum sed aliquet, lorem curabitur orci pulvinar risus cursus, mattis condimentum neque dignissim massa morbi aliquet.",
+"Eu blandit metus rhoncus lectus. Ipsum lacus eros maximus hendrerit velit, risus lacus placerat o. Est leo donec."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 694,
+        "proteines_g": 3,
+        "glucides_g": 68,
+        "lipides_g": 22,
+        "fibres_g": 10
+      },
+      "empreinte_carbone_kg_co2e": 1.3,
+      "de_saison": true,
+      "ingredient_local_bio": false
+    },
+    {
+      "_id": "recette-5eb6e1c0-8bf5-4fad-a1c9-a0f506600278",
+      "type": "recette",
+      "nom": "Bolognèse végétale aux lentilles",
+      "categorie": "Dessert",
+      "saison_recommandee": "Automne",
+      "regime_compatible": [
+        "Sans lactose",
+"Végan"
+
+      ],
+      "temps_preparation_min": 26,
+      "portions": 1,
+      "difficulte": 2,
+      "ingredients": [
+        {
+          "nom": "Lentilles corail",
+          "quantite": 180,
+          "unite": "ml"
+        },
+        {
+          "nom": "Huile d'olive",
+          "quantite": 344,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Aubergine",
+          "quantite": 100,
+          "unite": "ml"
+        },
+        {
+          "nom": "Filet de saumon",
+          "quantite": 89,
+          "unite": "cac"
+        },
+        {
+          "nom": "Boulgour",
+          "quantite": 108,
+          "unite": "ml"
+        }
+      ],
+      "etapes": [
+        "Non ex cursus velit au eu sodales ornare velit.",
+"Non sem lum et porttitor sapien justo cras sed auctor ornare o laoreet sagittis en, lacus morbi maximus elit aliquam massa sapien elit. Enim mollis pharetra lum au ante.",
+"En consectetur placerat dia nisl. Dia purus iaculis porttitor en, sed sapien lectus auctor. Augue lectus tempor cit mollis vel pellentesque laoreet leo en aliquet.",
+"Ornare massa augue posuere lacinia, sem finibus dui purus, nulla ornare tincidunt bibendum cit. Finibus eti amet nulla en cursus orci nunc massa.",
+"Bibendum est suscipit pharetra laoreet erat massa mauris porttitor erat bibendum placerat dui eget nisl en. Eti vulputate iaculis diam lobortis at. Vel aenean vestibulum au finibus amet faucibus a, gravida sed pharetra.",
+"Con ornare eu vitae aliquam non posuere lorem, a sodales velit cursus, dui erat scelerisque tempor. Hendrerit eti fringilla justo placerat nunc ligula nisl ali ligula.",
+"Neque at nisl lobortis etiam eros, scelerisque eget massa mauris ultrices lacinia, vulputate quis in tempus nisl posuere viverra felis, natoque proin eget nam u."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 628,
+        "proteines_g": 20,
+        "glucides_g": 71,
+        "lipides_g": 10,
+        "fibres_g": 7
+      },
+      "empreinte_carbone_kg_co2e": 1.5,
+      "de_saison": true,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-4c4ef86e-16cf-4b0a-98ea-038638da77f1",
+      "type": "recette",
+      "nom": "Nouilles soba",
+      "categorie": "Petit-déjeuner",
+      "saison_recommandee": "Hiver",
+      "regime_compatible": [
+        "Sans lactose"
+
+      ],
+      "temps_preparation_min": 26,
+      "portions": 3,
+      "difficulte": 2,
+      "ingredients": [
+        {
+          "nom": "Pomme de terre",
           "quantite": 391,
           "unite": "cas"
         },
         {
-          "nom": "Pâtes complètes",
-          "quantite": 258,
-          "unite": "g"
-        },
-        {
-          "nom": "Citron",
-          "quantite": 154,
-          "unite": "cas"
-        },
-        {
-          "nom": "Aubergine",
-          "quantite": 137,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Ail",
-          "quantite": 195,
+          "nom": "Champignons de Paris",
+          "quantite": 220,
           "unite": "cac"
+        },
+        {
+          "nom": "Pomme",
+          "quantite": 224,
+          "unite": "cas"
         }
       ],
       "etapes": [
-        "Iaculis etiam lum mi consectetur. Maecenas o con sagittis. Au ligula lacinia eros ultricies augue.",
-"Curabitur en vestibulum consequat porttitor. Proin curabitur nulla con iaculis. Viverra ultrices velit vulputate non ipsum vel lum, fringilla elementum bibendum suscipit mollis vehicula mollis est lacinia facilisis dignissim.",
-"Finibus elit dictum laoreet proin, adipiscing adipiscing dui massa el, nulla tristique turpis nisl. Hendrerit turpis cursus proin. Ut velit condimentum donec lacus morbi o imperdiet mi auctor, elit iaculis gravida.",
-"Maecenas augue lorem magna eti dia. U mollis ultricies imperdiet dignissim. Sapien elit lum sit. Proin vitae pulvinar imperdiet ex euismod, enim laoreet pharetra condimentum purus au id vel, massa vestibulum risus tincidunt nulla. Accumsan placerat cit tincidunt.",
-"Finibus sagittis arcu sagittis erat. Cursus ali ornare erat tempor erat risus in mattis tempus justo accumsan adipiscing morbi.",
-"Nulla neque lorem pharetra dictum ut. Ligula pulvinar ex lum risus.",
-"Cras in au ipsum justo faucibus purus sapien sit sodales porttitor ultrices. Etiam consequat faucibus eget curabitur velit adipiscing. Ut condimentum nulla scelerisque it. Justo mattis enim leo, ante erat etiam vehicula, vel pretium quis suscipit maximus."
+        "Dia erat ac o auctor cit. Risus augue mattis metus et adipiscing elementum donec massa sodales, lacus metus augue quisque laoreet.",
+"Lectus accumsan mauris accumsan purus lorem, purus sapien velit lobortis maximus.",
+"Fringilla nam a pharetra vestibulum. Iaculis it elementum laoreet, e pellentesque tem neque mi, mi neque maximus orci tempus, vestibulum dictum tem dui, quis magna ali.",
+"Ultricies suscipit lorem nisl dia mollis nisl lum.",
+"Lorem eros condimentum sit hendrerit tortor fringilla cursus posuere ante orci. Pretium cit viverra aliquam vulputate metus mauris metus sem cit i."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 209,
-        "proteines_g": 13,
-        "glucides_g": 22,
-        "lipides_g": 12,
-        "fibres_g": 7
+        "calories_kcal": 547,
+        "proteines_g": 42,
+        "glucides_g": 61,
+        "lipides_g": 21,
+        "fibres_g": 5
+      },
+      "empreinte_carbone_kg_co2e": 0.3,
+      "de_saison": false,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-9b3ac865-5512-4583-8c98-80790313bc71",
+      "type": "recette",
+      "nom": "Nouilles soba",
+      "categorie": "Dessert",
+      "saison_recommandee": "Printemps",
+      "regime_compatible": [
+        "Végan"
+
+      ],
+      "temps_preparation_min": 20,
+      "portions": 3,
+      "difficulte": 2,
+      "ingredients": [
+        {
+          "nom": "Basilic frais",
+          "quantite": 209,
+          "unite": "cac"
+        },
+        {
+          "nom": "Coco",
+          "quantite": 397,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Poivron",
+          "quantite": 263,
+          "unite": "ml"
+        },
+        {
+          "nom": "Pois chiches",
+          "quantite": 11,
+          "unite": "g"
+        }
+      ],
+      "etapes": [
+        "Faucibus arcu ac ipsum cit it risus. Lectus ultrices mollis lacinia nam. Vitae massa dia augue pulvinar diam it at.",
+"Eget o quisque ex morbi. El pretium dolor hendrerit, mollis aliquam sapien nulla i maximus, ut gravida lobortis neque enim massa, dictum porttitor maximus et ultricies. Ali augue cit cursus vitae. Risus turpis pretium scelerisque vehicula.",
+"Imperdiet vitae pellentesque purus vel finibus, tempus pellentesque et pulvinar."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 558,
+        "proteines_g": 15,
+        "glucides_g": 43,
+        "lipides_g": 3,
+        "fibres_g": 1
+      },
+      "empreinte_carbone_kg_co2e": 2.1,
+      "de_saison": false,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-b8a29d6c-ca75-4c57-a6eb-3c8dea614d58",
+      "type": "recette",
+      "nom": "Soupe de pois cassés",
+      "categorie": "Petit-déjeuner",
+      "saison_recommandee": "Été",
+      "regime_compatible": [
+        "Végan",
+"Végétarien"
+
+      ],
+      "temps_preparation_min": 8,
+      "portions": 4,
+      "difficulte": 3,
+      "ingredients": [
+        {
+          "nom": "Chèvre frais",
+          "quantite": 159,
+          "unite": "ml"
+        },
+        {
+          "nom": "Huile d'olive",
+          "quantite": 291,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Escalope de poulet",
+          "quantite": 275,
+          "unite": "cac"
+        },
+        {
+          "nom": "Champignons de Paris",
+          "quantite": 352,
+          "unite": "g"
+        }
+      ],
+      "etapes": [
+        "Commodo eget con dolor iaculis, facilisis orci sodales ex it. Dia blandit diam mattis sapien justo. Dignissim in fringilla dui justo finibus.",
+"Amet o curabitur eti sagittis, felis posuere iaculis erat tortor mi ut, aliquam mattis pulvinar nam quisque nibh neque imperdiet dui.",
+"Purus porttitor e ali enim dui, finibus tempus aenean viverra lacinia lum nulla. Auctor neque condimentum en diam finibus blandit ac, velit laoreet sit sapien pretium magna curabitur auctor.",
+"Dignissim mi donec maximus ut orci lectus ex porttitor tristique mauris massa non. Sed tempor sapien dolor neque. Sollicitudin aliquet ex tempus vel cursus.",
+"Euismod iaculis est cras sapien dolor euismod cras, dignissim vulputate nisi leo. Sollicitudin e arcu auctor augue fringilla dui. Augue gravida viverra sem pellentesque eu scelerisque vitae. Et aliquet lum ornare. Rhoncus con eget a arcu euismod condimentum at."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 756,
+        "proteines_g": 43,
+        "glucides_g": 25,
+        "lipides_g": 24,
+        "fibres_g": 11
       },
       "empreinte_carbone_kg_co2e": 1.8,
       "de_saison": false,
       "ingredient_local_bio": false
     },
     {
-      "_id": "recette-8bc43d87-8262-424e-8ea8-d98b46a93bf4",
+      "_id": "recette-241073bf-29cf-4910-9890-4083027bd648",
       "type": "recette",
-      "nom": "Beignets de fleurs de courgette",
-      "categorie": "Petit-déjeuner",
-      "saison_recommandee": "Été",
-      "regime_compatible": [
-        "Sans gluten",
-"Végan"
-
-      ],
-      "temps_preparation_min": 83,
-      "portions": 1,
-      "difficulte": 3,
-      "ingredients": [
-        {
-          "nom": "Pâtes complètes",
-          "quantite": 391,
-          "unite": "cas"
-        },
-        {
-          "nom": "Carotte",
-          "quantite": 279,
-          "unite": "cas"
-        },
-        {
-          "nom": "Coco",
-          "quantite": 24,
-          "unite": "ml"
-        }
-      ],
-      "etapes": [
-        "Gravida ali et condimentum consectetur vulputate blandit enim. Et condimentum tortor tempus natoque mauris nisi, posuere lobortis elit neque elit porttitor, in curabitur turpis ipsum at, iaculis ut nam ultrices, sollicitudin placerat eget morbi cras.",
-"Vehicula vulputate sapien it vel, fringilla natoque dictum imperdiet. Quisque ac imperdiet hendrerit sodales etiam ut sed. Condimentum sem porttitor accumsan metus auctor.",
-"Aliquet o maximus metus consectetur blandit, au pellentesque donec en u ac u ultrices nam lectus."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 470,
-        "proteines_g": 20,
-        "glucides_g": 70,
-        "lipides_g": 25,
-        "fibres_g": 6
-      },
-      "empreinte_carbone_kg_co2e": 2.7,
-      "de_saison": false,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-515f3390-02a9-40fd-9fe6-34b95f7716cc",
-      "type": "recette",
-      "nom": "Couscous aux sept légumes",
-      "categorie": "Entrée",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Végétarien"
-
-      ],
-      "temps_preparation_min": 27,
-      "portions": 5,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Poivron",
-          "quantite": 184,
-          "unite": "cas"
-        },
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 271,
-          "unite": "ml"
-        },
-        {
-          "nom": "Flocons d&#x27;avoine",
-          "quantite": 29,
-          "unite": "cas"
-        },
-        {
-          "nom": "Quinoa",
-          "quantite": 107,
-          "unite": "cac"
-        },
-        {
-          "nom": "Crème légère",
-          "quantite": 357,
-          "unite": "g"
-        },
-        {
-          "nom": "Pomme de terre",
-          "quantite": 215,
-          "unite": "cac"
-        },
-        {
-          "nom": "Miel",
-          "quantite": 170,
-          "unite": "g"
-        }
-      ],
-      "etapes": [
-        "Arcu tortor finibus u condimentum. Etiam placerat eu pretium dia, proin maximus non el morbi leo donec faucibus. Ultricies rhoncus au blandit, dignissim imperdiet a o neque massa. Ex vulputate lectus gravida tristique.",
-"Blandit ut justo au augue orci pellentesque nunc scelerisque, ultrices tem consectetur mattis adipiscing accumsan. Nulla it leo dignissim. Proin curabitur cit.",
-"Accumsan magna nulla ultrices elit. Dolor ali leo e eti quis a non lacinia lacus. Condimentum adipiscing eros donec metus, nibh ali non orci felis. Purus proin est laoreet fringilla proin tortor, ac metus ultricies aenean, in accumsan cursus.",
-"Nunc lectus tempor mollis sapien faucibus, el pretium augue lorem. Mauris nibh dia pharetra ornare. I sed erat ex laoreet. In i iaculis quisque dignissim porttitor.",
-"Lacus nisi ultricies dictum ultrices eu u nisi mollis, hendrerit tem iaculis ut lum mattis, sed lorem sapien pretium felis mattis.",
-"Sapien ali donec lacinia nam elementum dui porttitor, laoreet i metus con imperdiet. Finibus et sit aenean mauris leo. U felis tincidunt proin, faucibus ali laoreet natoque ligula suscipit vel, i felis est ligula leo con."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 328,
-        "proteines_g": 8,
-        "glucides_g": 29,
-        "lipides_g": 25,
-        "fibres_g": 8
-      },
-      "empreinte_carbone_kg_co2e": 2.0,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-1fc709d2-635a-4ad3-b567-676a281ebe03",
-      "type": "recette",
-      "nom": "Smoothie vert",
-      "categorie": "Entrée",
-      "saison_recommandee": "Automne",
-      "regime_compatible": [
-        "Sans gluten",
-"Végétarien",
-"Végétarien"
-
-      ],
-      "temps_preparation_min": 14,
-      "portions": 6,
-      "difficulte": 1,
-      "ingredients": [
-        {
-          "nom": "Laitue",
-          "quantite": 183,
-          "unite": "ml"
-        },
-        {
-          "nom": "Coco",
-          "quantite": 329,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Boulgour",
-          "quantite": 191,
-          "unite": "ml"
-        }
-      ],
-      "etapes": [
-        "Tortor finibus it el tempus, suscipit consequat at au lorem, diam en faucibus sapien. Cursus tempor risus tem, posuere fringilla aenean augue, justo aliquam accumsan mi. Maecenas ali it consectetur ipsum eti vulputate e au eget.",
-"Condimentum placerat risus amet eti, neque ligula quisque commodo, elementum tincidunt euismod ultricies gravida dui el ligula dui enim.",
-"Viverra proin dia mattis tristique sodales, ipsum ac orci etiam. Lobortis scelerisque faucibus hendrerit lacus etiam.",
-"Condimentum vel con ornare et rhoncus etiam, fringilla vitae elit elementum rhoncus felis pharetra gravida.",
-"O eu aenean pellentesque sem eti vestibulum au pellentesque aliquet maecenas velit.",
-"Pulvinar ac eti diam mauris lacinia, vehicula tempus dignissim el blandit viverra placerat maecenas finibus. Est ultrices finibus scelerisque sodales fringilla. Imperdiet adipiscing eros diam ut accumsan velit.",
-"Amet nisi aenean felis diam, facilisis posuere viverra imperdiet mi mauris ligula tortor ligula ac nibh. Tem sagittis ex iaculis, blandit nisl ligula accumsan. Cit proin en a, condimentum dolor eget.",
-"Dia viverra risus viverra dolor pretium tristique mi, maximus gravida nibh turpis vel magna, nunc sollicitudin sagittis pellentesque purus diam in. Pharetra sed consequat maximus commodo auctor nam a."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 572,
-        "proteines_g": 11,
-        "glucides_g": 24,
-        "lipides_g": 7,
-        "fibres_g": 10
-      },
-      "empreinte_carbone_kg_co2e": 0.4,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-96418b7f-9237-45b4-a7d9-f8f69fa5698e",
-      "type": "recette",
-      "nom": "Risotto aux champignons",
-      "categorie": "Collation",
-      "saison_recommandee": "Printemps",
-      "regime_compatible": [
-        "Sans gluten",
-"Végétarien",
-"Végétarien"
-
-      ],
-      "temps_preparation_min": 76,
-      "portions": 2,
-      "difficulte": 1,
-      "ingredients": [
-        {
-          "nom": "Moutarde",
-          "quantite": 278,
-          "unite": "cac"
-        },
-        {
-          "nom": "Menthe",
-          "quantite": 135,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Miel",
-          "quantite": 346,
-          "unite": "ml"
-        },
-        {
-          "nom": "Yaourt nature",
-          "quantite": 284,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Aubergine",
-          "quantite": 115,
-          "unite": "ml"
-        },
-        {
-          "nom": "Aubergine",
-          "quantite": 329,
-          "unite": "ml"
-        },
-        {
-          "nom": "Persil",
-          "quantite": 277,
-          "unite": "cac"
-        },
-        {
-          "nom": "Menthe",
-          "quantite": 356,
-          "unite": "cac"
-        },
-        {
-          "nom": "Poireau",
-          "quantite": 260,
-          "unite": "g"
-        }
-      ],
-      "etapes": [
-        "Justo quisque proin elementum eu dolor. Mauris erat el sagittis bibendum eu amet felis. Donec justo cit faucibus vel, sagittis rhoncus maximus erat sollicitudin amet.",
-"Enim elit at mollis mi. Donec accumsan pharetra faucibus adipiscing condimentum. Orci ipsum sem leo magna risus.",
-"Donec et felis non tristique, it justo purus magna o. Felis tempor tincidunt aliquam. Sagittis lacus elit erat. Dolor dictum ultricies facilisis. Elit sodales consectetur aenean sapien imperdiet dui nam purus felis eti.",
-"En ante gravida quis ultrices vitae eti elementum. Dictum lobortis ante nulla ante porttitor. Sem euismod consequat ante dolor justo pellentesque natoque faucibus ante condimentum sagittis. Adipiscing consectetur consectetur natoque nisl.",
-"Vestibulum dui cras curabitur sodales. Donec scelerisque scelerisque quis massa facilisis iaculis, donec tortor sagittis vehicula aenean, euismod cursus el.",
-"Blandit vehicula i lobortis suscipit, ligula iaculis pharetra lectus. Tempus cit tristique porttitor mi. Quis accumsan et vel consequat nulla. Ipsum lacus lum ex elit condimentum.",
-"Tincidunt nibh tincidunt mollis con. Donec etiam morbi imperdiet et cras pulvinar. Quis eti vulputate ligula metus, dolor metus est sapien.",
-"Pretium pretium nisi risus eget. Posuere vehicula velit dui quis lectus sodales ac scelerisque laoreet."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 741,
-        "proteines_g": 11,
-        "glucides_g": 68,
-        "lipides_g": 6,
-        "fibres_g": 4
-      },
-      "empreinte_carbone_kg_co2e": 2.5,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-6d936ae4-17a2-4d53-8bbd-9d6f49b7a233",
-      "type": "recette",
-      "nom": "Pancakes aux flocons d&#x27;avoine",
-      "categorie": "Plat principal",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Végétarien"
-
-      ],
-      "temps_preparation_min": 76,
-      "portions": 2,
-      "difficulte": 3,
-      "ingredients": [
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 198,
-          "unite": "cas"
-        },
-        {
-          "nom": "Crème légère",
-          "quantite": 382,
-          "unite": "cas"
-        },
-        {
-          "nom": "Haricots blancs",
-          "quantite": 351,
-          "unite": "cas"
-        }
-      ],
-      "etapes": [
-        "Finibus leo enim eu metus rhoncus pulvinar. Aenean eros vitae suscipit at.",
-"Magna viverra euismod ligula cursus curabitur mattis felis aliquam. Dui el dictum natoque aliquam nulla lectus tortor.",
-"Tempor vulputate tem tristique ultrices orci. Ultrices etiam eget mi enim orci cursus bibendum.",
-"Pulvinar orci adipiscing felis aenean, o leo quis elit ultrices mi nibh, morbi sed risus suscipit eu ultricies mauris vestibulum. Viverra mi at maximus consectetur i blandit eget mattis scelerisque arcu sit maximus felis iaculis.",
-"Blandit cras turpis laoreet sit, sapien sit tempor aliquet tincidunt. Tem commodo eros id etiam ali tempus gravida pellentesque ornare nisl pharetra. Ante ipsum it au tortor."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 363,
-        "proteines_g": 29,
-        "glucides_g": 66,
-        "lipides_g": 17,
-        "fibres_g": 6
-      },
-      "empreinte_carbone_kg_co2e": 0.8,
-      "de_saison": false,
-      "ingredient_local_bio": false
-    },
-    {
-      "_id": "recette-cb5e293c-c6c1-40ea-bdc0-55bae473501b",
-      "type": "recette",
-      "nom": "Clafoutis aux cerises",
-      "categorie": "Entrée",
-      "saison_recommandee": "Été",
-      "regime_compatible": [
-        "Sans lactose",
-"Végétarien",
-"Sans gluten"
-
-      ],
-      "temps_preparation_min": 14,
-      "portions": 1,
-      "difficulte": 1,
-      "ingredients": [
-        {
-          "nom": "Flocons d&#x27;avoine",
-          "quantite": 70,
-          "unite": "ml"
-        },
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 24,
-          "unite": "cac"
-        },
-        {
-          "nom": "Banane",
-          "quantite": 11,
-          "unite": "g"
-        },
-        {
-          "nom": "Pomme de terre",
-          "quantite": 387,
-          "unite": "ml"
-        },
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 365,
-          "unite": "g"
-        }
-      ],
-      "etapes": [
-        "Mollis mattis lum porttitor nulla lum i bibendum. Finibus consectetur ex erat rhoncus o porttitor aliquam suscipit. Vel neque vestibulum eu tempor tortor. Sed cit sed maecenas cursus. Pharetra faucibus massa ac en consequat laoreet lum leo justo vehicula pulvinar.",
-"Ac sem hendrerit lum velit. Lacus augue e o, au non est tristique en, lacinia ipsum con mi ultrices amet cras maximus.",
-"Iaculis vulputate maecenas iaculis vehicula vehicula condimentum iaculis justo cit vel, tortor sollicitudin iaculis.",
-"Metus leo enim purus ut orci quisque con posuere. Cursus pretium sit porttitor mi, amet imperdiet ex ipsum. Purus erat tincidunt laoreet."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 163,
-        "proteines_g": 13,
-        "glucides_g": 43,
-        "lipides_g": 23,
-        "fibres_g": 2
-      },
-      "empreinte_carbone_kg_co2e": 2.3,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-c50cedad-31c1-41b1-9b77-f1c80c85ea56",
-      "type": "recette",
-      "nom": "Compote pomme coing",
-      "categorie": "Dessert",
-      "saison_recommandee": "Printemps",
-      "regime_compatible": [
-        "Végan",
-"Végétarien"
-
-      ],
-      "temps_preparation_min": 73,
-      "portions": 6,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Persil",
-          "quantite": 364,
-          "unite": "ml"
-        },
-        {
-          "nom": "Échalote",
-          "quantite": 239,
-          "unite": "cas"
-        },
-        {
-          "nom": "Poivron",
-          "quantite": 75,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Tomate",
-          "quantite": 24,
-          "unite": "cas"
-        },
-        {
-          "nom": "Flocons d&#x27;avoine",
-          "quantite": 36,
-          "unite": "g"
-        },
-        {
-          "nom": "Tofu ferme",
-          "quantite": 186,
-          "unite": "cac"
-        },
-        {
-          "nom": "Flocons d&#x27;avoine",
-          "quantite": 236,
-          "unite": "cac"
-        },
-        {
-          "nom": "Escalope de poulet",
-          "quantite": 152,
-          "unite": "cas"
-        },
-        {
-          "nom": "Persil",
-          "quantite": 106,
-          "unite": "cas"
-        }
-      ],
-      "etapes": [
-        "Cursus accumsan turpis curabitur pellentesque eros. Maecenas it cit i ultricies risus maecenas magna tincidunt au, facilisis mattis facilisis suscipit it cras. Donec mattis lum etiam. Pharetra iaculis mattis augue, sed lacinia ultricies neque lobortis vulputate elementum elit.",
-"Proin auctor ali lum mattis eti eti nulla. Pulvinar accumsan justo tortor proin it eget dui ac lacinia.",
-"Sollicitudin ipsum massa rhoncus dictum dictum enim, ali turpis mi donec facilisis risus donec ornare u, proin augue laoreet lum. Ac felis i suscipit turpis nisl.",
-"Gravida cras augue hendrerit tempus felis facilisis in cursus nisi aliquet, adipiscing nam posuere curabitur ali ut suscipit euismod proin tempus. Elit tempus e magna tempor.",
-"U arcu sem quisque turpis purus amet placerat i.",
-"Neque eros eget nunc nulla amet porttitor amet. Morbi condimentum sagittis sollicitudin et velit sed. Lacinia nibh ultricies ipsum sed.",
-"Sollicitudin tincidunt facilisis a risus, a cras pretium orci a dui amet vehicula quis ex eget tempus, eget ut adipiscing dolor lacinia fringilla, auctor nisi donec.",
-"Finibus laoreet dui nibh vehicula cit. Turpis ali commodo facilisis dui tempor. Aliquam accumsan rhoncus sem, eti pellentesque nisi mollis, tempor et facilisis elit tortor eu. Arcu blandit sollicitudin dignissim. Quis donec dui justo imperdiet nisl mi cursus."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 610,
-        "proteines_g": 32,
-        "glucides_g": 46,
-        "lipides_g": 16,
-        "fibres_g": 4
-      },
-      "empreinte_carbone_kg_co2e": 2.9,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-0245ae6a-7d49-434a-91e0-9629122ebd67",
-      "type": "recette",
-      "nom": "Curry de pois chiches au lait de coco",
-      "categorie": "Plat principal",
-      "saison_recommandee": "Printemps",
-      "regime_compatible": [
-        "Végétarien"
-
-      ],
-      "temps_preparation_min": 84,
-      "portions": 6,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Basilic frais",
-          "quantite": 244,
-          "unite": "ml"
-        },
-        {
-          "nom": "Betterave",
-          "quantite": 50,
-          "unite": "cas"
-        },
-        {
-          "nom": "Échalote",
-          "quantite": 58,
-          "unite": "ml"
-        }
-      ],
-      "etapes": [
-        "Et curabitur vel e o morbi lacus sit sagittis cit sodales porttitor. Tempus velit e id, nam sagittis laoreet i elementum. Tristique pulvinar consequat nam, nisi pharetra ultricies a enim.",
-"Erat scelerisque bibendum lum aliquet pharetra. Cit vehicula pretium mattis blandit tempor. Pellentesque pulvinar cursus diam, dui ornare curabitur consequat dictum tempor ex eti lacinia dictum mauris natoque.",
-"Dictum justo iaculis felis tincidunt elit i, quisque euismod aliquet eget sit rhoncus nisi metus. Elit magna pellentesque dolor.",
-"Placerat natoque en dignissim curabitur. Lum lacinia nisl laoreet sapien ex.",
-"Massa diam ut est auctor tristique con con fringilla quisque sagittis. Pellentesque mi condimentum donec.",
-"A lacus mattis quisque massa. Maximus sagittis en placerat. Maecenas nulla eget sem tristique tempus, dui metus amet in metus sit morbi ac.",
-"Proin risus euismod rhoncus felis finibus, posuere cit rhoncus sem. Ac eget tincidunt lectus. Pellentesque elit diam mattis sapien. Ornare lacinia lacus adipiscing id id lectus tincidunt sem sit, cursus sodales porttitor vitae mollis bibendum, viverra el cit sit finibus.",
-"Suscipit iaculis pulvinar mauris tristique lum ultrices vehicula. Consectetur sed imperdiet lorem sed, augue nunc id eti neque viverra orci, con amet nam."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 627,
-        "proteines_g": 43,
-        "glucides_g": 71,
-        "lipides_g": 27,
-        "fibres_g": 4
-      },
-      "empreinte_carbone_kg_co2e": 1.3,
-      "de_saison": false,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-bf816aa8-bd46-4cc7-a143-798c296c8981",
-      "type": "recette",
-      "nom": "Lasagnes aux épinards",
-      "categorie": "Petit-déjeuner",
-      "saison_recommandee": "Printemps",
-      "regime_compatible": [
-        "Sans lactose",
-"Végétarien"
-
-      ],
-      "temps_preparation_min": 24,
-      "portions": 4,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Betterave",
-          "quantite": 82,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Champignons de Paris",
-          "quantite": 228,
-          "unite": "ml"
-        },
-        {
-          "nom": "Crème légère",
-          "quantite": 169,
-          "unite": "g"
-        },
-        {
-          "nom": "Comté",
-          "quantite": 47,
-          "unite": "ml"
-        },
-        {
-          "nom": "Filet de saumon",
-          "quantite": 93,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Farine de sarrasin",
-          "quantite": 346,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Miel",
-          "quantite": 238,
-          "unite": "ml"
-        },
-        {
-          "nom": "Coco",
-          "quantite": 279,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Banane",
-          "quantite": 199,
-          "unite": "ml"
-        }
-      ],
-      "etapes": [
-        "Neque blandit sem eu a iaculis tristique. Ultricies laoreet tortor el mattis. Mollis eget eget tristique lectus.",
-"At lobortis cras fringilla en. Mattis amet metus bibendum leo a.",
-"Maecenas tortor lacinia nulla mattis justo hendrerit finibus elementum eti tem, ante aliquam suscipit faucibus quisque purus tortor metus euismod, massa est vehicula.",
-"Ipsum sit cit dia diam, aliquet ex curabitur quisque i elementum finibus, ligula lacinia el."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 185,
-        "proteines_g": 44,
-        "glucides_g": 59,
-        "lipides_g": 19,
-        "fibres_g": 12
-      },
-      "empreinte_carbone_kg_co2e": 0.5,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-36e0c1c1-3569-4a2d-8bec-bd593fcbca08",
-      "type": "recette",
-      "nom": "Smoothie vert",
-      "categorie": "Petit-déjeuner",
-      "saison_recommandee": "Automne",
-      "regime_compatible": [
-        "Végétarien",
-"Sans lactose"
-
-      ],
-      "temps_preparation_min": 68,
-      "portions": 4,
-      "difficulte": 1,
-      "ingredients": [
-        {
-          "nom": "Courge butternut",
-          "quantite": 120,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Basilic frais",
-          "quantite": 236,
-          "unite": "cac"
-        },
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 211,
-          "unite": "ml"
-        }
-      ],
-      "etapes": [
-        "Est massa vulputate arcu magna eti. Sagittis risus dictum purus leo tempor. Vehicula nam euismod con maecenas u sodales viverra mi donec con nunc. Fringilla gravida aenean risus velit pretium ex.",
-"Mauris pharetra tortor pharetra lacinia tincidunt, vestibulum cit posuere ex non amet. Massa elit aliquam maecenas, ligula euismod adipiscing metus. Tempor u nisl tempor aliquam est non. Commodo eu fringilla massa consectetur est natoque.",
-"Magna consequat mollis proin leo. Blandit accumsan condimentum dia fringilla ac. Tortor nulla nisl enim. Lectus euismod laoreet lacinia a. E suscipit auctor laoreet consectetur, curabitur ante eros enim felis magna aliquam pulvinar mi diam. Aliquet id gravida.",
-"Sagittis ultrices ipsum posuere dolor id. U iaculis sapien placerat, mauris orci diam tempus.",
-"Maximus sit accumsan sit nibh condimentum, cursus posuere auctor consequat metus vel vestibulum cras. Augue et tem felis. It sodales curabitur metus. Morbi orci rhoncus ante, nulla el tincidunt tortor ipsum dui justo euismod leo.",
-"Vel tortor est au arcu. Eros scelerisque i quisque condimentum eti mauris aliquet."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 490,
-        "proteines_g": 16,
-        "glucides_g": 35,
-        "lipides_g": 15,
-        "fibres_g": 1
-      },
-      "empreinte_carbone_kg_co2e": 3.3,
-      "de_saison": true,
-      "ingredient_local_bio": false
-    },
-    {
-      "_id": "recette-3f1e7934-7ed1-40ed-b119-1fcedac99864",
-      "type": "recette",
-      "nom": "Gratin de courgettes",
+      "nom": "Riz au lait",
       "categorie": "Entrée",
       "saison_recommandee": "Automne",
       "regime_compatible": [
         "Végan"
 
       ],
-      "temps_preparation_min": 78,
+      "temps_preparation_min": 52,
       "portions": 2,
-      "difficulte": 1,
+      "difficulte": 2,
       "ingredients": [
         {
           "nom": "Feta",
+          "quantite": 287,
+          "unite": "cac"
+        },
+        {
+          "nom": "Pâtes complètes",
           "quantite": 83,
           "unite": "cac"
         },
         {
-          "nom": "Pomme de terre",
-          "quantite": 141,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Miel",
-          "quantite": 140,
-          "unite": "cas"
-        },
-        {
-          "nom": "Ail",
-          "quantite": 212,
-          "unite": "pièce(s)"
+          "nom": "Lentilles corail",
+          "quantite": 23,
+          "unite": "cac"
         }
       ],
       "etapes": [
-        "Mi eros tempor tempor augue. Adipiscing tem imperdiet diam, dia est maecenas.",
-"Mollis tem scelerisque laoreet vulputate. Lectus euismod aliquet est aenean vitae, ex el mollis aenean nulla mattis condimentum mollis cursus.",
-"Elit sollicitudin cras dui eu. Faucibus dia pretium.",
-"Pretium en accumsan pulvinar etiam pulvinar cursus. Proin massa turpis sapien. Vel lacinia neque porttitor. Arcu finibus augue posuere auctor cursus.",
-"Pulvinar augue mauris elit elementum lacus mauris neque dignissim bibendum, augue ultrices eu mi eu adipiscing ut felis. Facilisis donec lobortis in dui mauris. Turpis en dolor condimentum. Pharetra consectetur nisl leo adipiscing sodales u.",
-"Vulputate bibendum aliquam dui ornare, elementum suscipit sit commodo non vehicula accumsan. Pulvinar arcu sodales suscipit mi eti amet augue ali iaculis augue consequat.",
-"Sapien ligula viverra lacinia en tem dolor. Consectetur ornare purus sollicitudin justo ut.",
-"Elit lobortis nisi quis augue lacinia faucibus, facilisis eu nam orci sit nibh, suscipit tempus aliquet i vehicula, amet ipsum a en. Lectus mi orci sem fringilla it condimentum, consequat u donec justo it nam, a aliquet diam felis."
+        "Nulla bibendum elementum ut accumsan aenean sapien el rhoncus eti condimentum. Ultricies felis eti erat cras e et porttitor nibh magna tempus.",
+"Consectetur vehicula aliquam velit aliquet. Tincidunt sollicitudin eti sapien. Ut nam scelerisque placerat velit. Hendrerit sem pulvinar eros diam, dictum lum sed eget leo o nulla eu etiam.",
+"Facilisis ali suscipit sagittis adipiscing mi. Donec mollis quisque nunc maximus e o natoque quis cit et eros el, metus elementum lacinia sagittis lobortis nam, posuere ornare proin facilisis. Pulvinar hendrerit neque vitae velit.",
+"Lacinia felis sollicitudin dui turpis pretium purus eu vestibulum adipiscing auctor dolor scelerisque, nisl ex curabitur ipsum lacinia eget laoreet e id, tem finibus vitae o. Mi justo curabitur ali. It viverra aliquam adipiscing, donec est dia."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 514,
-        "proteines_g": 5,
-        "glucides_g": 59,
-        "lipides_g": 18,
-        "fibres_g": 12
+        "calories_kcal": 312,
+        "proteines_g": 37,
+        "glucides_g": 77,
+        "lipides_g": 16,
+        "fibres_g": 7
       },
-      "empreinte_carbone_kg_co2e": 2.3,
+      "empreinte_carbone_kg_co2e": 3.2,
       "de_saison": true,
       "ingredient_local_bio": true
     },
     {
-      "_id": "recette-b7554f27-276c-4135-9388-31eeac2e55d2",
+      "_id": "recette-21932f7b-328e-49b3-a922-ad8640c8d0cb",
       "type": "recette",
-      "nom": "Soupe de pois cassés",
-      "categorie": "Petit-déjeuner",
-      "saison_recommandee": "Automne",
-      "regime_compatible": [
-        "Végétarien"
-
-      ],
-      "temps_preparation_min": 46,
-      "portions": 3,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Poireau",
-          "quantite": 209,
-          "unite": "g"
-        },
-        {
-          "nom": "Épinards",
-          "quantite": 266,
-          "unite": "cas"
-        },
-        {
-          "nom": "Flocons d&#x27;avoine",
-          "quantite": 259,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Pois chiches",
-          "quantite": 341,
-          "unite": "ml"
-        },
-        {
-          "nom": "Œuf",
-          "quantite": 125,
-          "unite": "cac"
-        },
-        {
-          "nom": "Miel",
-          "quantite": 247,
-          "unite": "cac"
-        },
-        {
-          "nom": "Farine de sarrasin",
-          "quantite": 48,
-          "unite": "cac"
-        },
-        {
-          "nom": "Farine de sarrasin",
-          "quantite": 76,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Persil",
-          "quantite": 52,
-          "unite": "ml"
-        }
-      ],
-      "etapes": [
-        "Curabitur natoque tincidunt en eros elementum placerat purus sit commodo. Hendrerit lacinia a nibh ut vel quis a in.",
-"Nisl lacinia tem gravida mattis. I est etiam dia gravida. Pretium cras ipsum.",
-"Con vitae maecenas ante au sapien nisl felis con, consequat velit au imperdiet. Ex eti at e viverra.",
-"Pulvinar dolor iaculis accumsan tincidunt lacinia elementum, justo eros cursus aliquam augue morbi lacinia. At lectus e diam ac. Sagittis mi tempor au pharetra ali aliquam, ligula ac nisl faucibus au vitae pellentesque auctor.",
-"O consequat nibh nulla commodo, nulla proin eros ornare cursus lacinia, sit placerat lobortis est erat et ultricies ornare. Commodo lacus nibh at iaculis. Dolor vel sagittis enim. Elementum sollicitudin natoque nunc."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 723,
-        "proteines_g": 33,
-        "glucides_g": 36,
-        "lipides_g": 17,
-        "fibres_g": 2
-      },
-      "empreinte_carbone_kg_co2e": 0.6,
-      "de_saison": false,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-32a12fcc-0817-46f5-8011-16e70a88ccc7",
-      "type": "recette",
-      "nom": "Gratin endives jambon",
-      "categorie": "Entrée",
-      "saison_recommandee": "Printemps",
+      "nom": "Omelette aux herbes",
+      "categorie": "Dessert",
+      "saison_recommandee": "Hiver",
       "regime_compatible": [
         "Sans lactose"
 
       ],
-      "temps_preparation_min": 62,
-      "portions": 4,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 383,
-          "unite": "cas"
-        },
-        {
-          "nom": "Persil",
-          "quantite": 375,
-          "unite": "g"
-        },
-        {
-          "nom": "Betterave",
-          "quantite": 289,
-          "unite": "g"
-        },
-        {
-          "nom": "Filet de saumon",
-          "quantite": 113,
-          "unite": "ml"
-        },
-        {
-          "nom": "Épinards",
-          "quantite": 120,
-          "unite": "cac"
-        },
-        {
-          "nom": "Échalote",
-          "quantite": 294,
-          "unite": "cas"
-        }
-      ],
-      "etapes": [
-        "O orci euismod in mi suscipit. Lacinia condimentum tempus sed cit. Cras maximus el proin.",
-"Ante lacinia vestibulum tincidunt vulputate con felis. Proin donec in tincidunt iaculis sagittis. Cras en metus lacus con elementum. Leo pharetra ante vel gravida maximus ante eti placerat ante velit purus, morbi etiam auctor neque.",
-"Ex sem ipsum sollicitudin rhoncus morbi consectetur ante, pretium ali viverra finibus. Magna faucibus dia sit tortor. Est aenean pharetra magna scelerisque ac, morbi pharetra proin maximus.",
-"Purus consequat non neque morbi vitae vitae. Purus pharetra vehicula velit, id at proin blandit con ligula quisque lacinia eti suscipit, condimentum quis i dignissim risus magna. Aliquam a curabitur it ut, cit gravida posuere lacinia donec purus.",
-"Nulla elementum dolor auctor tristique, diam orci nulla elementum curabitur blandit lum. Condimentum tincidunt sed iaculis dia iaculis orci. Aenean tempus iaculis sit vestibulum, mauris sapien eu ligula. Cursus placerat imperdiet maximus. Arcu iaculis imperdiet.",
-"Mauris consectetur quis dia porttitor aliquet etiam blandit laoreet."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 192,
-        "proteines_g": 39,
-        "glucides_g": 19,
-        "lipides_g": 6,
-        "fibres_g": 2
-      },
-      "empreinte_carbone_kg_co2e": 0.9,
-      "de_saison": true,
-      "ingredient_local_bio": false
-    },
-    {
-      "_id": "recette-f2a1cb73-878f-4919-b1ce-35393357732b",
-      "type": "recette",
-      "nom": "Salade César revisitée",
-      "categorie": "Plat principal",
-      "saison_recommandee": "Automne",
-      "regime_compatible": [
-        "Végétarien",
-"Sans gluten",
-"Végétarien"
-
-      ],
-      "temps_preparation_min": 77,
-      "portions": 2,
+      "temps_preparation_min": 40,
+      "portions": 5,
       "difficulte": 3,
       "ingredients": [
         {
-          "nom": "Courge butternut",
-          "quantite": 385,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Menthe",
-          "quantite": 246,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Riz complet",
-          "quantite": 129,
-          "unite": "cas"
-        },
-        {
-          "nom": "Épinards",
-          "quantite": 112,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Aubergine",
-          "quantite": 382,
-          "unite": "pièce(s)"
-        }
-      ],
-      "etapes": [
-        "Lectus con mattis lacinia dui, ornare dia ligula consectetur consequat aenean a condimentum lacinia eu finibus. Metus adipiscing nibh ornare ali posuere suscipit tempor. Morbi mollis viverra amet id cit neque. Laoreet enim lectus augue laoreet pulvinar, aenean blandit magna.",
-"Bibendum magna ali maecenas bibendum. Et fringilla finibus sagittis auctor, magna risus etiam cursus nisi, est justo condimentum.",
-"Dui eti accumsan cursus tempus est it mauris scelerisque at suscipit eti posuere eu.",
-"Proin blandit dui ali dui in leo ut commodo curabitur.",
-"Tempus sodales it adipiscing nibh, ac i eti con at. Eget en ipsum pulvinar. U iaculis nibh purus nisi pretium. Tincidunt dignissim tristique vehicula eu. Ac finibus amet tincidunt nisl id it gravida. Maximus maximus sapien adipiscing cit massa condimentum.",
-"Ac nunc nam lacinia proin curabitur condimentum, aliquam porttitor metus consequat laoreet nam, neque sollicitudin hendrerit mattis, blandit placerat at adipiscing nam.",
-"Nulla lobortis diam id vulputate mattis, tristique tristique auctor eu elit turpis.",
-"Rhoncus leo mollis orci iaculis scelerisque morbi a viverra metus sagittis ultricies hendrerit. Id lobortis rhoncus mi e, a aenean tortor id con vel aliquet etiam sodales consectetur quis in curabitur erat o o eu."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 448,
-        "proteines_g": 28,
-        "glucides_g": 18,
-        "lipides_g": 27,
-        "fibres_g": 7
-      },
-      "empreinte_carbone_kg_co2e": 0.2,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-f3ab9ff0-9046-457a-b587-a3e80bd3ac14",
-      "type": "recette",
-      "nom": "Riz au lait",
-      "categorie": "Dessert",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Végan",
-"Végétarien",
-"Végétarien"
-
-      ],
-      "temps_preparation_min": 84,
-      "portions": 6,
-      "difficulte": 3,
-      "ingredients": [
-        {
-          "nom": "Pomme de terre",
-          "quantite": 182,
-          "unite": "cac"
-        },
-        {
-          "nom": "Lentilles corail",
-          "quantite": 40,
-          "unite": "cas"
-        },
-        {
-          "nom": "Haricots blancs",
-          "quantite": 381,
+          "nom": "Poireau",
+          "quantite": 34,
           "unite": "g"
         },
         {
           "nom": "Banane",
-          "quantite": 263,
-          "unite": "g"
+          "quantite": 383,
+          "unite": "ml"
         },
         {
-          "nom": "Pomme",
-          "quantite": 338,
-          "unite": "g"
-        },
-        {
-          "nom": "Laitue",
-          "quantite": 231,
-          "unite": "cac"
-        },
-        {
-          "nom": "Pois chiches",
-          "quantite": 215,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Lentilles corail",
-          "quantite": 291,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Chèvre frais",
-          "quantite": 14,
+          "nom": "Champignons de Paris",
+          "quantite": 101,
           "unite": "g"
         }
       ],
       "etapes": [
-        "Pharetra ornare nisi lacinia e lacinia placerat ali en, cit cit neque sagittis vel faucibus proin pretium u morbi, en id ornare a con. Ultrices iaculis mi vulputate maecenas augue. Porttitor dolor et aenean pulvinar.",
-"Euismod vulputate vulputate in mauris sem consequat en lobortis, ultricies ipsum donec id massa sem. In lacus magna u at maecenas con ante pulvinar. Consequat elit posuere.",
-"Pharetra non quis cursus condimentum vel elit. Viverra elit finibus eget. Nibh sit massa maximus dui.",
-"Lectus o justo at vulputate o scelerisque mollis maximus, in faucibus ultricies pellentesque laoreet nulla. Mi vestibulum neque in scelerisque est felis faucibus. Maecenas finibus arcu mattis tortor etiam.",
-"Risus euismod tempus felis consectetur au gravida nam risus tincidunt tincidunt non scelerisque lacus lacinia. Aliquet vestibulum quis pharetra.",
-"Massa tristique justo massa nunc tincidunt tincidunt finibus condimentum.",
-"Quis viverra turpis commodo sagittis morbi et, ali a mi eros tempus diam. Finibus arcu purus porttitor in, lectus imperdiet risus non dictum con risus ipsum, etiam en erat vulputate purus sapien.",
-"Maecenas lacinia cras rhoncus eros. En sollicitudin mattis diam quis. Vestibulum id enim proin orci sodales curabitur accumsan, ut fringilla ornare etiam ipsum. Natoque dolor viverra vestibulum dolor nibh pharetra ligula o lacinia."
+        "Etiam fringilla at eu el est nulla neque.",
+"Maximus vel ultrices facilisis maximus con dolor condimentum lacinia diam, consequat dictum diam orci. Iaculis faucibus mollis lacinia bibendum dui.",
+"Condimentum sodales magna ut neque erat nam enim finibus id. Dictum imperdiet cras sem. Hendrerit elementum neque aenean bibendum, dui cit eu massa. Sem eti tem mollis.",
+"Mollis vestibulum aenean ipsum purus lacinia dui. Aliquet suscipit consequat pellentesque.",
+"Laoreet et imperdiet sodales non ultricies vel. Cursus maximus vulputate scelerisque. Etiam mollis ac aliquet et, commodo placerat tem pellentesque adipiscing pellentesque faucibus iaculis. Dolor commodo massa non cursus lum a ligula elit dia, nibh sed tristique lacus.",
+"Proin maecenas tortor tortor id lorem bibendum sed eget aliquam el eti. Eti ultrices pulvinar tempor sagittis neque.",
+"Adipiscing metus est cit lacinia nisi a. Turpis vel purus auctor dictum. Finibus finibus non sodales metus. Mollis nisi it e el."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 314,
-        "proteines_g": 38,
-        "glucides_g": 5,
-        "lipides_g": 24,
-        "fibres_g": 8
+        "calories_kcal": 754,
+        "proteines_g": 4,
+        "glucides_g": 49,
+        "lipides_g": 6,
+        "fibres_g": 4
       },
-      "empreinte_carbone_kg_co2e": 1.6,
+      "empreinte_carbone_kg_co2e": 3.4,
       "de_saison": false,
       "ingredient_local_bio": false
     },
     {
-      "_id": "recette-ed75e75f-1d47-43f8-a41c-77a4a42407cc",
+      "_id": "recette-c04fadb8-e8a1-40c0-9da8-97a6c2564469",
       "type": "recette",
-      "nom": "Tofu au gingembre",
-      "categorie": "Plat principal",
+      "nom": "Nouilles soba",
+      "categorie": "Entrée",
       "saison_recommandee": "Automne",
       "regime_compatible": [
-        "Végétarien",
-"Sans gluten",
-"Sans gluten"
-
-      ],
-      "temps_preparation_min": 58,
-      "portions": 4,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Crème légère",
-          "quantite": 389,
-          "unite": "cas"
-        },
-        {
-          "nom": "Filet de saumon",
-          "quantite": 370,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Feta",
-          "quantite": 193,
-          "unite": "ml"
-        },
-        {
-          "nom": "Riz complet",
-          "quantite": 52,
-          "unite": "ml"
-        },
-        {
-          "nom": "Échalote",
-          "quantite": 319,
-          "unite": "pièce(s)"
-        }
-      ],
-      "etapes": [
-        "Et sapien it arcu consequat lectus. Aenean sollicitudin diam vestibulum amet fringilla lum ligula. Tem consectetur est arcu. Lorem lectus a bibendum turpis leo tincidunt tempor.",
-"En nibh nisl ante posuere au, hendrerit proin euismod e morbi massa maximus cit pretium.",
-"Faucibus nisi ultrices enim maecenas sollicitudin scelerisque porttitor natoque ornare lacinia. Mollis dignissim mattis a enim auctor, ultrices mollis finibus vel it tempus lacus vitae vitae dictum turpis, sodales aenean lobortis nisl.",
-"Lum bibendum maecenas vel cit ornare blandit u non cras lacus au. Condimentum magna magna morbi, en aenean facilisis tristique in aenean blandit, ipsum auctor maximus laoreet nibh ultricies bibendum purus ultrices etiam, nisi hendrerit vehicula o eros hendrerit."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 804,
-        "proteines_g": 38,
-        "glucides_g": 65,
-        "lipides_g": 20,
-        "fibres_g": 3
-      },
-      "empreinte_carbone_kg_co2e": 0.2,
-      "de_saison": false,
-      "ingredient_local_bio": false
-    },
-    {
-      "_id": "recette-4705490d-04c7-4c6d-a5f5-2517e04c721e",
-      "type": "recette",
-      "nom": "Velouté courgette menthe",
-      "categorie": "Petit-déjeuner",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Sans gluten",
-"Sans lactose",
-"Végétarien"
+        "Sans lactose"
 
       ],
       "temps_preparation_min": 27,
@@ -1917,1130 +1540,1429 @@
       "difficulte": 2,
       "ingredients": [
         {
-          "nom": "Thon au naturel",
-          "quantite": 83,
-          "unite": "ml"
-        },
-        {
-          "nom": "Lait demi-écrémé",
-          "quantite": 185,
-          "unite": "cas"
-        },
-        {
-          "nom": "Crème légère",
-          "quantite": 237,
-          "unite": "cac"
-        }
-      ],
-      "etapes": [
-        "Ipsum mauris consectetur donec faucibus amet a lum nam id etiam u. Arcu faucibus sollicitudin non condimentum mi.",
-"I non posuere vestibulum mattis. Est diam posuere et.",
-"Vestibulum leo orci eu justo ut, lacus donec lacinia quis mollis. Orci vitae cursus ante turpis et purus dui sed facilisis, ex aliquam sem."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 299,
-        "proteines_g": 37,
-        "glucides_g": 48,
-        "lipides_g": 20,
-        "fibres_g": 4
-      },
-      "empreinte_carbone_kg_co2e": 1.1,
-      "de_saison": false,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-c7f138e8-bda8-47fc-a2e0-29068d019023",
-      "type": "recette",
-      "nom": "Soupe de potimarron",
-      "categorie": "Plat principal",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Végétarien"
-
-      ],
-      "temps_preparation_min": 46,
-      "portions": 3,
-      "difficulte": 3,
-      "ingredients": [
-        {
-          "nom": "Champignons de Paris",
-          "quantite": 93,
+          "nom": "Pomme de terre",
+          "quantite": 345,
           "unite": "cac"
         },
         {
-          "nom": "Poireau",
-          "quantite": 171,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Tofu ferme",
-          "quantite": 119,
-          "unite": "g"
-        }
-      ],
-      "etapes": [
-        "En cras en viverra sodales blandit. Tristique i dolor turpis ultricies leo nibh lobortis sodales aliquet maecenas. Maximus pretium condimentum sapien donec, lorem eget commodo tincidunt neque. Nulla dignissim nisl sapien lacinia.",
-"Nibh cras a nam suscipit eti. Erat aenean pellentesque ultricies. Justo vestibulum viverra dia ante elementum tem et dui e placerat et euismod et quisque o. Nibh vel vulputate ac mi gravida.",
-"Natoque mi at ante vehicula. Eti nisl tempor suscipit. Lectus vehicula o finibus massa morbi. Pulvinar consectetur erat iaculis tincidunt, sapien lum tempor ipsum, mollis massa accumsan sem.",
-"Ligula felis u tempus et. Viverra cras tem non sem massa. Nulla imperdiet mi sit e sodales massa consequat eros. Cit eget blandit placerat vehicula. Magna donec fringilla dictum lobortis placerat nam finibus.",
-"Finibus dia elit sed it imperdiet ali, sapien sapien aliquet ultrices bibendum gravida. Imperdiet e morbi est ultricies auctor arcu bibendum dolor dictum, felis nulla aliquet it. Enim iaculis justo donec dia. Sem ut euismod ac ligula leo i.",
-"Elementum velit consequat faucibus dia eget a. Suscipit natoque nisl tempus nam accumsan. Ornare commodo sed condimentum, quisque pretium dictum o auctor eu sagittis. Sapien dia eti tincidunt tempus.",
-"Hendrerit maecenas sodales hendrerit blandit consequat. Viverra eros i commodo consectetur. Sapien morbi tempus dictum. Condimentum erat condimentum nisl dolor turpis natoque, elementum cras sodales sagittis velit lobortis dictum. Fringilla in porttitor velit ultricies fringilla con morbi felis."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 148,
-        "proteines_g": 30,
-        "glucides_g": 38,
-        "lipides_g": 6,
-        "fibres_g": 5
-      },
-      "empreinte_carbone_kg_co2e": 0.6,
-      "de_saison": false,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-7e5a6d3b-e24a-408d-b5ee-bd6f05acb3fb",
-      "type": "recette",
-      "nom": "Smoothie vert",
-      "categorie": "Plat principal",
-      "saison_recommandee": "Hiver",
-      "regime_compatible": [
-        "Végétarien",
-"Sans lactose"
-
-      ],
-      "temps_preparation_min": 58,
-      "portions": 2,
-      "difficulte": 3,
-      "ingredients": [
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 379,
+          "nom": "Courge butternut",
+          "quantite": 276,
           "unite": "ml"
-        },
-        {
-          "nom": "Chèvre frais",
-          "quantite": 361,
-          "unite": "cas"
-        },
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 180,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Coco",
-          "quantite": 239,
-          "unite": "ml"
-        },
-        {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 88,
-          "unite": "g"
-        },
-        {
-          "nom": "Menthe",
-          "quantite": 324,
-          "unite": "cas"
-        },
-        {
-          "nom": "Citron",
-          "quantite": 97,
-          "unite": "cas"
-        },
-        {
-          "nom": "Thon au naturel",
-          "quantite": 26,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Persil",
-          "quantite": 125,
-          "unite": "cac"
-        }
-      ],
-      "etapes": [
-        "Magna rhoncus cit tempus vitae. Eget sapien nunc it, sodales ultrices neque lacinia purus est ornare est, mi sodales mollis maecenas sapien maecenas morbi metus sapien, vehicula tincidunt blandit nisl donec cras pellentesque au eros.",
-"Accumsan eros sit pulvinar est commodo mauris rhoncus nibh iaculis e commodo sodales finibus.",
-"Nisi scelerisque mattis turpis gravida nisi. Et sagittis euismod pulvinar amet. Ornare lobortis ali dolor, sollicitudin i en bibendum, tem tempor velit.",
-"Nulla ut vestibulum au dui. Pharetra cit metus u consectetur natoque tempus, donec etiam amet gravida lectus. Metus i et donec leo dignissim at, at risus nibh commodo neque erat etiam ipsum.",
-"Rhoncus et lacus nibh amet risus lacinia. Dui commodo viverra et mattis. Sed aliquam lacus dolor e tempor ligula cursus enim scelerisque, placerat cras eget suscipit facilisis. Tempor ut e etiam.",
-"Dictum quis maecenas id vel. Consectetur nunc tortor cras ante eu."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 576,
-        "proteines_g": 42,
-        "glucides_g": 5,
-        "lipides_g": 10,
-        "fibres_g": 9
-      },
-      "empreinte_carbone_kg_co2e": 1.0,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-ff8149e4-4bc9-4307-8496-0fea2974a9bc",
-      "type": "recette",
-      "nom": "Salade Niçoise",
-      "categorie": "Entrée",
-      "saison_recommandee": "Automne",
-      "regime_compatible": [
-        "Sans gluten"
-
-      ],
-      "temps_preparation_min": 21,
-      "portions": 6,
-      "difficulte": 2,
-      "ingredients": [
-        {
-          "nom": "Riz complet",
-          "quantite": 56,
-          "unite": "cac"
-        },
-        {
-          "nom": "Laitue",
-          "quantite": 251,
-          "unite": "ml"
-        },
-        {
-          "nom": "Flocons d&#x27;avoine",
-          "quantite": 103,
-          "unite": "cas"
-        },
-        {
-          "nom": "Filet de saumon",
-          "quantite": 321,
-          "unite": "g"
-        },
-        {
-          "nom": "Pâtes complètes",
-          "quantite": 197,
-          "unite": "cas"
-        }
-      ],
-      "etapes": [
-        "Leo tincidunt et neque purus. O at en sagittis. Purus euismod lectus ligula. Neque dignissim suscipit elit ornare. Metus dolor pretium scelerisque ipsum est, bibendum leo amet i. Elit eros morbi purus. Placerat justo ultrices au etiam dignissim aliquam orci.",
-"Lacinia curabitur lacinia con turpis nisi aenean quis.",
-"Donec mollis finibus vitae gravida. Augue risus leo ornare. Nunc ornare massa eget aenean mollis. Faucibus placerat metus elementum, amet nisl non proin eget vel nibh ultrices velit. Ipsum pellentesque aenean consequat sit iaculis eti u nibh.",
-"Bibendum placerat hendrerit non tempus sodales diam, iaculis tem nulla it en dignissim nibh pellentesque auctor, blandit finibus bibendum sem elementum, cursus blandit gravida risus. Est vehicula porttitor enim. Eros maecenas ornare cras.",
-"Id o maximus vel con, lacinia dolor lobortis sed condimentum ac nulla etiam imperdiet. Amet en sapien sagittis maximus, commodo e sapien vestibulum facilisis. Condimentum velit eget lum. Pellentesque sollicitudin tortor ligula imperdiet. Ac neque pharetra ipsum id quis."
-
-      ],
-      "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 465,
-        "proteines_g": 32,
-        "glucides_g": 77,
-        "lipides_g": 30,
-        "fibres_g": 12
-      },
-      "empreinte_carbone_kg_co2e": 1.4,
-      "de_saison": true,
-      "ingredient_local_bio": true
-    },
-    {
-      "_id": "recette-2d6a4aaf-0d04-4b3e-a66b-296ccd577bab",
-      "type": "recette",
-      "nom": "Taboulé de boulgour",
-      "categorie": "Plat principal",
-      "saison_recommandee": "Automne",
-      "regime_compatible": [
-        "Végétarien",
-"Sans lactose",
-"Végétarien"
-
-      ],
-      "temps_preparation_min": 79,
-      "portions": 1,
-      "difficulte": 3,
-      "ingredients": [
-        {
-          "nom": "Quinoa",
-          "quantite": 318,
-          "unite": "cas"
-        },
-        {
-          "nom": "Filet de saumon",
-          "quantite": 362,
-          "unite": "cas"
         },
         {
           "nom": "Pomme de terre",
-          "quantite": 276,
-          "unite": "g"
-        },
-        {
-          "nom": "Haricots blancs",
-          "quantite": 392,
+          "quantite": 352,
           "unite": "cac"
         },
         {
-          "nom": "Oignon",
-          "quantite": 139,
-          "unite": "g"
+          "nom": "Haricots blancs",
+          "quantite": 27,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Flocons d'avoine",
+          "quantite": 280,
+          "unite": "pièce(s)"
         }
       ],
       "etapes": [
-        "Condimentum suscipit i consequat sem suscipit i, id suscipit mattis ultrices arcu quisque. Iaculis sodales lacus pharetra, dolor erat lum tem mi augue, dia etiam morbi consectetur, etiam viverra justo sagittis porttitor dia, ante a cras el tempor.",
-"Nisl magna viverra elementum proin justo eget, e risus laoreet ultrices mollis it diam amet risus.",
-"Cras elit tortor nam accumsan. Tortor at vitae aliquet nunc id aliquam suscipit curabitur sem morbi ali vestibulum magna u pellentesque vulputate aliquam euismod leo pulvinar nam dui.",
-"Eros fringilla tortor lacinia ut lum. Eu aliquet augue augue erat aenean non. Vel velit con in tincidunt.",
-"El cursus posuere sit blandit blandit. Sem ex risus erat. E eget magna est adipiscing el scelerisque."
+        "E o a mauris mattis, etiam sed elit cit cras consequat. Accumsan enim curabitur pellentesque.",
+"Ornare enim eti magna turpis mauris. Lectus sodales ut laoreet, facilisis o eu porttitor lacinia. Accumsan laoreet aliquam dictum aliquet placerat eros ex, pretium ornare finibus et. Curabitur tortor sapien iaculis tempus etiam, tristique turpis a euismod orci lacus ornare.",
+"Nisi diam purus ante aliquet porttitor tristique. Nisi enim ac aliquet diam.",
+"Sit tempor nisl tem ultrices metus e erat lum auctor. Mauris ut cursus u faucibus eti. Lacinia imperdiet mauris dui. Commodo vel mollis cursus scelerisque e lectus pharetra u lacus accumsan leo amet. Commodo aliquam lum eu tempor aliquam mollis."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 840,
-        "proteines_g": 13,
-        "glucides_g": 78,
-        "lipides_g": 35,
-        "fibres_g": 12
+        "calories_kcal": 339,
+        "proteines_g": 25,
+        "glucides_g": 16,
+        "lipides_g": 26,
+        "fibres_g": 6
       },
-      "empreinte_carbone_kg_co2e": 1.5,
+      "empreinte_carbone_kg_co2e": 0.5,
       "de_saison": false,
       "ingredient_local_bio": true
     },
     {
-      "_id": "recette-41507df0-fb78-44c6-9368-ab6780491a7f",
+      "_id": "recette-0e38ac94-91b8-4a5c-a324-e40d25023326",
       "type": "recette",
-      "nom": "Tartine chèvre miel noix",
-      "categorie": "Entrée",
+      "nom": "Compote pomme coing",
+      "categorie": "Petit-déjeuner",
+      "saison_recommandee": "Hiver",
+      "regime_compatible": [
+        "Végétarien",
+"Végan",
+"Végan"
+
+      ],
+      "temps_preparation_min": 19,
+      "portions": 2,
+      "difficulte": 2,
+      "ingredients": [
+        {
+          "nom": "Escalope de poulet",
+          "quantite": 363,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Laitue",
+          "quantite": 310,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Aubergine",
+          "quantite": 223,
+          "unite": "pièce(s)"
+        }
+      ],
+      "etapes": [
+        "Consectetur in nisl it donec. Con sem blandit velit, nisl velit mauris nam vestibulum, massa maximus elit vulputate au eget euismod at diam ac sapien it ali elementum non.",
+"Vitae mollis maximus eti dignissim, quis cit nulla condimentum quis, dolor dui lacinia non imperdiet, gravida ut pretium consectetur vel ultricies consequat tincidunt. En eget neque o non faucibus o donec mauris.",
+"Lacus mi leo erat facilisis. Sagittis a curabitur purus ali est. Scelerisque natoque sapien morbi cit lobortis. Porttitor purus felis elit est a curabitur amet el dignissim magna augue faucibus lectus vel morbi suscipit hendrerit iaculis.",
+"Nunc en ultricies pharetra ut aliquet metus. Lacinia consectetur turpis magna. Dia vestibulum accumsan ut magna ex quis aenean a."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 802,
+        "proteines_g": 9,
+        "glucides_g": 48,
+        "lipides_g": 33,
+        "fibres_g": 6
+      },
+      "empreinte_carbone_kg_co2e": 2.8,
+      "de_saison": true,
+      "ingredient_local_bio": false
+    },
+    {
+      "_id": "recette-00e4bed3-2c68-4ef1-9334-0b1484c7dd69",
+      "type": "recette",
+      "nom": "Gaspacho tomate poivron",
+      "categorie": "Dessert",
       "saison_recommandee": "Automne",
       "regime_compatible": [
         "Végétarien",
 "Végan"
 
       ],
-      "temps_preparation_min": 54,
-      "portions": 3,
-      "difficulte": 1,
+      "temps_preparation_min": 26,
+      "portions": 2,
+      "difficulte": 3,
       "ingredients": [
         {
-          "nom": "Huile d&#x27;olive",
-          "quantite": 277,
-          "unite": "cac"
+          "nom": "Pomme de terre",
+          "quantite": 144,
+          "unite": "g"
         },
         {
-          "nom": "Yaourt nature",
-          "quantite": 68,
+          "nom": "Pomme",
+          "quantite": 87,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Huile d'olive",
+          "quantite": 393,
           "unite": "ml"
         },
         {
-          "nom": "Coco",
-          "quantite": 382,
-          "unite": "pièce(s)"
+          "nom": "Quinoa",
+          "quantite": 192,
+          "unite": "cas"
         },
         {
-          "nom": "Courgette",
-          "quantite": 238,
-          "unite": "pièce(s)"
-        },
-        {
-          "nom": "Menthe",
-          "quantite": 26,
+          "nom": "Moutarde",
+          "quantite": 19,
           "unite": "ml"
         },
         {
           "nom": "Boulgour",
-          "quantite": 399,
-          "unite": "g"
+          "quantite": 135,
+          "unite": "ml"
         },
         {
-          "nom": "Pomme de terre",
-          "quantite": 272,
+          "nom": "Échalote",
+          "quantite": 66,
           "unite": "pièce(s)"
         },
         {
-          "nom": "Poivron",
-          "quantite": 298,
-          "unite": "g"
+          "nom": "Haricots blancs",
+          "quantite": 294,
+          "unite": "cac"
+        },
+        {
+          "nom": "Échalote",
+          "quantite": 131,
+          "unite": "cas"
         }
       ],
       "etapes": [
-        "It auctor arcu tristique nulla nibh finibus sed. Vitae diam auctor pulvinar eget hendrerit non lum quis eti, nisl leo amet scelerisque sit mattis ultrices cursus et.",
-"Suscipit consequat ante hendrerit lum lobortis. Tempus eros cursus leo et. Elit pretium natoque felis laoreet. Elementum enim vestibulum eti, vehicula iaculis aenean accumsan. Orci mauris ac viverra mauris u blandit. Magna eros pharetra arcu.",
-"Ligula condimentum blandit e ante lacinia augue aliquam dignissim, pharetra pretium non vitae at velit diam lum.",
-"Erat eget auctor nunc metus sem lacus elit faucibus iaculis lacinia consequat. Vehicula consectetur ali leo, risus natoque vitae elementum, donec justo euismod."
+        "Nam euismod neque commodo leo nulla curabitur vel enim. O enim suscipit adipiscing, tincidunt elit e felis commodo mollis mattis ipsum sollicitudin tristique ipsum. Bibendum non ex nibh sagittis etiam lectus.",
+"Sagittis risus lacinia nunc nunc. Lacinia etiam sed lorem. Pellentesque sollicitudin bibendum placerat vehicula, dignissim tincidunt imperdiet u, lectus arcu etiam vehicula gravida, tem eu quis pretium cursus laoreet non. Scelerisque elit eti turpis donec bibendum.",
+"Vitae ali quis ipsum lacinia metus. Quisque elementum porttitor consequat. Laoreet at pretium el nisi quisque con.",
+"Sed id proin sagittis mattis eros. Lacinia sapien lacinia condimentum etiam neque. Placerat sodales facilisis elementum lacinia. Arcu mi ut condimentum pulvinar, morbi maecenas con."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 556,
-        "proteines_g": 9,
-        "glucides_g": 29,
-        "lipides_g": 33,
-        "fibres_g": 9
+        "calories_kcal": 191,
+        "proteines_g": 6,
+        "glucides_g": 70,
+        "lipides_g": 6,
+        "fibres_g": 12
       },
-      "empreinte_carbone_kg_co2e": 1.6,
+      "empreinte_carbone_kg_co2e": 2.3,
       "de_saison": false,
       "ingredient_local_bio": true
     },
     {
-      "_id": "recette-8f236398-fc28-4c33-b2aa-b9dc304203e8",
+      "_id": "recette-38f317ae-9465-4251-a5ff-9a7c5f687018",
       "type": "recette",
-      "nom": "Brochettes légumes tofu",
+      "nom": "Buddha bowl quinoa et pois chiches",
       "categorie": "Collation",
       "saison_recommandee": "Hiver",
       "regime_compatible": [
         "Végan",
-"Sans lactose",
+"Végan",
 "Sans gluten"
 
       ],
-      "temps_preparation_min": 66,
+      "temps_preparation_min": 28,
       "portions": 3,
-      "difficulte": 2,
+      "difficulte": 3,
       "ingredients": [
         {
-          "nom": "Farine de sarrasin",
-          "quantite": 73,
+          "nom": "Pomme de terre",
+          "quantite": 274,
+          "unite": "ml"
+        },
+        {
+          "nom": "Pâtes complètes",
+          "quantite": 164,
           "unite": "g"
-        },
-        {
-          "nom": "Comté",
-          "quantite": 60,
-          "unite": "g"
-        },
-        {
-          "nom": "Coco",
-          "quantite": 121,
-          "unite": "g"
-        },
-        {
-          "nom": "Courgette",
-          "quantite": 395,
-          "unite": "cac"
-        },
-        {
-          "nom": "Quinoa",
-          "quantite": 39,
-          "unite": "g"
-        },
-        {
-          "nom": "Courgette",
-          "quantite": 63,
-          "unite": "pièce(s)"
         },
         {
           "nom": "Échalote",
-          "quantite": 53,
+          "quantite": 131,
+          "unite": "ml"
+        },
+        {
+          "nom": "Courgette",
+          "quantite": 40,
+          "unite": "cac"
+        },
+        {
+          "nom": "Huile d'olive",
+          "quantite": 61,
+          "unite": "cac"
+        }
+      ],
+      "etapes": [
+        "U dolor porttitor vulputate en. Sagittis pretium lacinia u nam imperdiet en nunc ultrices, pulvinar in con aliquam aenean sed ornare proin. Quisque nunc consectetur lacinia, mi en con etiam ac ornare et.",
+"Faucibus ac ut elementum nibh nibh, magna nibh condimentum orci leo, enim aenean natoque massa quisque, dictum adipiscing condimentum lacinia sit. Vel elementum ac massa vulputate accumsan porttitor aliquet amet. Fringilla u dignissim viverra, cit donec tem eros.",
+"Quis risus gravida cursus vitae au aliquet nulla accumsan aliquam tem adipiscing condimentum.",
+"Eget lorem lacinia sollicitudin purus. Ac adipiscing elementum felis elementum. Neque dui sagittis eget lacus ultrices. Porttitor au auctor sit sit lum tortor laoreet."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 497,
+        "proteines_g": 4,
+        "glucides_g": 79,
+        "lipides_g": 31,
+        "fibres_g": 5
+      },
+      "empreinte_carbone_kg_co2e": 1.8,
+      "de_saison": false,
+      "ingredient_local_bio": false
+    },
+    {
+      "_id": "recette-3d29cb24-0be5-4246-9c4d-140ae02b24fb",
+      "type": "recette",
+      "nom": "Gratin endives jambon",
+      "categorie": "Collation",
+      "saison_recommandee": "Printemps",
+      "regime_compatible": [
+        "Végan",
+"Végan",
+"Végétarien"
+
+      ],
+      "temps_preparation_min": 63,
+      "portions": 4,
+      "difficulte": 3,
+      "ingredients": [
+        {
+          "nom": "Betterave",
+          "quantite": 276,
+          "unite": "cac"
+        },
+        {
+          "nom": "Escalope de poulet",
+          "quantite": 386,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Tofu ferme",
+          "quantite": 152,
+          "unite": "cac"
+        },
+        {
+          "nom": "Coco",
+          "quantite": 224,
+          "unite": "cas"
+        },
+        {
+          "nom": "Quinoa",
+          "quantite": 399,
+          "unite": "cas"
+        },
+        {
+          "nom": "Coco",
+          "quantite": 342,
           "unite": "g"
         },
         {
           "nom": "Crème légère",
-          "quantite": 241,
-          "unite": "cac"
+          "quantite": 356,
+          "unite": "pièce(s)"
         },
         {
-          "nom": "Pomme de terre",
-          "quantite": 155,
+          "nom": "Moutarde",
+          "quantite": 281,
           "unite": "ml"
         }
       ],
       "etapes": [
-        "Cit en proin arcu en metus quisque massa aliquam. Euismod posuere sapien donec, el lobortis maecenas blandit nibh tortor ipsum en metus sodales ornare leo dignissim morbi cras ut non imperdiet. Vestibulum a ac ligula.",
-"Cras vulputate u u faucibus lacinia eget. Nibh magna proin ultrices cras lum hendrerit, quis curabitur vitae u pulvinar e hendrerit finibus aliquet. Vehicula curabitur nibh viverra, pretium sit massa u diam nam id etiam. Lorem hendrerit ligula pharetra.",
-"Orci orci felis mattis vitae. Id rhoncus cit."
+        "Ex finibus placerat sapien nunc, pulvinar sollicitudin ante lacus cit lacinia vitae donec nibh lorem, mauris eros nunc vel au id.",
+"Amet nisl mi e aenean consequat suscipit sed lacinia rhoncus. Elementum pulvinar vehicula au orci neque, est sollicitudin in fringilla tem. Eu lum dolor au velit lectus sapien vel iaculis.",
+"Ali nunc proin lobortis quis metus tortor. Accumsan tem dictum sagittis iaculis id. Finibus euismod tristique pellentesque elementum commodo. O curabitur justo maximus. Enim pretium tristique a ali magna.",
+"Nam etiam rhoncus ex turpis adipiscing dictum proin it dictum.",
+"Sollicitudin vel neque nibh commodo tem, maecenas euismod turpis maecenas auctor en. Faucibus quisque lum auctor a. Laoreet et elementum vel arcu laoreet finibus est non eget aenean.",
+"U lectus quisque tem fringilla dolor con pellentesque, mollis velit at gravida."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 459,
-        "proteines_g": 34,
-        "glucides_g": 78,
-        "lipides_g": 31,
-        "fibres_g": 11
+        "calories_kcal": 835,
+        "proteines_g": 45,
+        "glucides_g": 21,
+        "lipides_g": 5,
+        "fibres_g": 8
       },
-      "empreinte_carbone_kg_co2e": 2.0,
+      "empreinte_carbone_kg_co2e": 2.1,
       "de_saison": true,
       "ingredient_local_bio": false
     },
     {
-      "_id": "recette-d46c774e-761e-478c-b21a-874782f0dc29",
+      "_id": "recette-838eed69-71c7-46fd-9d98-d5e1bdaeacb4",
       "type": "recette",
-      "nom": "Galettes de sarrasin",
-      "categorie": "Collation",
-      "saison_recommandee": "Automne",
+      "nom": "Poulet rôti aux légumes racines",
+      "categorie": "Entrée",
+      "saison_recommandee": "Printemps",
       "regime_compatible": [
-        "Végétarien",
-"Végétarien"
+        "Végan"
 
       ],
-      "temps_preparation_min": 69,
+      "temps_preparation_min": 38,
+      "portions": 3,
+      "difficulte": 2,
+      "ingredients": [
+        {
+          "nom": "Quinoa",
+          "quantite": 346,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Miel",
+          "quantite": 371,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Tofu ferme",
+          "quantite": 241,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Épinards",
+          "quantite": 156,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Aubergine",
+          "quantite": 248,
+          "unite": "cac"
+        },
+        {
+          "nom": "Escalope de poulet",
+          "quantite": 69,
+          "unite": "cac"
+        }
+      ],
+      "etapes": [
+        "Erat id mauris accumsan lacinia. Elit arcu iaculis suscipit elit cit. Accumsan lectus sem velit sit aenean, morbi e ex augue viverra, elementum velit tristique adipiscing, id at eros.",
+"Eget a nisl elementum sem iaculis tempor risus sit. Et e iaculis lectus. Lorem fringilla non tempor commodo tristique, nisi at eget nibh massa. Etiam mi posuere metus dictum orci ac. Lacinia eti tortor dui.",
+"Aliquet sodales sapien maximus iaculis ultrices tortor neque eu vitae imperdiet vehicula dictum ultrices. Faucibus felis lectus nibh accumsan. Bibendum aliquam ut lacus cras hendrerit nulla donec in lorem neque faucibus a ipsum consectetur proin. Mi nisl leo.",
+"Dictum en risus vulputate lacinia mattis laoreet pretium justo. Euismod auctor nunc erat pretium. Augue aliquam sed posuere erat elementum rhoncus elit cursus.",
+"Suscipit lum facilisis nisi sed a. Ipsum vehicula erat arcu. Non o ligula risus orci."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 267,
+        "proteines_g": 8,
+        "glucides_g": 22,
+        "lipides_g": 13,
+        "fibres_g": 10
+      },
+      "empreinte_carbone_kg_co2e": 1.0,
+      "de_saison": true,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-1040fc2e-aaf5-49b0-bb22-8fd0d9f22f66",
+      "type": "recette",
+      "nom": "Soupe de pois cassés",
+      "categorie": "Petit-déjeuner",
+      "saison_recommandee": "Automne",
+      "regime_compatible": [
+        "Sans gluten",
+"Sans gluten"
+
+      ],
+      "temps_preparation_min": 21,
       "portions": 6,
       "difficulte": 1,
       "ingredients": [
         {
-          "nom": "Betterave",
-          "quantite": 139,
-          "unite": "g"
-        },
-        {
-          "nom": "Aubergine",
-          "quantite": 118,
+          "nom": "Citron",
+          "quantite": 247,
           "unite": "cas"
         },
         {
-          "nom": "Tofu ferme",
-          "quantite": 399,
-          "unite": "g"
+          "nom": "Huile d'olive",
+          "quantite": 166,
+          "unite": "ml"
         },
         {
-          "nom": "Betterave",
-          "quantite": 128,
+          "nom": "Basilic frais",
+          "quantite": 176,
+          "unite": "cas"
+        },
+        {
+          "nom": "Poivron",
+          "quantite": 257,
+          "unite": "cas"
+        },
+        {
+          "nom": "Pois chiches",
+          "quantite": 383,
           "unite": "cac"
         },
         {
-          "nom": "Courgette",
-          "quantite": 351,
+          "nom": "Pomme",
+          "quantite": 268,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Poivron",
+          "quantite": 362,
+          "unite": "cas"
+        },
+        {
+          "nom": "Pâtes complètes",
+          "quantite": 316,
           "unite": "cas"
         }
       ],
       "etapes": [
-        "Con felis ante cursus u leo curabitur con velit nulla enim. Amet lacinia ut ligula diam erat e pharetra nisl, e justo facilisis est ornare, orci ante natoque velit ipsum.",
-"Maecenas aliquam iaculis eti sagittis et sodales in. It dignissim dia risus lorem o lobortis aenean pretium elementum ali metus. Tempus ultricies aliquam porttitor sagittis con. Accumsan u u faucibus, ligula eget aliquet it.",
-"Gravida suscipit mattis magna blandit eros, gravida non commodo nulla, cursus sollicitudin imperdiet commodo e maecenas eget lobortis, pellentesque nulla mollis sagittis lobortis, faucibus ante lum."
+        "Quisque tincidunt eu dolor curabitur mattis aliquam lectus sodales aliquam rhoncus.",
+"Nulla sagittis ultrices arcu el ornare au. I gravida faucibus porttitor metus. Vel aliquet nibh nibh blandit orci vulputate. Mauris eti euismod natoque rhoncus e eti purus a en etiam dia, faucibus eros morbi consectetur au sapien, sagittis eu sapien.",
+"Ante et vulputate finibus id eti lobortis aenean scelerisque. Vulputate mollis nunc curabitur lacinia ultricies, velit etiam ac blandit natoque mattis hendrerit eros. Amet mi morbi.",
+"Ligula nibh viverra id vitae dolor nunc facilisis mi, et nibh commodo pharetra it. Eros etiam condimentum at, mollis at hendrerit vehicula con ante et. Morbi ligula nibh aenean, eget maximus ut proin pharetra ut."
 
       ],
       "valeurs_nutritionnelles_par_portion": {
-        "calories_kcal": 478,
+        "calories_kcal": 731,
         "proteines_g": 42,
-        "glucides_g": 63,
-        "lipides_g": 25,
+        "glucides_g": 8,
+        "lipides_g": 34,
         "fibres_g": 5
       },
-      "empreinte_carbone_kg_co2e": 1.4,
+      "empreinte_carbone_kg_co2e": 2.1,
+      "de_saison": true,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-f0812edf-c6b9-4eb2-a8e1-cd6e2c9d21c8",
+      "type": "recette",
+      "nom": "Bolognèse végétale aux lentilles",
+      "categorie": "Collation",
+      "saison_recommandee": "Automne",
+      "regime_compatible": [
+        "Végétarien"
+
+      ],
+      "temps_preparation_min": 74,
+      "portions": 4,
+      "difficulte": 3,
+      "ingredients": [
+        {
+          "nom": "Tofu ferme",
+          "quantite": 32,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Filet de saumon",
+          "quantite": 82,
+          "unite": "cas"
+        },
+        {
+          "nom": "Haricots blancs",
+          "quantite": 195,
+          "unite": "cas"
+        },
+        {
+          "nom": "Filet de saumon",
+          "quantite": 253,
+          "unite": "cas"
+        },
+        {
+          "nom": "Tofu ferme",
+          "quantite": 145,
+          "unite": "ml"
+        },
+        {
+          "nom": "Filet de saumon",
+          "quantite": 141,
+          "unite": "cas"
+        },
+        {
+          "nom": "Persil",
+          "quantite": 315,
+          "unite": "g"
+        },
+        {
+          "nom": "Tofu ferme",
+          "quantite": 62,
+          "unite": "pièce(s)"
+        }
+      ],
+      "etapes": [
+        "It mattis erat sapien erat lacinia. Dui fringilla in mauris, ultricies ultrices proin suscipit imperdiet consequat tristique.",
+"Cursus mollis et dictum con lectus elementum. Vestibulum maecenas lacinia et vitae, aenean ante viverra sodales rhoncus sollicitudin dolor.",
+"Dia eti condimentum lum i. Lacus ut lum nisi morbi, erat proin cras leo. Risus pharetra tem it ut, erat in leo diam justo, consectetur massa curabitur arcu nam. Mauris dui dictum justo donec, sollicitudin proin nulla porttitor ipsum."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 309,
+        "proteines_g": 37,
+        "glucides_g": 11,
+        "lipides_g": 16,
+        "fibres_g": 4
+      },
+      "empreinte_carbone_kg_co2e": 3.5,
+      "de_saison": true,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-18010b2f-989a-4e2b-8c8c-53d8f836547c",
+      "type": "recette",
+      "nom": "Clafoutis aux cerises",
+      "categorie": "Dessert",
+      "saison_recommandee": "Hiver",
+      "regime_compatible": [
+        "Sans lactose",
+"Végétarien",
+"Végan"
+
+      ],
+      "temps_preparation_min": 85,
+      "portions": 3,
+      "difficulte": 1,
+      "ingredients": [
+        {
+          "nom": "Betterave",
+          "quantite": 268,
+          "unite": "g"
+        },
+        {
+          "nom": "Lait demi-écrémé",
+          "quantite": 137,
+          "unite": "ml"
+        },
+        {
+          "nom": "Menthe",
+          "quantite": 144,
+          "unite": "g"
+        },
+        {
+          "nom": "Chèvre frais",
+          "quantite": 250,
+          "unite": "ml"
+        },
+        {
+          "nom": "Citron",
+          "quantite": 372,
+          "unite": "cas"
+        },
+        {
+          "nom": "Boulgour",
+          "quantite": 17,
+          "unite": "cac"
+        },
+        {
+          "nom": "Miel",
+          "quantite": 299,
+          "unite": "g"
+        },
+        {
+          "nom": "Poivron",
+          "quantite": 345,
+          "unite": "cas"
+        }
+      ],
+      "etapes": [
+        "Mattis suscipit vestibulum felis scelerisque eu. Lum it lectus pulvinar diam. Vestibulum sodales ante u, elementum blandit scelerisque.",
+"It quisque e leo imperdiet auctor, sagittis placerat placerat lum. Magna facilisis lectus quis ligula. Nulla en ex maximus et tristique posuere. Proin et vulputate.",
+"Imperdiet commodo consectetur aliquet et risus en proin.",
+"Et donec massa at ac con, sapien ante tem mi tem lacus. Dignissim quisque nunc lacinia ac.",
+"En maecenas ultrices sem metus. Vulputate id tincidunt dui imperdiet felis faucibus purus. Mollis tortor bibendum it. Sem nisi vitae laoreet adipiscing velit quis. At porttitor au lacinia. Ligula ultricies maecenas sem, etiam sodales non eros mauris."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 265,
+        "proteines_g": 8,
+        "glucides_g": 75,
+        "lipides_g": 30,
+        "fibres_g": 10
+      },
+      "empreinte_carbone_kg_co2e": 0.5,
+      "de_saison": true,
+      "ingredient_local_bio": false
+    },
+    {
+      "_id": "recette-01d49c34-5ac2-4895-bbed-2e9e608a2871",
+      "type": "recette",
+      "nom": "Tarte aux poireaux",
+      "categorie": "Dessert",
+      "saison_recommandee": "Été",
+      "regime_compatible": [
+        "Sans lactose",
+"Végan",
+"Végan"
+
+      ],
+      "temps_preparation_min": 59,
+      "portions": 2,
+      "difficulte": 1,
+      "ingredients": [
+        {
+          "nom": "Banane",
+          "quantite": 311,
+          "unite": "ml"
+        },
+        {
+          "nom": "Feta",
+          "quantite": 154,
+          "unite": "cac"
+        },
+        {
+          "nom": "Quinoa",
+          "quantite": 231,
+          "unite": "ml"
+        },
+        {
+          "nom": "Tomate",
+          "quantite": 375,
+          "unite": "ml"
+        },
+        {
+          "nom": "Poivron",
+          "quantite": 379,
+          "unite": "ml"
+        },
+        {
+          "nom": "Pomme",
+          "quantite": 103,
+          "unite": "g"
+        },
+        {
+          "nom": "Champignons de Paris",
+          "quantite": 168,
+          "unite": "cac"
+        },
+        {
+          "nom": "Poivron",
+          "quantite": 327,
+          "unite": "cas"
+        },
+        {
+          "nom": "Échalote",
+          "quantite": 282,
+          "unite": "g"
+        }
+      ],
+      "etapes": [
+        "Lacus vestibulum eti amet rhoncus, ex sagittis it vel sit felis placerat magna faucibus ornare. Leo diam lacinia neque elit orci natoque proin sollicitudin risus augue ultricies bibendum.",
+"Lobortis eti e vehicula lacus elit lacinia u cit rhoncus, lacinia nisi vel dia ac finibus.",
+"Massa quis eros pulvinar curabitur lum lacus velit finibus porttitor etiam.",
+"Metus eros nam natoque etiam. Dolor et in id nibh pretium. Euismod u sollicitudin vel cit."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 332,
+        "proteines_g": 3,
+        "glucides_g": 12,
+        "lipides_g": 17,
+        "fibres_g": 8
+      },
+      "empreinte_carbone_kg_co2e": 2.3,
+      "de_saison": true,
+      "ingredient_local_bio": true
+    },
+    {
+      "_id": "recette-47876985-9fee-45a1-bb93-dd893cfaf1b5",
+      "type": "recette",
+      "nom": "Taboulé de boulgour",
+      "categorie": "Dessert",
+      "saison_recommandee": "Hiver",
+      "regime_compatible": [
+        "Sans gluten",
+"Sans lactose",
+"Sans lactose"
+
+      ],
+      "temps_preparation_min": 51,
+      "portions": 4,
+      "difficulte": 3,
+      "ingredients": [
+        {
+          "nom": "Épinards",
+          "quantite": 32,
+          "unite": "ml"
+        },
+        {
+          "nom": "Citron",
+          "quantite": 198,
+          "unite": "ml"
+        },
+        {
+          "nom": "Boulgour",
+          "quantite": 269,
+          "unite": "g"
+        },
+        {
+          "nom": "Échalote",
+          "quantite": 179,
+          "unite": "cas"
+        },
+        {
+          "nom": "Filet de saumon",
+          "quantite": 159,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Épinards",
+          "quantite": 224,
+          "unite": "cac"
+        },
+        {
+          "nom": "Courge butternut",
+          "quantite": 237,
+          "unite": "pièce(s)"
+        },
+        {
+          "nom": "Boulgour",
+          "quantite": 255,
+          "unite": "cas"
+        }
+      ],
+      "etapes": [
+        "Mollis ex velit tempor sem velit felis vestibulum. Rhoncus sollicitudin in lacinia pretium orci ali. Nisl sed augue purus. Lum ipsum id i in. Posuere ultricies o aliquam elit mauris o tempor.",
+"Mattis donec consequat imperdiet ligula a. In purus it.",
+"Porttitor nam diam placerat consectetur cursus id mollis proin lectus.",
+"Ornare dictum nibh mollis lacus orci. Sodales adipiscing vulputate est ali finibus, i pretium tortor purus. Lobortis sem ex accumsan dia vehicula aliquam sagittis est bibendum.",
+"Metus aliquet consequat morbi nulla maecenas. Ultricies e faucibus justo ex.",
+"Enim nulla felis a mattis nisi pulvinar pellentesque hendrerit. Cursus morbi e el quisque. Porttitor cursus facilisis porttitor erat. Vel cras el donec vitae tem elementum sed."
+
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": 652,
+        "proteines_g": 28,
+        "glucides_g": 73,
+        "lipides_g": 27,
+        "fibres_g": 2
+      },
+      "empreinte_carbone_kg_co2e": 2.5,
       "de_saison": false,
       "ingredient_local_bio": false
     }
 ,
     {
-      "_id": "journal-ae3bbe3a-8c90-45d9-8d04-8820429bdc23",
+      "_id": "journal-b56b599e-7ad2-4ad7-9835-d5997aad48bc",
       "type": "entree_journal",
-      "user": "user-5",
-      "date": "2026-10-26",
-      "repas": "Petit-déjeuner",
-      "recette_consommee": "recette-529",
-      "portions_absorbees": 2,
-      "apports": {
-        "calories_kcal": 415,
-        "proteines_g": 29,
-        "glucides_g": 15,
-        "lipides_g": 31
-      },
-      "humeur_apres_repas": 5
-    },
-    {
-      "_id": "journal-0d0a4bd1-e9bf-4f94-82ce-2d11e7a18c2a",
-      "type": "entree_journal",
-      "user": "user-4",
-      "date": "2026-10-25",
+      "user": "user-3",
+      "date": "2026-10-19",
       "repas": "Collation après-midi",
-      "recette_consommee": "recette-2208",
-      "portions_absorbees": 3,
+      "recette_consommee": "recette-1813",
+      "portions_absorbees": 2,
       "apports": {
-        "calories_kcal": 844,
-        "proteines_g": 44,
-        "glucides_g": 73,
-        "lipides_g": 18
+        "calories_kcal": 536,
+        "proteines_g": 22,
+        "glucides_g": 65,
+        "lipides_g": 32
       },
-      "humeur_apres_repas": 5
+      "humeur_apres_repas": 4
     },
     {
-      "_id": "journal-7d4c0be9-66ed-471f-bc8d-f191fa8ec23e",
+      "_id": "journal-735dba5e-d7a1-4522-8eca-7b6907782b19",
       "type": "entree_journal",
-      "user": "user-7",
-      "date": "2026-10-31",
+      "user": "user-3",
+      "date": "2026-10-23",
       "repas": "Dîner",
-      "recette_consommee": "recette-3582",
-      "portions_absorbees": 3,
-      "apports": {
-        "calories_kcal": 664,
-        "proteines_g": 29,
-        "glucides_g": 60,
-        "lipides_g": 33
-      },
-      "humeur_apres_repas": 3
-    },
-    {
-      "_id": "journal-6a3c5bca-c8f7-4831-864c-72f1f91625b3",
-      "type": "entree_journal",
-      "user": "user-2",
-      "date": "2026-11-02",
-      "repas": "Petit-déjeuner",
-      "recette_consommee": "recette-7500",
+      "recette_consommee": "recette-2952",
       "portions_absorbees": 2,
       "apports": {
-        "calories_kcal": 683,
-        "proteines_g": 25,
-        "glucides_g": 35,
-        "lipides_g": 33
-      },
-      "humeur_apres_repas": 3
-    },
-    {
-      "_id": "journal-c6aef884-4d7b-4fdb-8559-456a91c78b3e",
-      "type": "entree_journal",
-      "user": "user-1",
-      "date": "2026-10-14",
-      "repas": "Collation matin",
-      "recette_consommee": "recette-1217",
-      "portions_absorbees": 2,
-      "apports": {
-        "calories_kcal": 413,
-        "proteines_g": 6,
-        "glucides_g": 69,
-        "lipides_g": 20
+        "calories_kcal": 308,
+        "proteines_g": 14,
+        "glucides_g": 20,
+        "lipides_g": 16
       },
       "humeur_apres_repas": 1
     },
     {
-      "_id": "journal-11600de6-5db5-4793-a707-f64e57c882f2",
+      "_id": "journal-4f73353c-de89-46bf-b8da-9bf4be2a95f7",
       "type": "entree_journal",
-      "user": "user-2",
-      "date": "2026-10-12",
-      "repas": "Déjeuner",
-      "recette_consommee": "recette-9479",
-      "portions_absorbees": 3,
-      "apports": {
-        "calories_kcal": 803,
-        "proteines_g": 47,
-        "glucides_g": 51,
-        "lipides_g": 13
-      },
-      "humeur_apres_repas": 5
-    },
-    {
-      "_id": "journal-ce2a8e0f-54a6-49fd-a04e-2ed4618352d5",
-      "type": "entree_journal",
-      "user": "user-6",
-      "date": "2026-10-17",
-      "repas": "Déjeuner",
-      "recette_consommee": "recette-9628",
-      "portions_absorbees": 3,
-      "apports": {
-        "calories_kcal": 351,
-        "proteines_g": 6,
-        "glucides_g": 14,
-        "lipides_g": 14
-      },
-      "humeur_apres_repas": 2
-    },
-    {
-      "_id": "journal-ad6552ea-6005-45fa-b04b-b35106f0cdc6",
-      "type": "entree_journal",
-      "user": "user-8",
-      "date": "2026-11-02",
+      "user": "user-5",
+      "date": "2026-10-21",
       "repas": "Collation après-midi",
-      "recette_consommee": "recette-9659",
+      "recette_consommee": "recette-280",
       "portions_absorbees": 3,
       "apports": {
-        "calories_kcal": 660,
-        "proteines_g": 35,
-        "glucides_g": 71,
+        "calories_kcal": 869,
+        "proteines_g": 37,
+        "glucides_g": 66,
         "lipides_g": 11
       },
       "humeur_apres_repas": 2
     },
     {
-      "_id": "journal-bf45fe3a-8cae-43a0-9205-d9b90afa8bc6",
+      "_id": "journal-f9898e6b-6459-478c-be24-558a42c718df",
       "type": "entree_journal",
       "user": "user-7",
-      "date": "2026-10-18",
-      "repas": "Déjeuner",
-      "recette_consommee": "recette-9466",
+      "date": "2026-10-27",
+      "repas": "Petit-déjeuner",
+      "recette_consommee": "recette-1248",
+      "portions_absorbees": 1,
+      "apports": {
+        "calories_kcal": 547,
+        "proteines_g": 16,
+        "glucides_g": 68,
+        "lipides_g": 36
+      },
+      "humeur_apres_repas": 1
+    },
+    {
+      "_id": "journal-b621cfc9-2c6a-431e-9663-794b30ee286e",
+      "type": "entree_journal",
+      "user": "user-7",
+      "date": "2026-11-06",
+      "repas": "Petit-déjeuner",
+      "recette_consommee": "recette-6268",
       "portions_absorbees": 3,
       "apports": {
-        "calories_kcal": 675,
-        "proteines_g": 45,
-        "glucides_g": 60,
-        "lipides_g": 27
+        "calories_kcal": 704,
+        "proteines_g": 17,
+        "glucides_g": 24,
+        "lipides_g": 13
       },
       "humeur_apres_repas": 3
     },
     {
-      "_id": "journal-668a6716-87d1-4204-a453-da2dba952406",
+      "_id": "journal-a95b7840-7299-4885-be6d-ed8f6b1b1e48",
       "type": "entree_journal",
       "user": "user-4",
-      "date": "2026-11-05",
-      "repas": "Déjeuner",
-      "recette_consommee": "recette-7062",
-      "portions_absorbees": 1,
-      "apports": {
-        "calories_kcal": 282,
-        "proteines_g": 5,
-        "glucides_g": 34,
-        "lipides_g": 38
-      },
-      "humeur_apres_repas": 2
-    },
-    {
-      "_id": "journal-8a117fd6-551f-4f5f-89ee-8678ae75c73a",
-      "type": "entree_journal",
-      "user": "user-3",
-      "date": "2026-10-29",
-      "repas": "Petit-déjeuner",
-      "recette_consommee": "recette-8068",
-      "portions_absorbees": 3,
-      "apports": {
-        "calories_kcal": 191,
-        "proteines_g": 16,
-        "glucides_g": 34,
-        "lipides_g": 2
-      },
-      "humeur_apres_repas": 5
-    },
-    {
-      "_id": "journal-003d37a9-a08c-46a5-8735-125712cedc27",
-      "type": "entree_journal",
-      "user": "user-3",
-      "date": "2026-10-27",
-      "repas": "Déjeuner",
-      "recette_consommee": "recette-7802",
-      "portions_absorbees": 3,
-      "apports": {
-        "calories_kcal": 317,
-        "proteines_g": 2,
-        "glucides_g": 30,
-        "lipides_g": 33
-      },
-      "humeur_apres_repas": 4
-    },
-    {
-      "_id": "journal-1f44e501-6ad3-4a10-b8d6-3de06fd31d88",
-      "type": "entree_journal",
-      "user": "user-4",
-      "date": "2026-11-07",
-      "repas": "Dîner",
-      "recette_consommee": "recette-696",
-      "portions_absorbees": 1,
-      "apports": {
-        "calories_kcal": 280,
-        "proteines_g": 50,
-        "glucides_g": 11,
-        "lipides_g": 11
-      },
-      "humeur_apres_repas": 4
-    },
-    {
-      "_id": "journal-ab53e03a-42ec-4c92-bc58-1734bae41976",
-      "type": "entree_journal",
-      "user": "user-5",
-      "date": "2026-10-16",
-      "repas": "Dîner",
-      "recette_consommee": "recette-8639",
-      "portions_absorbees": 1,
-      "apports": {
-        "calories_kcal": 447,
-        "proteines_g": 22,
-        "glucides_g": 58,
-        "lipides_g": 40
-      },
-      "humeur_apres_repas": 2
-    },
-    {
-      "_id": "journal-f0071cea-259a-47c4-8d26-14a2291bf505",
-      "type": "entree_journal",
-      "user": "user-5",
-      "date": "2026-10-27",
-      "repas": "Collation matin",
-      "recette_consommee": "recette-8475",
-      "portions_absorbees": 1,
-      "apports": {
-        "calories_kcal": 727,
-        "proteines_g": 17,
-        "glucides_g": 29,
-        "lipides_g": 23
-      },
-      "humeur_apres_repas": 5
-    },
-    {
-      "_id": "journal-e59ca762-1f6f-4ca3-bebf-232e3f151ef3",
-      "type": "entree_journal",
-      "user": "user-6",
-      "date": "2026-10-16",
+      "date": "2026-11-01",
       "repas": "Collation après-midi",
-      "recette_consommee": "recette-1905",
+      "recette_consommee": "recette-281",
       "portions_absorbees": 3,
+      "apports": {
+        "calories_kcal": 246,
+        "proteines_g": 29,
+        "glucides_g": 10,
+        "lipides_g": 15
+      },
+      "humeur_apres_repas": 2
+    },
+    {
+      "_id": "journal-daa2fb83-8ea5-4f04-b339-fddc429b9f21",
+      "type": "entree_journal",
+      "user": "user-5",
+      "date": "2026-10-23",
+      "repas": "Collation après-midi",
+      "recette_consommee": "recette-4749",
+      "portions_absorbees": 1,
+      "apports": {
+        "calories_kcal": 266,
+        "proteines_g": 10,
+        "glucides_g": 18,
+        "lipides_g": 8
+      },
+      "humeur_apres_repas": 2
+    },
+    {
+      "_id": "journal-76a9c002-3b40-448b-961c-cc26385e04a7",
+      "type": "entree_journal",
+      "user": "user-2",
+      "date": "2026-10-13",
+      "repas": "Collation après-midi",
+      "recette_consommee": "recette-6138",
+      "portions_absorbees": 2,
+      "apports": {
+        "calories_kcal": 572,
+        "proteines_g": 7,
+        "glucides_g": 24,
+        "lipides_g": 18
+      },
+      "humeur_apres_repas": 2
+    },
+    {
+      "_id": "journal-4e7b88c6-56fa-4f4b-9126-4e2ceb6cbb63",
+      "type": "entree_journal",
+      "user": "user-2",
+      "date": "2026-10-15",
+      "repas": "Petit-déjeuner",
+      "recette_consommee": "recette-7574",
+      "portions_absorbees": 3,
+      "apports": {
+        "calories_kcal": 622,
+        "proteines_g": 2,
+        "glucides_g": 7,
+        "lipides_g": 24
+      },
+      "humeur_apres_repas": 1
+    },
+    {
+      "_id": "journal-06f98568-4357-4b14-841f-b135e9d47d8a",
+      "type": "entree_journal",
+      "user": "user-7",
+      "date": "2026-11-01",
+      "repas": "Dîner",
+      "recette_consommee": "recette-3791",
+      "portions_absorbees": 2,
+      "apports": {
+        "calories_kcal": 190,
+        "proteines_g": 36,
+        "glucides_g": 39,
+        "lipides_g": 16
+      },
+      "humeur_apres_repas": 4
+    },
+    {
+      "_id": "journal-3f12eab9-dd5e-43a1-be6e-6856bfd57689",
+      "type": "entree_journal",
+      "user": "user-8",
+      "date": "2026-11-06",
+      "repas": "Collation matin",
+      "recette_consommee": "recette-6465",
+      "portions_absorbees": 2,
+      "apports": {
+        "calories_kcal": 346,
+        "proteines_g": 3,
+        "glucides_g": 42,
+        "lipides_g": 25
+      },
+      "humeur_apres_repas": 3
+    },
+    {
+      "_id": "journal-7aee0913-37c2-422d-9923-9f701ee03790",
+      "type": "entree_journal",
+      "user": "user-3",
+      "date": "2026-10-19",
+      "repas": "Dîner",
+      "recette_consommee": "recette-5497",
+      "portions_absorbees": 1,
       "apports": {
         "calories_kcal": 768,
-        "proteines_g": 19,
-        "glucides_g": 43,
-        "lipides_g": 35
-      },
-      "humeur_apres_repas": 2
-    },
-    {
-      "_id": "journal-d791b540-e3a9-4aca-9341-3d036976b5c9",
-      "type": "entree_journal",
-      "user": "user-3",
-      "date": "2026-11-02",
-      "repas": "Déjeuner",
-      "recette_consommee": "recette-6329",
-      "portions_absorbees": 3,
-      "apports": {
-        "calories_kcal": 120,
-        "proteines_g": 17,
-        "glucides_g": 19,
+        "proteines_g": 46,
+        "glucides_g": 9,
         "lipides_g": 12
       },
       "humeur_apres_repas": 4
     },
     {
-      "_id": "journal-a28b70e0-18ec-492b-97e4-bd87cff51f78",
+      "_id": "journal-c44758ba-2495-4989-9acc-51c52d6d4b03",
       "type": "entree_journal",
-      "user": "user-4",
-      "date": "2026-10-25",
-      "repas": "Collation matin",
-      "recette_consommee": "recette-2570",
+      "user": "user-5",
+      "date": "2026-10-20",
+      "repas": "Déjeuner",
+      "recette_consommee": "recette-8677",
       "portions_absorbees": 1,
       "apports": {
-        "calories_kcal": 575,
-        "proteines_g": 21,
-        "glucides_g": 52,
-        "lipides_g": 6
+        "calories_kcal": 529,
+        "proteines_g": 7,
+        "glucides_g": 20,
+        "lipides_g": 40
       },
       "humeur_apres_repas": 5
     },
     {
-      "_id": "journal-028ef370-240d-42d2-b72a-f9f944e82746",
+      "_id": "journal-a7369a40-e8fd-421c-98cf-d0dc9bbf3caf",
       "type": "entree_journal",
-      "user": "user-7",
-      "date": "2026-10-15",
-      "repas": "Déjeuner",
-      "recette_consommee": "recette-1931",
-      "portions_absorbees": 1,
+      "user": "user-8",
+      "date": "2026-11-08",
+      "repas": "Dîner",
+      "recette_consommee": "recette-4958",
+      "portions_absorbees": 2,
       "apports": {
-        "calories_kcal": 459,
-        "proteines_g": 7,
-        "glucides_g": 28,
-        "lipides_g": 28
+        "calories_kcal": 536,
+        "proteines_g": 29,
+        "glucides_g": 37,
+        "lipides_g": 33
       },
-      "humeur_apres_repas": 1
+      "humeur_apres_repas": 5
     },
     {
-      "_id": "journal-69712856-6c47-4cb0-9fad-6dbd3d423be5",
+      "_id": "journal-84c674ef-23c1-4146-844c-1e94e4c5d5d6",
       "type": "entree_journal",
       "user": "user-1",
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "repas": "Déjeuner",
-      "recette_consommee": "recette-8272",
-      "portions_absorbees": 3,
+      "recette_consommee": "recette-8061",
+      "portions_absorbees": 2,
       "apports": {
-        "calories_kcal": 229,
-        "proteines_g": 43,
-        "glucides_g": 85,
-        "lipides_g": 6
+        "calories_kcal": 666,
+        "proteines_g": 47,
+        "glucides_g": 55,
+        "lipides_g": 22
+      },
+      "humeur_apres_repas": 3
+    },
+    {
+      "_id": "journal-37f179ec-3e13-4413-8a03-0e7bd1ee8881",
+      "type": "entree_journal",
+      "user": "user-8",
+      "date": "2026-10-27",
+      "repas": "Dîner",
+      "recette_consommee": "recette-7058",
+      "portions_absorbees": 2,
+      "apports": {
+        "calories_kcal": 540,
+        "proteines_g": 42,
+        "glucides_g": 45,
+        "lipides_g": 27
       },
       "humeur_apres_repas": 4
     },
     {
-      "_id": "journal-e8338be1-97b8-4225-a169-174726fffc3d",
+      "_id": "journal-bb51cfe8-d121-40f1-96b2-c06486eab940",
       "type": "entree_journal",
-      "user": "user-3",
-      "date": "2026-11-03",
-      "repas": "Dîner",
-      "recette_consommee": "recette-1943",
-      "portions_absorbees": 2,
-      "apports": {
-        "calories_kcal": 816,
-        "proteines_g": 17,
-        "glucides_g": 55,
-        "lipides_g": 39
-      },
-      "humeur_apres_repas": 5
-    },
-    {
-      "_id": "journal-1ab12316-a771-4710-91f8-3f6e2303e8ae",
-      "type": "entree_journal",
-      "user": "user-4",
-      "date": "2026-11-02",
-      "repas": "Collation matin",
-      "recette_consommee": "recette-6768",
-      "portions_absorbees": 1,
-      "apports": {
-        "calories_kcal": 559,
-        "proteines_g": 7,
-        "glucides_g": 17,
-        "lipides_g": 26
-      },
-      "humeur_apres_repas": 1
-    },
-    {
-      "_id": "journal-3a028490-118c-4ea3-89b8-a8689bdc67e2",
-      "type": "entree_journal",
-      "user": "user-3",
-      "date": "2026-11-01",
-      "repas": "Dîner",
-      "recette_consommee": "recette-9592",
+      "user": "user-1",
+      "date": "2026-11-05",
+      "repas": "Petit-déjeuner",
+      "recette_consommee": "recette-4949",
       "portions_absorbees": 3,
       "apports": {
-        "calories_kcal": 636,
-        "proteines_g": 25,
+        "calories_kcal": 104,
+        "proteines_g": 22,
         "glucides_g": 29,
-        "lipides_g": 22
+        "lipides_g": 13
       },
       "humeur_apres_repas": 2
     },
     {
-      "_id": "journal-42151e6a-1f4d-46c3-ac03-b835da34ec39",
+      "_id": "journal-1e8471a8-9b49-4627-8f2d-24cf9f91819c",
       "type": "entree_journal",
-      "user": "user-1",
-      "date": "2026-10-30",
-      "repas": "Dîner",
-      "recette_consommee": "recette-3737",
+      "user": "user-4",
+      "date": "2026-11-08",
+      "repas": "Petit-déjeuner",
+      "recette_consommee": "recette-4386",
       "portions_absorbees": 3,
       "apports": {
-        "calories_kcal": 512,
-        "proteines_g": 46,
-        "glucides_g": 52,
-        "lipides_g": 7
+        "calories_kcal": 691,
+        "proteines_g": 13,
+        "glucides_g": 82,
+        "lipides_g": 30
       },
       "humeur_apres_repas": 1
+    },
+    {
+      "_id": "journal-b9e031e4-3ce6-4418-99ce-b8b7aba97538",
+      "type": "entree_journal",
+      "user": "user-8",
+      "date": "2026-11-01",
+      "repas": "Petit-déjeuner",
+      "recette_consommee": "recette-3617",
+      "portions_absorbees": 2,
+      "apports": {
+        "calories_kcal": 459,
+        "proteines_g": 44,
+        "glucides_g": 7,
+        "lipides_g": 24
+      },
+      "humeur_apres_repas": 4
+    },
+    {
+      "_id": "journal-307264ea-76ea-4723-8484-0030dcdcd667",
+      "type": "entree_journal",
+      "user": "user-6",
+      "date": "2026-10-15",
+      "repas": "Petit-déjeuner",
+      "recette_consommee": "recette-311",
+      "portions_absorbees": 3,
+      "apports": {
+        "calories_kcal": 725,
+        "proteines_g": 6,
+        "glucides_g": 23,
+        "lipides_g": 20
+      },
+      "humeur_apres_repas": 2
+    },
+    {
+      "_id": "journal-41cdc7bc-5218-4b0c-82ab-b371e416a524",
+      "type": "entree_journal",
+      "user": "user-4",
+      "date": "2026-10-28",
+      "repas": "Petit-déjeuner",
+      "recette_consommee": "recette-6484",
+      "portions_absorbees": 3,
+      "apports": {
+        "calories_kcal": 369,
+        "proteines_g": 50,
+        "glucides_g": 52,
+        "lipides_g": 29
+      },
+      "humeur_apres_repas": 5
+    },
+    {
+      "_id": "journal-3907538a-c6f2-495d-8854-07806a3b7f7c",
+      "type": "entree_journal",
+      "user": "user-4",
+      "date": "2026-10-20",
+      "repas": "Petit-déjeuner",
+      "recette_consommee": "recette-5169",
+      "portions_absorbees": 1,
+      "apports": {
+        "calories_kcal": 556,
+        "proteines_g": 32,
+        "glucides_g": 37,
+        "lipides_g": 4
+      },
+      "humeur_apres_repas": 5
+    },
+    {
+      "_id": "journal-fce38444-e241-495a-9ec9-4496375b426a",
+      "type": "entree_journal",
+      "user": "user-3",
+      "date": "2026-10-24",
+      "repas": "Déjeuner",
+      "recette_consommee": "recette-5367",
+      "portions_absorbees": 3,
+      "apports": {
+        "calories_kcal": 137,
+        "proteines_g": 26,
+        "glucides_g": 8,
+        "lipides_g": 9
+      },
+      "humeur_apres_repas": 2
+    },
+    {
+      "_id": "journal-f70a4149-4fa2-41f5-9777-a3500361ce1e",
+      "type": "entree_journal",
+      "user": "user-1",
+      "date": "2026-11-02",
+      "repas": "Collation après-midi",
+      "recette_consommee": "recette-6876",
+      "portions_absorbees": 2,
+      "apports": {
+        "calories_kcal": 733,
+        "proteines_g": 4,
+        "glucides_g": 11,
+        "lipides_g": 22
+      },
+      "humeur_apres_repas": 2
     }
 ,
     {
-      "_id": "quete-e008b8dd-fd75-4a87-8783-31ad9581a564",
+      "_id": "quete-00ece613-f13e-4353-bd91-8119c1858b3d",
       "type": "quete",
-      "titre": "Raid nutritionnel",
+      "titre": "Chasseur de recettes",
       "frequence": "Hebdomadaire",
-      "description": "Finibus pharetra non condimentum imperdiet. Vehicula dictum aliquam dolor, et donec aliquet iaculis. Nisi cit auctor scelerisque ac rhoncus.",
-      "condition_reussite": "Au vulputate massa fringilla it maximus rhoncus i.",
-      "cible": 3,
+      "description": "Mi arcu aenean lorem aliquam quis u posuere u porttitor tempor turpis.",
+      "condition_reussite": "Nunc sapien ipsum adipiscing mollis quis neque aliquet.",
+      "cible": 1,
       "recompense": {
-        "xp": 83,
-        "pieces": 10
-      },
-      "actif_du": "2026-11-04",
-      "actif_au": "2026-11-11"
-    },
-    {
-      "_id": "quete-c11950ac-318f-4f81-a860-a71bd353d5b6",
-      "type": "quete",
-      "titre": "Zéro gaspillage",
-      "frequence": "Quotidienne",
-      "description": "Dolor sit orci purus metus aenean, pellentesque quis scelerisque auctor quisque fringilla facilisis arcu lorem.",
-      "condition_reussite": "Magna cras non dictum sagittis.",
-      "cible": 7,
-      "recompense": {
-        "xp": 246,
-        "pieces": 68
-      },
-      "actif_du": "2026-11-05",
-      "actif_au": "2026-11-13"
-    },
-    {
-      "_id": "quete-9ee333c6-7739-4e63-b0fb-f3a86f628a14",
-      "type": "quete",
-      "titre": "Veggie du jour",
-      "frequence": "Hebdomadaire",
-      "description": "Augue placerat euismod con lacus faucibus enim, nam felis cit dictum commodo. Donec cit justo accumsan finibus nulla neque. Faucibus maximus proin mi.",
-      "condition_reussite": "Tempus pulvinar vitae porttitor blandit orci a amet, commodo eros vehicula finibus. Rhoncus sed leo.",
-      "cible": 7,
-      "recompense": {
-        "xp": 345,
-        "pieces": 71
+        "xp": 326,
+        "pieces": 59
       },
       "actif_du": "2026-11-03",
       "actif_au": "2026-11-08"
     },
     {
-      "_id": "quete-826db70d-4773-4eaa-9a0d-91b045558cb2",
+      "_id": "quete-8ef8419e-42c0-441a-97e9-83a89a1898c8",
       "type": "quete",
-      "titre": "Petit-déjeuner de champion",
+      "titre": "Le défi des 5 fruits et légumes",
       "frequence": "Quotidienne",
-      "description": "Donec sapien nisi velit cras. Mattis dia blandit in rhoncus nunc elementum it, hendrerit sed con etiam augue. Cras felis arcu curabitur ornare non condimentum.",
-      "condition_reussite": "Aliquet mi con ante tortor. Au mattis en pulvinar, orci nisi vehicula.",
-      "cible": 3,
-      "recompense": {
-        "xp": 350,
-        "pieces": 37
-      },
-      "actif_du": "2026-11-04",
-      "actif_au": "2026-11-13"
-    },
-    {
-      "_id": "quete-7fb5db30-2013-4b22-ac22-da0e060a4531",
-      "type": "quete",
-      "titre": "Sur la durée",
-      "frequence": "Hebdomadaire",
-      "description": "Condimentum i lacinia laoreet mauris hendrerit risus e.",
-      "condition_reussite": "Pretium ligula au con mollis nulla. Lum orci consectetur rhoncus in. Ac lacinia orci massa.",
+      "description": "Scelerisque eti imperdiet cras commodo vel. Mauris lorem gravida tortor. Velit elementum lacus quis lorem in dolor diam e.",
+      "condition_reussite": "Eti felis est pulvinar tempus leo ipsum enim.",
       "cible": 2,
       "recompense": {
-        "xp": 266,
-        "pieces": 48
-      },
-      "actif_du": "2026-11-05",
-      "actif_au": "2026-11-11"
-    },
-    {
-      "_id": "quete-ab131d99-bf2b-4edf-a1fd-d1827b96df6a",
-      "type": "quete",
-      "titre": "Maître des macros",
-      "frequence": "Hebdomadaire",
-      "description": "Lacinia id sit amet sagittis consectetur adipiscing morbi.",
-      "condition_reussite": "Sem proin viverra en accumsan. Blandit vestibulum consequat rhoncus faucibus ultricies hendrerit nunc nam enim.",
-      "cible": 2,
-      "recompense": {
-        "xp": 387,
-        "pieces": 31
-      },
-      "actif_du": "2026-11-03",
-      "actif_au": "2026-11-08"
-    },
-    {
-      "_id": "quete-4133d2bd-3500-43b5-b8e6-41a70f136cad",
-      "type": "quete",
-      "titre": "Veggie du jour",
-      "frequence": "Hebdomadaire",
-      "description": "O ex mauris erat elementum cursus, ultrices id commodo tristique, tincidunt sollicitudin est mollis, cit consequat quis dui quis auctor.",
-      "condition_reussite": "Adipiscing et viverra ligula purus id dia risus. Velit maximus lum.",
-      "cible": 6,
-      "recompense": {
-        "xp": 336,
-        "pieces": 32
-      },
-      "actif_du": "2026-11-02",
-      "actif_au": "2026-11-13"
-    },
-    {
-      "_id": "quete-75fbab63-30fc-4ddb-9d23-24b7d52b7858",
-      "type": "quete",
-      "titre": "Maître des macros",
-      "frequence": "Hebdomadaire",
-      "description": "At lectus ultrices placerat ultricies eu e amet turpis sagittis tem.",
-      "condition_reussite": "Ipsum vehicula sodales hendrerit dignissim natoque.",
-      "cible": 6,
-      "recompense": {
-        "xp": 365,
-        "pieces": 12
-      },
-      "actif_du": "2026-11-02",
-      "actif_au": "2026-11-08"
-    },
-    {
-      "_id": "quete-611070e0-4fd5-490c-8d95-836a533063ad",
-      "type": "quete",
-      "titre": "Equilibriste",
-      "frequence": "Hebdomadaire",
-      "description": "Ligula blandit velit in natoque finibus commodo donec mollis sagittis.",
-      "condition_reussite": "Consectetur et nisl amet sodales ornare, accumsan donec metus eget. Ex non commodo ipsum.",
-      "cible": 3,
-      "recompense": {
-        "xp": 210,
-        "pieces": 62
-      },
-      "actif_du": "2026-11-02",
-      "actif_au": "2026-11-08"
-    },
-    {
-      "_id": "quete-87cd1459-c75a-4ae8-803d-50d1ac7e02bc",
-      "type": "quete",
-      "titre": "Fidèle au poste",
-      "frequence": "Quotidienne",
-      "description": "Mattis quisque eget consectetur natoque, nunc dui quisque lorem au aliquet en lacus mollis diam.",
-      "condition_reussite": "Iaculis diam sem risus u, orci gravida dolor.",
-      "cible": 6,
-      "recompense": {
-        "xp": 64,
-        "pieces": 25
-      },
-      "actif_du": "2026-11-02",
-      "actif_au": "2026-11-08"
-    },
-    {
-      "_id": "quete-3c2b7c08-3ede-4d1a-bae5-0de197513c40",
-      "type": "quete",
-      "titre": "Sur la durée",
-      "frequence": "Hebdomadaire",
-      "description": "Lum imperdiet mattis mauris lacus cursus. Natoque magna felis eu metus quisque lacinia, tempus amet et ornare proin tortor.",
-      "condition_reussite": "Pulvinar eti ali magna laoreet.",
-      "cible": 3,
-      "recompense": {
-        "xp": 89,
+        "xp": 257,
         "pieces": 99
       },
       "actif_du": "2026-11-01",
       "actif_au": "2026-11-11"
     },
     {
-      "_id": "quete-22050b12-71dc-477d-a2ed-716ef7d14632",
+      "_id": "quete-334f8e3c-f410-41d7-94f8-73335fb9aa87",
       "type": "quete",
-      "titre": "Le déchet zéro",
+      "titre": "Equilibriste",
+      "frequence": "Hebdomadaire",
+      "description": "Viverra nulla metus amet cras, velit at lacus gravida sapien. Vel magna con sagittis adipiscing sit mauris lobortis ali iaculis magna sed ali.",
+      "condition_reussite": "Rhoncus hendrerit tempor consectetur lum elementum i. Tortor iaculis proin bibendum diam laoreet.",
+      "cible": 6,
+      "recompense": {
+        "xp": 268,
+        "pieces": 19
+      },
+      "actif_du": "2026-11-03",
+      "actif_au": "2026-11-09"
+    },
+    {
+      "_id": "quete-69084933-70ed-487b-8b16-b92443598b3e",
+      "type": "quete",
+      "titre": "Le défi des 5 fruits et légumes",
       "frequence": "Quotidienne",
-      "description": "Diam laoreet neque cursus finibus viverra sollicitudin. Ultrices eget nisi augue vitae eros, condimentum lacinia risus posuere eros sed proin ornare.",
-      "condition_reussite": "Eget lobortis purus vehicula tem. A lum tortor vel dignissim a felis cursus.",
+      "description": "Id placerat sapien adipiscing finibus arcu aliquam mi nisl sollicitudin diam. Purus at aenean sagittis orci est, aliquet metus pharetra lectus ipsum au.",
+      "condition_reussite": "Maecenas pharetra suscipit au nam arcu.",
       "cible": 1,
       "recompense": {
-        "xp": 61,
-        "pieces": 65
+        "xp": 219,
+        "pieces": 33
       },
       "actif_du": "2026-11-04",
+      "actif_au": "2026-11-13"
+    },
+    {
+      "_id": "quete-64c382f2-ad96-432b-9b50-c7fad53ffeb5",
+      "type": "quete",
+      "titre": "Petit-déjeuner de champion",
+      "frequence": "Hebdomadaire",
+      "description": "Imperdiet lum nunc nunc imperdiet ipsum dolor maximus curabitur. Massa est enim ultricies amet ultrices, i accumsan orci ac lacinia lectus, aliquam pellentesque e.",
+      "condition_reussite": "Non dolor massa ultrices arcu aliquet ultrices risus ac.",
+      "cible": 5,
+      "recompense": {
+        "xp": 395,
+        "pieces": 87
+      },
+      "actif_du": "2026-11-02",
+      "actif_au": "2026-11-13"
+    },
+    {
+      "_id": "quete-8031f810-8b2f-4405-b610-d9008c83d432",
+      "type": "quete",
+      "titre": "Grand cueilleur",
+      "frequence": "Hebdomadaire",
+      "description": "Tristique enim mauris auctor natoque consequat tincidunt metus. Lum adipiscing en quis consectetur porttitor pulvinar lacus enim lectus tincidunt.",
+      "condition_reussite": "Ac metus lacinia tincidunt pharetra. Mattis au arcu leo mauris consequat scelerisque lorem.",
+      "cible": 7,
+      "recompense": {
+        "xp": 89,
+        "pieces": 31
+      },
+      "actif_du": "2026-11-06",
+      "actif_au": "2026-11-11"
+    },
+    {
+      "_id": "quete-642ffaf7-3c30-4deb-b1b0-c706382934eb",
+      "type": "quete",
+      "titre": "Cuistot local",
+      "frequence": "Hebdomadaire",
+      "description": "Posuere enim vitae sem elementum tincidunt dignissim vitae fringilla. Cit dolor vestibulum augue cit natoque.",
+      "condition_reussite": "Ali leo donec el eu ex leo. Maecenas ac consectetur.",
+      "cible": 3,
+      "recompense": {
+        "xp": 62,
+        "pieces": 50
+      },
+      "actif_du": "2026-11-06",
+      "actif_au": "2026-11-12"
+    },
+    {
+      "_id": "quete-cc5b5507-1a1a-4d37-8fa0-cfd0a1990881",
+      "type": "quete",
+      "titre": "Petit-déjeuner de champion",
+      "frequence": "Hebdomadaire",
+      "description": "Euismod eti pretium orci vehicula ultricies tempor pellentesque nibh lectus.",
+      "condition_reussite": "Adipiscing vehicula nibh mattis nibh ligula ex auctor vehicula magna ultricies.",
+      "cible": 4,
+      "recompense": {
+        "xp": 123,
+        "pieces": 38
+      },
+      "actif_du": "2026-11-04",
+      "actif_au": "2026-11-11"
+    },
+    {
+      "_id": "quete-369306b4-ca6c-4d85-b85d-7c4bdd2d259c",
+      "type": "quete",
+      "titre": "Cuistot local",
+      "frequence": "Hebdomadaire",
+      "description": "Mi pulvinar facilisis lum adipiscing, et imperdiet aliquam dia pulvinar, dictum nisl ornare eros.",
+      "condition_reussite": "Nunc amet lacinia at imperdiet metus, quis purus posuere.",
+      "cible": 5,
+      "recompense": {
+        "xp": 359,
+        "pieces": 30
+      },
+      "actif_du": "2026-11-02",
+      "actif_au": "2026-11-12"
+    },
+    {
+      "_id": "quete-d1907a70-0ea4-4e62-abc0-7b6692d6f944",
+      "type": "quete",
+      "titre": "Sur la durée",
+      "frequence": "Hebdomadaire",
+      "description": "Pulvinar placerat cit pharetra vitae pretium dui eget.",
+      "condition_reussite": "Sit ipsum viverra laoreet vehicula orci ut in tempus porttitor lacinia leo in.",
+      "cible": 1,
+      "recompense": {
+        "xp": 320,
+        "pieces": 74
+      },
+      "actif_du": "2026-11-06",
+      "actif_au": "2026-11-10"
+    },
+    {
+      "_id": "quete-25c1fefe-1fec-418d-a70d-182519288392",
+      "type": "quete",
+      "titre": "Sur la durée",
+      "frequence": "Quotidienne",
+      "description": "Mollis ut cras neque adipiscing. Dia scelerisque adipiscing.",
+      "condition_reussite": "Dolor nisi felis nisi leo.",
+      "cible": 4,
+      "recompense": {
+        "xp": 167,
+        "pieces": 95
+      },
+      "actif_du": "2026-11-02",
+      "actif_au": "2026-11-12"
+    },
+    {
+      "_id": "quete-217eaa05-5f12-45e9-a822-4c45a9c3cf32",
+      "type": "quete",
+      "titre": "Grand cueilleur",
+      "frequence": "Hebdomadaire",
+      "description": "Mauris nunc nunc morbi tincidunt nam laoreet. Diam in nunc eti aliquam elementum blandit facilisis. Accumsan augue turpis metus. Dictum cursus consectetur.",
+      "condition_reussite": "Nisl felis rhoncus felis consectetur, rhoncus placerat dolor arcu dui nunc. Ipsum ut mattis.",
+      "cible": 2,
+      "recompense": {
+        "xp": 258,
+        "pieces": 100
+      },
+      "actif_du": "2026-11-03",
+      "actif_au": "2026-11-09"
+    },
+    {
+      "_id": "quete-7e8f1f28-558a-4d2f-bfae-c67d1145cc49",
+      "type": "quete",
+      "titre": "Petit-déjeuner de champion",
+      "frequence": "Hebdomadaire",
+      "description": "Risus ante lectus faucibus euismod est blandit aliquam. Justo eros condimentum metus.",
+      "condition_reussite": "Condimentum tem turpis condimentum accumsan massa mi, pretium faucibus etiam.",
+      "cible": 2,
+      "recompense": {
+        "xp": 372,
+        "pieces": 83
+      },
+      "actif_du": "2026-11-05",
       "actif_au": "2026-11-11"
     }
 ,
     {
-      "_id": "boutique-eb64e86f-56a8-4c96-8bdd-50e23190b198",
+      "_id": "boutique-843d24e9-7872-4a9d-a366-3dcc20f607bf",
+      "type": "article_boutique",
+      "nom": "Trophée mur du hall",
+      "categorie": "Fonctionnel",
+      "description": "Nunc au bibendum porttitor dignissim lobortis.",
+      "cout_pieces": 2892,
+      "niveau_requis": 3
+    },
+    {
+      "_id": "boutique-6332acc0-8487-417b-8b2a-c4102114acc6",
+      "type": "article_boutique",
+      "nom": "Boost XP x2",
+      "categorie": "Thème",
+      "description": "Ultricies viverra diam placerat id, viverra ultrices scelerisque id augue sollicitudin.",
+      "cout_pieces": 916,
+      "niveau_requis": 9
+    },
+    {
+      "_id": "boutique-ff5ac99b-d0c3-482e-aa3d-343f8b917be7",
       "type": "article_boutique",
       "nom": "Avatar renard",
       "categorie": "Fonctionnel",
-      "description": "Au nibh euismod ali lorem, sit lectus nunc rhoncus i. O scelerisque sodales laoreet.",
-      "cout_pieces": 4018,
-      "niveau_requis": 10
+      "description": "Pellentesque commodo hendrerit euismod ac natoque, elit pharetra cit consequat in ex maximus, tempor quisque vel commodo dolor. Cit orci viverra.",
+      "cout_pieces": 143,
+      "niveau_requis": 4
     },
     {
-      "_id": "boutique-e1b2ab5c-7af0-4daf-ab49-5735ec433334",
+      "_id": "boutique-1d742e3c-5852-40ab-9fa9-aa3e48a7ad45",
       "type": "article_boutique",
-      "nom": "Boost XP x2",
-      "categorie": "Avatar",
-      "description": "Posuere consectetur con lacinia maximus turpis facilisis.",
-      "cout_pieces": 2110,
+      "nom": "Cadre doré de profil",
+      "categorie": "Cosmétique",
+      "description": "Dia lum tincidunt lacus nisi euismod e nam tem.",
+      "cout_pieces": 2261,
       "niveau_requis": 7
     },
     {
-      "_id": "boutique-2bbdb2d5-5f13-4d49-b3c0-18d384fa6d07",
+      "_id": "boutique-d39fcafa-c4ef-475d-818c-74e594d5faee",
       "type": "article_boutique",
       "nom": "Thème sombre éco",
-      "categorie": "Cosmétique",
-      "description": "Turpis risus adipiscing ipsum dignissim. Pharetra auctor adipiscing at. Finibus eti ornare imperdiet, u ante consequat neque aliquam bibendum.",
-      "cout_pieces": 3290,
-      "niveau_requis": 6
-    },
-    {
-      "_id": "boutique-ea4b2f69-2d74-4eb2-8c9d-c86de3be7f41",
-      "type": "article_boutique",
-      "nom": "Boost XP x2",
       "categorie": "Fonctionnel",
-      "description": "Pretium sollicitudin magna laoreet aenean con accumsan bibendum aliquam. Facilisis eu nam at. Fringilla posuere vitae etiam. Pharetra e vel.",
-      "cout_pieces": 3030,
-      "niveau_requis": 2
+      "description": "Eget eget consequat e sapien imperdiet lacus felis. Natoque sed i turpis elementum purus elit, mattis aenean consectetur diam maecenas maecenas tristique.",
+      "cout_pieces": 214,
+      "niveau_requis": 5
     },
     {
-      "_id": "boutique-409b77b2-3697-4293-8301-d1f8f3085aff",
+      "_id": "boutique-ec595f79-7f68-479a-bdf3-7acc27a95f36",
       "type": "article_boutique",
-      "nom": "Recette premium",
-      "categorie": "Cosmétique",
-      "description": "Leo dignissim massa scelerisque commodo vulputate laoreet, enim lectus faucibus vehicula vel.",
-      "cout_pieces": 1203,
-      "niveau_requis": 4
-    },
-    {
-      "_id": "boutique-d9c523e5-affd-416f-8af5-af36196d9555",
-      "type": "article_boutique",
-      "nom": "Fond de page recyclé",
-      "categorie": "Avatar",
-      "description": "Dictum pulvinar iaculis velit tincidunt lobortis facilisis.",
-      "cout_pieces": 1946,
+      "nom": "Thème sombre éco",
+      "categorie": "Thème",
+      "description": "Ali lacinia velit it neque. Enim nibh leo eti dolor. Mi mauris sodales dignissim enim vitae orci lacinia felis adipiscing eros, cit erat auctor.",
+      "cout_pieces": 629,
       "niveau_requis": 8
     },
     {
-      "_id": "boutique-9ef26d16-7c89-4519-a986-48cfe29494a5",
+      "_id": "boutique-8f98def4-eb3d-4db7-9b87-4d0d09c9b415",
       "type": "article_boutique",
-      "nom": "Fond de page recyclé",
+      "nom": "Couronne des macros",
       "categorie": "Cosmétique",
-      "description": "Elementum accumsan lacus augue magna facilisis lorem dictum a tempor enim i, dolor con est.",
-      "cout_pieces": 2180,
-      "niveau_requis": 4
+      "description": "Tortor turpis ali it lectus magna tincidunt accumsan. Vitae et scelerisque aliquet. Etiam finibus eti tem, eros lum el auctor.",
+      "cout_pieces": 4909,
+      "niveau_requis": 8
+    },
+    {
+      "_id": "boutique-c650d1d9-c731-4947-86f7-d4e48d83c40c",
+      "type": "article_boutique",
+      "nom": "Boussole des saisons",
+      "categorie": "Thème",
+      "description": "Suscipit tem mattis massa non sed massa nisi.",
+      "cout_pieces": 2020,
+      "niveau_requis": 7
+    },
+    {
+      "_id": "boutique-ddf2994c-467d-4f8a-9631-f4d45ec1a78d",
+      "type": "article_boutique",
+      "nom": "Couronne des macros",
+      "categorie": "Cosmétique",
+      "description": "Diam sed lacus dui euismod. Condimentum nibh morbi euismod est metus sem consectetur nam faucibus e orci, finibus u ac tristique etiam, placerat dignissim gravida.",
+      "cout_pieces": 2186,
+      "niveau_requis": 2
+    },
+    {
+      "_id": "boutique-82536ac1-611b-41fe-9d9e-dd6f9629aff8",
+      "type": "article_boutique",
+      "nom": "Recette premium",
+      "categorie": "Avatar",
+      "description": "Tristique aliquet aliquam eget velit, vulputate e vel enim cras.",
+      "cout_pieces": 1666,
+      "niveau_requis": 6
     }
   ]
 }
