@@ -56,3 +56,35 @@ L'EcoIndex d'une page (de A à G) est calculé (sources : [EcoIndex](https://www
 - le nombre d'éléments du document.
 
 Nous avons choisi de comparer l'impact des scénarios sur les services de compage de calories et d'accompagnement au tracking alimentaires accessibles en ligne : **MyFitnessPal**, **Cronometer**, **MyNetDiary**.
+
+## Impact de l’exécution des scénarios auprès de différents services concurrents
+
+L’EcoIndex d’une page, noté de A à G, est calculé en fonction de son positionnement parmi les pages web analysées selon trois critères :
+
+- le nombre de requêtes lancées ;
+- le poids des données transférées ;
+- le nombre d’éléments du document, appelé DOM.
+
+Nous avons choisi de mesurer plusieurs pages de trois services de suivi alimentaire accessibles en ligne : **MyFitnessPal**, **Cronometer** et **MyNetDiary**. Ces services proposent des fonctionnalités proches de certaines de celles envisagées pour CalorEZ, notamment le suivi des repas et des besoins nutritionnels.
+
+| Service | Page mesurée | Score sur 100 | Classe |
+| --- | --- | ---: | :---: |
+| MyFitnessPal | Page d’accueil | 48 | D 🟧 |
+| MyFitnessPal | Journal alimentaire | 52 | D 🟧 |
+| MyFitnessPal | Journal d’activité physique | 80 | A 🟩 |
+| Cronometer | Page d’accueil | 24 | F 🟪 |
+| MyNetDiary | Tableau de bord | 51,62 | D 🟧 |
+| MyNetDiary | Plan | 76,52 | B 🟩 |
+| MyNetDiary | Repas | 63,42 | C 🟨 |
+
+*Tab. 1 : Mesures EcoIndex de différentes pages des services concurrents.*
+
+Les mesures révèlent des résultats assez variables, allant de la classe **A** à la classe **F**. La page d’accueil de Cronometer obtient le score le plus faible, avec 24/100. Elle comporte notamment 2 793 éléments dans son DOM, contre 475 pour la page d’accueil de MyFitnessPal.
+
+Pour MyFitnessPal, on observe un écart important entre les pages : le journal d’activité physique obtient la classe A, tandis que le journal alimentaire et la page d’accueil sont classés D. Cette dernière lance à elle seule 114 requêtes, soit le nombre le plus élevé parmi les pages mesurées.
+
+Les pages de MyNetDiary obtiennent des résultats plus homogènes, avec des classes comprises entre B et D. Le tableau de bord est la page la moins bien classée, tandis que la page de plan obtient le meilleur score des trois.
+
+Ces résultats sont toutefois à nuancer. Les pages étudiées ne correspondent pas toutes aux mêmes usages, et certaines mesures ont été réalisées avec le cache du navigateur tandis que d’autres l’ont été sans cache. De plus, les mesures du journal alimentaire et du rapport nutritionnel de Cronometer ont échoué. Nous ne pouvons donc pas encore comparer les trois services sur l’ensemble de nos scénarios.
+
+Les écarts observés montrent néanmoins qu’il existe une marge de progression. Pour CalorEZ, nous serons particulièrement attentifs au nombre de requêtes, au poids des images de recettes et à la quantité d’éléments affichés, notamment sur les pages les plus consultées comme le tableau de bord, les quêtes et les détails nutritionnels.
