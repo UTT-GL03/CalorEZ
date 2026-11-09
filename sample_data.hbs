@@ -1,0 +1,118 @@
+{
+  "docs": [
+    {{#repeat min=4 max=8}}
+    {
+      "_id": "user-{{guid}}",
+      "type": "user",
+      "pseudo": "{{firstName}}{{int 10 99}}",
+      "email": "{{email}}",
+      "date_inscription": "{{date '2025-09-01' '2026-11-09' 'YYYY-MM-DD'}}",
+      "niveau": {{int 1 30}},
+      "xp": {{int 100 20000}},
+      "pieces": {{int 50 5000}},
+      "profil": {
+        "age": {{int 18 45}},
+        "poids_kg": {{int 55 95}},
+        "taille_cm": {{int 155 195}},
+        "regime_alimentaire": "{{random 'Omnivore' 'Flexitarien' 'Végétarien' 'Pescétarien' 'Végan'}}",
+        "objectif": "{{random 'Perte de poids' 'Prise de masse' 'Maintien' 'Recomposition corporelle'}}"
+      },
+      "objectifs_quotidiens": {
+        "calories_kcal": {{int 1700 2900}},
+        "proteines_g": {{int 70 180}},
+        "glucides_g": {{int 150 350}},
+        "lipides_g": {{int 45 100}}
+      },
+      "preferences_alimentaires": [
+        {{#repeat min=0 max=3}}"{{random 'Sans lactose' 'Sans gluten' 'Faible empreinte carbone' 'Produits de saison' 'Max. végétal'}}"{{/repeat}}
+      ],
+      "recettes_favorites": [
+        {{#repeat min=1 max=6}}"recette-{{int 1 9999}}"{{/repeat}}
+      ]
+    }
+    {{/repeat}},
+    {{#repeat min=25 max=35}}
+    {
+      "_id": "recette-{{guid}}",
+      "type": "recette",
+      "nom": "{{random 'Pâtes au pesto de basilic' 'Wok de légumes de saison' 'Risotto aux champignons' 'Buddha bowl quinoa et pois chiches' 'Gratin de courgettes' 'Soupe de potimarron' 'Omelette aux herbes' 'Salade de lentilles et feta' 'Poulet rôti aux légumes racines' 'Curry de pois chiches au lait de coco' 'Tarte aux poireaux' 'Wrap houmous et crudités' 'Bolognèse végétale aux lentilles' 'Taboulé de boulgour' 'Chili sin carne' "Pancakes aux flocons d'avoine" 'Porridge banane miel' 'Gaspacho tomate poivron' 'Lasagnes aux épinards' 'Riz sauté aux légumes' 'Couscous aux sept légumes' 'Clafoutis aux cerises' 'Velouté courgette menthe' 'Gratin dauphinois' 'Quiche lorraine allégée' 'Salade César revisitée' 'Purée patate douce saumon' 'Beignets de fleurs de courgette' 'Tartine chèvre miel noix' 'Ratatouille' 'Brochettes légumes tofu' 'Pilaf aux légumes' 'Omelette surprise' 'Pain perdu' 'Muesli maison' 'Smoothie vert' 'Compote pomme coing' 'Riz au lait' 'Moussaka légère' 'Salade de riz complet' 'Salade Niçoise' 'Galettes de sarrasin' 'Soupe de pois cassés' 'Tofu au gingembre' 'Nouilles soba' 'Gratin endives jambon'}}",
+      "categorie": "{{random 'Plat principal' 'Entrée' 'Petit-déjeuner' 'Dessert' 'Collation'}}",
+      "saison_recommandee": "{{random 'Printemps' 'Été' 'Automne' 'Hiver'}}",
+      "regime_compatible": [
+        {{#repeat min=1 max=3}}"{{random 'Végétarien' 'Végan' 'Sans gluten' 'Sans lactose'}}"{{/repeat}}
+      ],
+      "temps_preparation_min": {{int 5 90}},
+      "portions": {{int 1 6}},
+      "difficulte": {{int 1 3}},
+      "ingredients": [
+        {{#repeat min=3 max=9}}
+        {
+          "nom": "{{random 'Courgette' 'Tomate' 'Pomme de terre' 'Poireau' 'Carotte' 'Oignon' 'Ail' 'Quinoa' 'Riz complet' 'Pâtes complètes' 'Lentilles corail' 'Pois chiches' 'Haricots blancs' 'Tofu ferme' 'Œuf' 'Filet de saumon' 'Escalope de poulet' 'Lait demi-écrémé' 'Crème légère' 'Yaourt nature' 'Comté' 'Feta' 'Chèvre frais' 'Farine de sarrasin' "Flocons d'avoine" 'Basilic frais' 'Persil' 'Menthe' "Huile d'olive" 'Coco' 'Champignons de Paris' 'Épinards' 'Échalote' 'Miel' 'Moutarde' 'Citron' 'Courge butternut' 'Betterave' 'Thon au naturel' 'Laitue' 'Poivron' 'Aubergine' 'Boulgour' 'Banane' 'Pomme'}}",
+          "quantite": {{int 10 400}},
+          "unite": "{{random 'g' 'ml' 'pièce(s)' 'cas' 'cac'}}"
+        }
+        {{/repeat}}
+      ],
+      "etapes": [
+        {{#repeat min=3 max=8}}"{{lorem min=8 max=40}}"{{/repeat}}
+      ],
+      "valeurs_nutritionnelles_par_portion": {
+        "calories_kcal": {{int 120 850}},
+        "proteines_g": {{int 3 45}},
+        "glucides_g": {{int 5 80}},
+        "lipides_g": {{int 2 35}},
+        "fibres_g": {{int 1 12}}
+      },
+      "empreinte_carbone_kg_co2e": {{float 0.1 3.5 '0.0'}},
+      "de_saison": {{random 'true' 'false'}},
+      "ingredient_local_bio": {{random 'true' 'false'}}
+    }
+    {{/repeat}},
+    {{#repeat min=20 max=30}}
+    {
+      "_id": "journal-{{guid}}",
+      "type": "entree_journal",
+      "user": "user-{{int 1 8}}",
+      "date": "{{date '2026-10-12' '2026-11-09' 'YYYY-MM-DD'}}",
+      "repas": "{{random 'Petit-déjeuner' 'Déjeuner' 'Dîner' 'Collation matin' 'Collation après-midi'}}",
+      "recette_consommee": "recette-{{int 1 9999}}",
+      "portions_absorbees": {{int 1 3}},
+      "apports": {
+        "calories_kcal": {{int 100 900}},
+        "proteines_g": {{int 2 50}},
+        "glucides_g": {{int 5 85}},
+        "lipides_g": {{int 2 40}}
+      },
+      "humeur_apres_repas": {{int 1 5}}
+    }
+    {{/repeat}},
+    {{#repeat min=8 max=14}}
+    {
+      "_id": "quete-{{guid}}",
+      "type": "quete",
+      "titre": "{{random 'Le défi des 5 fruits et légumes' 'Chasseur de recettes' 'Veggie du jour' 'Zéro gaspillage' 'Marathon culinaire' 'Petit-déjeuner de champion' 'Le déchet zéro' 'Fidèle au poste' 'Grand cueilleur' 'Cuistot local' 'Maître des macros' 'Equilibriste' 'Raid nutritionnel' 'Sur la durée'}}",
+      "frequence": "{{random 'Quotidienne' 'Hebdomadaire' 'Hebdomadaire'}}",
+      "description": "{{lorem min=8 max=30}}",
+      "condition_reussite": "{{lorem min=5 max=15}}",
+      "cible": {{int 1 7}},
+      "recompense": {
+        "xp": {{int 50 400}},
+        "pieces": {{int 10 100}}
+      },
+      "actif_du": "{{date '2026-11-01' '2026-11-07' 'YYYY-MM-DD'}}",
+      "actif_au": "{{date '2026-11-08' '2026-11-14' 'YYYY-MM-DD'}}"
+    }
+    {{/repeat}},
+    {{#repeat min=6 max=10}}
+    {
+      "_id": "boutique-{{guid}}",
+      "type": "article_boutique",
+      "nom": "{{random 'Thème sombre éco' 'Avatar renard' 'Boost XP x2' 'Cadre doré de profil' 'Trophée mur du hall' 'Fond de page recyclé' 'Recette premium' 'Pack sticker Printemps' 'Couronne des macros' 'Boussole des saisons'}}",
+      "categorie": "{{random 'Cosmétique' 'Avatar' 'Fonctionnel' 'Thème'}}",
+      "description": "{{lorem min=6 max=25}}",
+      "cout_pieces": {{int 100 5000}},
+      "niveau_requis": {{int 1 10}}
+    }
+    {{/repeat}}
+  ]
+}
