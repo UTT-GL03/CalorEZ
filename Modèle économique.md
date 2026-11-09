@@ -1,4 +1,4 @@
-**Analyse de la concurrence et modèle économique**
+## Analyse de la concurrence et modèle économique
 
 Le marché du suivi nutritionnel comporte plusieurs offreurs, notamment MyFitnessPal et YAZIO. Ces services présentent des fonctionnalités communes, mais peuvent se différencier par leur positionnement, leurs outils de suivi, leur accompagnement et leur modèle économique.
 
@@ -19,7 +19,7 @@ Le modèle économique observé pour YAZIO repose sur une logique de freemium. U
 
 Ce modèle constitue une piste pour CalorEZ, mais son adoption devra tenir compte du positionnement environnemental du projet. Il faudra notamment évaluer si les revenus publicitaires justifient la consommation de ressources supplémentaire et si un abonnement permettrait de financer le service tout en limitant le recours à la publicité.
 
-**Hypothèse de modèle économique pour CalorEZ**
+## Hypothèse de modèle économique pour CalorEZ
 
 Nous envisageons plusieurs sources de revenus possibles :
 
@@ -29,7 +29,7 @@ Une option de publicités solidaires, dont les revenus seraient reversés à des
 
 Le modèle retenu devra concilier accessibilité, viabilité économique et cohérence avec les objectifs environnementaux. Il reste à déterminer quelles fonctionnalités seront gratuites, lesquelles seront réservées à l'abonnement et quelle part des revenus publicitaires pourra être reversée aux associations.
 
-**Première estimation du seuil de rentabilité**
+## Première estimation du seuil de rentabilité
 
 Nous retenons les hypothèses suivantes :
 
