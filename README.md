@@ -35,11 +35,9 @@ L'application ne vise pas à remplacer un médecin, un diététicien ou un nutri
 Dans le cadre de l'utilisation de CalorEZ comme compteur de calories, nous baserons nos hypothèses d'utilisation vers des personnes utilisant l'ensemble des fonctionnalités de l'application, afin d'exploiter pleinement les usages de gamification.
 
 # **Scénarios d'Usage**
-## Scénario 1: L'utilisateur explore sa liste de recettes, et en ajoute une nouvelle.
+## Scénario 1: L'utilisateur explore la liste de recettes.
    - L'utilisateur se rends dans l'onglet recette
    - La liste des recettes téléchargées est affichée
-   - L'utilisateur sélectionne le menu de découverte de recettes
-   - Il ajoute la recette à sa liste de recettes téléchargées
 ## Scénario 2 : L'utilisateur consulte sa liste de quêtes journalières.
    - L'utilisateur se rends dans le menu principal
    - Dans le menu, il ouvre le menu de quêtes et les consulte
