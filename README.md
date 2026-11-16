@@ -38,6 +38,7 @@ Dans le cadre de l'utilisation de CalorEZ comme compteur de calories, nous baser
 ## Scénario 1: L'utilisateur explore la liste de recettes.
    - L'utilisateur se rends dans l'onglet recette
    - La liste des recettes téléchargées est affichée
+   - L'utilisateur ouvre une recette pour en avoir les détails
 ## Scénario 2 : L'utilisateur consulte sa liste de quêtes journalières.
    - L'utilisateur se rends dans le menu principal
    - Dans le menu, il ouvre le menu de quêtes et les consulte
@@ -139,3 +140,46 @@ Le nombre d'abonnements nécessaires pour couvrir le coût mensuel de référenc
 Il faudrait ainsi environ 679 abonnements payants actifs par mois pour couvrir ce seul coût de référence.
 
 Cette estimation constitue un premier ordre de grandeur, et non un seuil de rentabilité complet. Elle ne prend pas en compte les frais d'hébergement, les services externes, le développement, la maintenance, les commissions des plateformes, les taxes ou les autres dépenses d'exploitation. Elle suppose également que les revenus moyens calculés sont effectivement perçus pour chaque abonnement sur le mois considéré.
+
+# Implémentation du scénario prioritaire. 
+
+## Étape de prototypage : Données chargées de manière statique
+
+Pour cette première version du prototype (v1.0.0) :
+
+l'échantillon de données est encore chargé dans le code de manière statique,
+les fonctionnalités implémentées ne sont que celles nécessaires pour suivre le scénario prioritaire ("Accéder à la liste des recettes").
+Ce scénario nécessite de pouvoir naviguer entre deux types de page : la page de consultation des données et la page des données liées aux recettes
+
+## Mesures initiales - Environnement de développement et de pré-production.
+
+| Environnement | URL | Nombre de requêtes | Taille (KB) | Taille du DOM | GES (gCO2e) | Eau (cl) | ecoIndex | Note |
+|---|---|---:|---:|---:|---:|---:|---:|:---:|
+| Dev | http://10.231.252.35:5173/ | 31 | 4339 | 51 | 1.47 | 2.20 | 76.74 | B 🟦 |
+| Pré-production | http://10.231.252.35:4173/ | 4 | 111 | 48 | 1.12 | 1.68 | 94.02 | A 🟩 |
+
+Tab X - Tableau de la mesure d'EcoIndex des environnements de Développement et de Pré-production.
+
+### Page des recettes
+Nous avons développé la page des recettes (cf. Fig. 2) pour qu'elle affiche l'échantillon de données sous une forme proche de ce que prévoyait la maquette.
+<img width="2870" height="1190" alt="image" src="https://github.com/user-attachments/assets/42324739-c9fe-4bb1-9dc5-4fee91fd1db0" />
+Figure 2 - Page des recettes
+
+Pour l'instant, nous avons choisi un framework de mise en page minimaliste (PicoCSS). La page n'est également pas mise en forme exactement comme elle le sera dans la version finale du projet, bien que l'autre mise en forme ne modifiera que de manière minime l'EcoIndex, ne changeant pas le contenu mais simplement la mise en forme.
+
+Dans l'état actuel du prototype, il est possible d'avoir une première idée de l'impact environnemental du frontend. Bien entendu, il manque encore le chargement dynamique des données, mais nous pouvons déjà évaluer l'impact de l'affichage des données et du framework (au sens large : React, PicoCSS, DayJS). Cette évaluation de l'impact (cf. Tab.4) est déjà encourageante en mode "développement" mais encore plus en mode "pré-production". Nous mesurons ici l'effet positif de l'adoption d'outils de développement Web intégrant la "minification" (cf. Wikipédia) du code et la concaténation du code d'une part et des feuilles de style d'autre part.
+
+Pour rappel, le scénario était:
+
+#### Scénario 1: L'utilisateur explore la liste de recettes.
+   - L'utilisateur se rends dans l'onglet recette
+   - La liste des recettes téléchargées est affichée
+   - L'utilisateur ouvre une recette pour en avoir les détails
+
+Avec l'ajout des pages nécessaires, nous pouvons maintenant mesurer les impacts de ce scénario dans notre environnement de pré-production.
+
+| Page | URL | Nombre de requêtes | Taille (KB) | Taille du DOM | GES (gCO2e) | Eau (cl) | ecoIndex | Note |
+|---|---|---:|---:|---:|---:|---:|---:|:---:|
+| Page de détails d'une recette | http://10.18.5.36:4173/recettes/recette-3bf8ffd8-c534-4eb9-ab24-36282777e94c | 4 | 111 | 73 | 1.16 | 1.75 | 91.78 | A  🟩 |
+| Page de liste des recettes | http://10.18.5.36:4173/recettes | 4 | 111 | 334 | 1.35 | 2.02 | 82.61 | A 🟩 |
+| Page principale | http://10.18.5.36:4173/ | 4 | 111 | 48 | 1.12 | 1.68 | 94.02 | A 🟩 |
