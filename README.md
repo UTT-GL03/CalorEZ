@@ -196,3 +196,12 @@ On remarque une très faible différence au niveau de l'EcoIndex:
 | Page de détails d'une recette | http://10.18.5.36:4173/recettes/recette-3bf8ffd8-c534-4eb9-ab24-36282777e94c | 3 | 1 | 73 | 1.14 | 1.72 | 92.78 | A |
 | Page de liste de recettes | http://10.18.5.36:4173/recettes | 3 | 1 | 334 | 1.33 | 1.99 | 83.60 | A |
 | Page d'accueil | http://10.18.5.36:4173/ | 4 | 111 | 48 | 1.12 | 1.68 | 94.02 | A |
+
+## Mesures de la consommation énergétique lors du passage à l'échelle
+
+Maintenant que notre prototype est réaliste en termes de nombre de requêtes, nous pouvons simuler les effets du "passage à l'échelle". 
+
+Dans notre cas, l'augmentation de la quantité des données sera directement liée aux recettes, et aux journées de consommation des utilisateurs. En effet, chaque utilisateur pourra ajouter ses recettes. Une quantité constante d'utilisateurs devrait tout de même produire des recettes à rythme constant. Plus le site contiendra d'utilisateurs, plus les recettes seront ajoutées rapidement et le flux de données journalières de nutrition augmenteront.
+Cette quantité massive de données seront nécessaires pour les utilisateurs, pour conserver une vision sur l'évolution de ses habitudes alimentaires.
+
+Pour les utilisateurs, on peut voir leur base augmenter de manière plus ou moins logarithmique (Forte croissance, qui diminue avec le temps). Pour les recettes et les données utilisateurs, leur données vont croître de manière exponentielles, pour tendre vers une croissance linéaire lorsque la base d'utilisateurs se sera stabilisées. 
