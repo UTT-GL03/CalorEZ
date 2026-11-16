@@ -1,13 +1,18 @@
 import { SECTIONS, docsDe } from '../lib/sections'
 import { Liste } from '../components/Liste'
 import { LigneDate } from '../components/LigneDate'
+import { EtatChargement, useSampleData } from '../lib/useSampleData'
 
 export function UtilisateursPage() {
-  return <Liste cle="users" />
+  const { data, erreur } = useSampleData()
+  if (!data) return <EtatChargement erreur={erreur} />
+  return <Liste cle="users" data={data} />
 }
 
 export function UtilisateurDetail({ id }) {
-  const doc = docsDe('users').find(d => d._id === id)
+  const { data, erreur } = useSampleData()
+  if (!data) return <EtatChargement erreur={erreur} />
+  const doc = docsDe('users', data).find(d => d._id === id)
   if (!doc) {
     return (
       <main className="container">

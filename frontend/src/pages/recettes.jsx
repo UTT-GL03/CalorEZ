@@ -1,12 +1,17 @@
 import { docsDe } from '../lib/sections'
 import { Liste } from '../components/Liste'
+import { EtatChargement, useSampleData } from '../lib/useSampleData'
 
 export function RecettesPage() {
-  return <Liste cle="recettes" />
+  const { data, erreur } = useSampleData()
+  if (!data) return <EtatChargement erreur={erreur} />
+  return <Liste cle="recettes" data={data} />
 }
 
 export function RecetteDetail({ id }) {
-  const doc = docsDe('recettes').find(d => d._id === id)
+  const { data, erreur } = useSampleData()
+  if (!data) return <EtatChargement erreur={erreur} />
+  const doc = docsDe('recettes', data).find(d => d._id === id)
   if (!doc) {
     return (
       <main className="container">

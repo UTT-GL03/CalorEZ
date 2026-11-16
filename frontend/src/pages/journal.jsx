@@ -1,13 +1,18 @@
 import { docsDe } from '../lib/sections'
 import { Liste } from '../components/Liste'
 import { LigneDate } from '../components/LigneDate'
+import { EtatChargement, useSampleData } from '../lib/useSampleData'
 
 export function JournalPage() {
-  return <Liste cle="journal" />
+  const { data, erreur } = useSampleData()
+  if (!data) return <EtatChargement erreur={erreur} />
+  return <Liste cle="journal" data={data} />
 }
 
 export function JournalDetail({ id }) {
-  const doc = docsDe('journal').find(d => d._id === id)
+  const { data, erreur } = useSampleData()
+  if (!data) return <EtatChargement erreur={erreur} />
+  const doc = docsDe('journal', data).find(d => d._id === id)
   if (!doc) {
     return (
       <main className="container">

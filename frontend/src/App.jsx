@@ -22,9 +22,7 @@ export default function App() {
   const path = new URL(window.location.href).pathname
   const parts = path.split('/').filter(Boolean)
   let Page = PAGES['/' + (parts[0] ?? '') + (parts.length ? '/' : '')] ?? PAGES['/']
-  if (parts[0] && parts.length >= 2 && DETAILS[parts[0]]) {
-    Page = () => DETAILS[parts[0]]({ id: parts[1] })
-  }
+  const Detail = parts[0] && parts.length >= 2 ? DETAILS[parts[0]] : null
   return (
     <>
       <nav>
@@ -37,7 +35,7 @@ export default function App() {
           <li><a href="/journal">Journal des repas</a></li>
         </ul>
       </nav>
-      <Page />
+      {Detail ? <Detail id={parts[1]} /> : <Page />}
     </>
   )
 }

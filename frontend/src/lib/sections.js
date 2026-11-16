@@ -1,5 +1,3 @@
-import data from '../data/sample_data.json'
-
 export const SECTIONS = {
   users: {
     chemin: '/users',
@@ -21,6 +19,6 @@ export const SECTIONS = {
   },
 }
 
-export function docsDe(cle) {
+export function docsDe(cle, data) {
   return data.docs.filter(d => d.type === SECTIONS[cle].type)
 }

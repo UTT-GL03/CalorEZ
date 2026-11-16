@@ -1,8 +1,11 @@
 import { SECTIONS, docsDe } from '../lib/sections'
-import data from '../data/sample_data.json'
+import { EtatChargement, useSampleData } from '../lib/useSampleData'
 import './accueil.css'
 
 export function AccueilPage() {
+  const { data, erreur } = useSampleData()
+  if (!data) return <EtatChargement erreur={erreur} />
+
   return (
     <main className="container">
       <hgroup>
@@ -17,7 +20,7 @@ export function AccueilPage() {
             </header>
             <p>{s.resume}</p>
             <footer>
-              <a href={s.chemin}>{docsDe(cle).length} documents →</a>
+              <a href={s.chemin}>{docsDe(cle, data).length} documents →</a>
             </footer>
           </article>
         ))}
