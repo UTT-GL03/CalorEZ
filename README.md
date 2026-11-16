@@ -183,3 +183,16 @@ Avec l'ajout des pages nécessaires, nous pouvons maintenant mesurer les impacts
 | Page de détails d'une recette | http://10.18.5.36:4173/recettes/recette-3bf8ffd8-c534-4eb9-ab24-36282777e94c | 4 | 111 | 73 | 1.16 | 1.75 | 91.78 | A  🟩 |
 | Page de liste des recettes | http://10.18.5.36:4173/recettes | 4 | 111 | 334 | 1.35 | 2.02 | 82.61 | A 🟩 |
 | Page principale | http://10.18.5.36:4173/ | 4 | 111 | 48 | 1.12 | 1.68 | 94.02 | A 🟩 |
+
+## Étape de prototypage : Données statiques chargées de manière dynamique
+
+Pour cette nouvelle version du prototype (`v1.0.1`), identique du point de vue fonctionnel, les données (toujours statiques) sont désormais chargées par le *frontend* à travers le réseau immédiatement après un premier affichage à vide. Ce comportement, plus réaliste, n'a pour effet qu'une requête supplémentaire par page affichée.
+
+On remarque une très faible différence au niveau de l'EcoIndex:
+
+| Page | URL | Nombre de requêtes | Taille (KB) | Taille du DOM | GES (gCO2e) | Eau (cl) | ecoIndex | Note |
+|---|---|---:|---:|---:|---:|---:|---:|:---:|
+| Page d'accueil rechargée | http://10.18.5.36:4173/ | 3 | 0 | 48 | 1.09 | 1.63 | 95.62 | A |
+| Page de détails d'une recette | http://10.18.5.36:4173/recettes/recette-3bf8ffd8-c534-4eb9-ab24-36282777e94c | 3 | 1 | 73 | 1.14 | 1.72 | 92.78 | A |
+| Page de liste de recettes | http://10.18.5.36:4173/recettes | 3 | 1 | 334 | 1.33 | 1.99 | 83.60 | A |
+| Page d'accueil | http://10.18.5.36:4173/ | 4 | 111 | 48 | 1.12 | 1.68 | 94.02 | A |
