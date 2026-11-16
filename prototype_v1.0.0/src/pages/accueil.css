@@ -1,0 +1,42 @@
+.tag {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 1rem;
+  background: #e8f5ec;
+  color: #245c36;
+  white-space: nowrap;
+}
+
+.tag.secondaire {
+  background: #eef1f6;
+  color: #37435c;
+}
+
+article header {
+  display: flex;
+  gap: 0.4rem;
+}
+
+article h2 {
+  font-size: 1.05rem;
+  margin: 0.7rem 0 0.4rem;
+}
+
+article ul {
+  font-size: 0.85rem;
+  padding-left: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.tuile, .tuile:visited {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+article footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  color: var(--muted-color, #64748b);
+}
