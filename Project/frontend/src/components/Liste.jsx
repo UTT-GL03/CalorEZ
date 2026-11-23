@@ -1,9 +1,9 @@
 import { SECTIONS, docsDe } from '../lib/sections'
 import { DocCard } from './DocCard'
 
-export function Liste({ cle }) {
+export function Liste({ cle, data }) {
   const section = SECTIONS[cle]
-  const docs = docsDe(cle)
+  const docs = docsDe(cle, data)
   const rows = Object.values(Object.groupBy(docs, (_, i) => Math.floor(i / 3)))
   return (
     <main className="container">
