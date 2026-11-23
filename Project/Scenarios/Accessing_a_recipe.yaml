@@ -1,27 +1,28 @@
 # To be used with GreenIT Analysis CLI
 - name: Consulter une recette
   url: http://localhost/
+  waitForSelector: 'main article footer a[href="/recettes"]'
   actions:
     - name: Consulter les informations
       type: scroll
     - name: Accéder aux recettes
-    - name: Choisir un article
       type: click
-      element: #root > main > div > article:nth-child(2) > footer > a
+      element: 'main article footer a[href="/recettes"]'
       pageChange: true
-      waitForSelector: article > p
-    - name: Lire la recette
-      type: scroll
+      waitForSelector: 'main a.tuile[href^="/recettes/"]'
+    - name: Parcourir la liste des recettes
+      type: press
+      key: End
     - name: Ouvrir une recette
       type: click
-      element: #root > main > div:nth-child(2) > a:nth-child(1)
+      element: 'main a.tuile[href^="/recettes/"]'
       pageChange: true
-      waitForSelector: .grid
+      waitForSelector: 'main article ol'
     - name: Consulter la recette
       type: scroll
     - name: Retourner au menu principal
       type: click
-      element: #root > nav > ul:nth-child(1) > li > strong > a
+      element: "#root > nav > ul:nth-child(1) > li > strong > a"
       pageChange: true
-      waitForSelector: .grid
+      waitForSelector: 'main article footer a[href="/recettes"]'
 
