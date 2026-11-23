@@ -1,9 +1,0 @@
-- name: "CalorEZ - Liste des recettes et fiche recette"
-  url: "http://localhost/recettes/"
-  waitForSelector: "a.tuile"
-  actions:
-    - name: "Ouvrir la première recette"
-      type: "click"
-      element: "a.tuile"
-      pageChange: true
-      waitForSelector: "main article h1"
