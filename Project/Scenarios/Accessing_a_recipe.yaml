@@ -1,6 +1,6 @@
 # To be used with GreenIT Analysis CLI
 - name: Consulter une recette
-  url: http://localhost/4173
+  url: http://localhost/
   actions:
     - name: Consulter les informations
       type: scroll
