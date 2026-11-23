@@ -25,22 +25,34 @@ jobs:
       - name: Start frontend
         run: |
           docker compose up --detach
-      - name: Install GreenIT Analysis CLI
+      - name: Verify frontend dataset
         run: |
-          wget https://github.com/cnumr/GreenIT-Analysis-cli/archive/refs/heads/master.zip
-          unzip master.zip
-          cd GreenIT-Analysis-cli-master
-          npm install
-          npm link
-      - name: Wait for frontend
-        uses: docker://benel/wait-for-response:1
+          curl --fail --silent --show-error \
+            --retry 20 --retry-delay 1 --retry-connrefused --max-time 5 \
+            http://localhost/sample_data.json \
+            --output "$RUNNER_TEMP/calorez-dataset.json"
+          cmp Project/frontend/public/sample_data.json "$RUNNER_TEMP/calorez-dataset.json"
+
+      - name: Download GreenIT Analysis CLI
+        uses: actions/checkout@v5
         with:
-          args: http://localhost/ 200 30000 500
+          repository: cnumr/GreenIT-Analysis-cli
+          ref: c4fec990458591d48871d9bd0668d79962d1a9a3
+          path: greenit-cli
+
       - name: Run GreenIT Analysis CLI
+        working-directory: greenit-cli
         run: |
-          greenit analyse --format html --ci /Project/Scenarios/Accessing_a_recipe.yaml
+          npm ci
+          mkdir -p ../ecoindex-report
+          node ./greenit analyse --format html --ci \
+            ../Project/Scenarios/Accessing_a_recipe.yaml \
+            ../ecoindex-report/report.html
+          node -e 'if (!require("../ecoindex-report/json/1.json").success) throw new Error("EcoIndex scenario failed")'
+
       - name: Save results
         uses: actions/upload-artifact@v4
         with:
           name: EcoIndex
-          path: Consulterlesrecettes.html
+          path: ecoindex-report/*.html
+          if-no-files-found: error
